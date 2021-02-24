@@ -1,0 +1,11 @@
+# url = https://en.wiktionary.org/wiki/%E3%81%B4%E3%82%93%E3%81%84%E3%82%93
+# language = Japanese
+1	拼音	_	_	_	_	_	_	_	BIO=O
+2	,	_	_	_	_	_	_	_	BIO=O
+3	ピン音	_	_	_	_	_	_	_	BIO=O
+4	,	_	_	_	_	_	_	_	BIO=O
+5	併音	_	_	_	_	_	_	_	BIO=O
+6	:	_	_	_	_	_	_	_	BIO=O
+7	Pinyin	_	_	_	_	_	_	_	BIO=O
+
+

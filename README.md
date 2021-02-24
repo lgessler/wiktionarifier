@@ -1,5 +1,6 @@
 # Usage
 
 ```python
-python main.py scrape --help
+python main.py scrape
+python main.py format
 ```

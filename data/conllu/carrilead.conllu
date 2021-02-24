@@ -1,0 +1,23 @@
+# url = https://en.wiktionary.org/wiki/carrilead
+# language = Spanish
+1	(	_	_	_	_	_	_	_	BIO=O
+2	Spain	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	Informal	_	_	_	_	_	_	_	BIO=O
+5	second	_	_	_	_	_	_	_	BIO=O
+6	-	_	_	_	_	_	_	_	BIO=O
+7	person	_	_	_	_	_	_	_	BIO=O
+8	plural	_	_	_	_	_	_	_	BIO=O
+9	(	_	_	_	_	_	_	_	BIO=O
+10	vosotros	_	_	_	_	_	_	_	BIO=O
+11	or	_	_	_	_	_	_	_	BIO=O
+12	vosotras	_	_	_	_	_	_	_	BIO=O
+13	)	_	_	_	_	_	_	_	BIO=O
+14	affirmative	_	_	_	_	_	_	_	BIO=O
+15	imperative	_	_	_	_	_	_	_	BIO=O
+16	form	_	_	_	_	_	_	_	BIO=O
+17	of	_	_	_	_	_	_	_	BIO=O
+18	carrilear	_	_	_	_	_	_	_	BIO=O
+19	.	_	_	_	_	_	_	_	BIO=O
+
+

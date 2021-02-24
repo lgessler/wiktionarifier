@@ -1,0 +1,9 @@
+# url = https://en.wiktionary.org/wiki/%E5%8E%9F%E5%85%B8
+# language = Japanese
+1	original	_	_	_	_	_	_	_	BIO=O
+2	text	_	_	_	_	_	_	_	BIO=O
+3	;	_	_	_	_	_	_	_	BIO=O
+4	untranslated	_	_	_	_	_	_	_	BIO=O
+5	text	_	_	_	_	_	_	_	BIO=O
+
+

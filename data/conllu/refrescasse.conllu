@@ -1,0 +1,39 @@
+# url = https://en.wiktionary.org/wiki/refrescasse
+# language = Portuguese
+1	first	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	eu	_	_	_	_	_	_	_	BIO=O
+7	)	_	_	_	_	_	_	_	BIO=O
+8	imperfect	_	_	_	_	_	_	_	BIO=O
+9	subjunctive	_	_	_	_	_	_	_	BIO=O
+10	of	_	_	_	_	_	_	_	BIO=O
+11	refrescar	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/refrescasse
+# language = Portuguese
+1	third	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	ele	_	_	_	_	_	_	_	BIO=O
+7	and	_	_	_	_	_	_	_	BIO=O
+8	ela	_	_	_	_	_	_	_	BIO=O
+9	,	_	_	_	_	_	_	_	BIO=O
+10	also	_	_	_	_	_	_	_	BIO=O
+11	used	_	_	_	_	_	_	_	BIO=O
+12	with	_	_	_	_	_	_	_	BIO=O
+13	você	_	_	_	_	_	_	_	BIO=O
+14	and	_	_	_	_	_	_	_	BIO=O
+15	others	_	_	_	_	_	_	_	BIO=O
+16	)	_	_	_	_	_	_	_	BIO=O
+17	imperfect	_	_	_	_	_	_	_	BIO=O
+18	subjunctive	_	_	_	_	_	_	_	BIO=O
+19	of	_	_	_	_	_	_	_	BIO=O
+20	refrescar	_	_	_	_	_	_	_	BIO=O
+
+

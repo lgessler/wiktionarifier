@@ -1,0 +1,24 @@
+# url = https://en.wiktionary.org/wiki/d%C3%A9br%C3%BBlent
+# language = French
+1	third	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	present	_	_	_	_	_	_	_	BIO=O
+6	indicative	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	débrûler	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/d%C3%A9br%C3%BBlent
+# language = French
+1	third	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	present	_	_	_	_	_	_	_	BIO=O
+6	subjunctive	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	débrûler	_	_	_	_	_	_	_	BIO=O
+
+

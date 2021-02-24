@@ -1,0 +1,18 @@
+# url = https://en.wiktionary.org/wiki/enchinar%C3%ADamos
+# language = Spanish
+1	First	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	nosotros	_	_	_	_	_	_	_	BIO=O
+7	,	_	_	_	_	_	_	_	BIO=O
+8	nosotras	_	_	_	_	_	_	_	BIO=O
+9	)	_	_	_	_	_	_	_	BIO=O
+10	conditional	_	_	_	_	_	_	_	BIO=O
+11	form	_	_	_	_	_	_	_	BIO=O
+12	of	_	_	_	_	_	_	_	BIO=O
+13	enchinar	_	_	_	_	_	_	_	BIO=O
+14	.	_	_	_	_	_	_	_	BIO=O
+
+

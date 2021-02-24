@@ -1,0 +1,25 @@
+# url = https://en.wiktionary.org/wiki/IMP
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	biochemistry	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	Initialism	_	_	_	_	_	_	_	BIO=O
+5	of	_	_	_	_	_	_	_	BIO=O
+6	inosine	_	_	_	_	_	_	_	BIO=O
+7	monophosphate	_	_	_	_	_	_	_	BIO=O
+8	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/IMP
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	biochemistry	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	Initialism	_	_	_	_	_	_	_	BIO=O
+5	of	_	_	_	_	_	_	_	BIO=O
+6	integral	_	_	_	_	_	_	_	BIO=O
+7	membrane	_	_	_	_	_	_	_	BIO=O
+8	protein	_	_	_	_	_	_	_	BIO=O
+9	.	_	_	_	_	_	_	_	BIO=O
+
+

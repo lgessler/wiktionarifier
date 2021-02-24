@@ -1,0 +1,30 @@
+# url = https://en.wiktionary.org/wiki/eroava
+# language = Finnish
+1	differing	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/eroava
+# language = Finnish
+1	(	_	_	_	_	_	_	_	BIO=O
+2	not	_	_	_	_	_	_	_	BIO=O
+3	comparable	_	_	_	_	_	_	_	BIO=O
+4	)	_	_	_	_	_	_	_	BIO=O
+5	outgoing	_	_	_	_	_	_	_	BIO=O
+6	(	_	_	_	_	_	_	_	BIO=O
+7	being	_	_	_	_	_	_	_	BIO=O
+8	replaced	_	_	_	_	_	_	_	BIO=O
+9	in	_	_	_	_	_	_	_	BIO=O
+10	office	_	_	_	_	_	_	_	BIO=O
+11	)	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/eroava
+# language = Finnish
+1	Present	_	_	_	_	_	_	_	BIO=O
+2	active	_	_	_	_	_	_	_	BIO=O
+3	participle	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	erota	_	_	_	_	_	_	_	BIO=O
+6	.	_	_	_	_	_	_	_	BIO=O
+
+

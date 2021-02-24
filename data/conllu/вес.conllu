@@ -1,0 +1,68 @@
+# url = https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81
+# language = Bulgarian
+1	(	_	_	_	_	_	_	_	BIO=O
+2	historical	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	hamlet	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	small	_	_	_	_	_	_	_	BIO=O
+7	settlement	_	_	_	_	_	_	_	BIO=O
+8	,	_	_	_	_	_	_	_	BIO=O
+9	camp	_	_	_	_	_	_	_	BIO=O
+10	)	_	_	_	_	_	_	_	BIO=O
+11	Synonyms	_	_	_	_	_	_	_	BIO=O
+12	:	_	_	_	_	_	_	_	BIO=O
+13	махала́	_	_	_	_	_	_	_	BIO=O
+14	(	_	_	_	_	_	_	_	BIO=O
+15	mahalá	_	_	_	_	_	_	_	BIO=O
+16	)	_	_	_	_	_	_	_	BIO=O
+17	,	_	_	_	_	_	_	_	BIO=O
+18	ви́лна	_	_	_	_	_	_	_	BIO=O
+19	зо́на	_	_	_	_	_	_	_	BIO=O
+20	(	_	_	_	_	_	_	_	BIO=O
+21	vílna	_	_	_	_	_	_	_	BIO=O
+22	zóna	_	_	_	_	_	_	_	BIO=O
+23	)	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81
+# language = Etymology 1
+1	weight	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81
+# language = Etymology 1
+1	influence	_	_	_	_	_	_	_	BIO=O
+2	,	_	_	_	_	_	_	_	BIO=O
+3	authority	_	_	_	_	_	_	_	BIO=O
+4	,	_	_	_	_	_	_	_	BIO=O
+5	importance	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81
+# language = Etymology 2
+1	hanging	_	_	_	_	_	_	_	BIO=O
+2	position	_	_	_	_	_	_	_	BIO=O
+3	,	_	_	_	_	_	_	_	BIO=O
+4	suspended	_	_	_	_	_	_	_	BIO=O
+5	position	_	_	_	_	_	_	_	BIO=O
+6	,	_	_	_	_	_	_	_	BIO=O
+7	balanced	_	_	_	_	_	_	_	BIO=O
+8	position	_	_	_	_	_	_	_	BIO=O
+9	;	_	_	_	_	_	_	_	BIO=O
+10	mostly	_	_	_	_	_	_	_	BIO=O
+11	in	_	_	_	_	_	_	_	BIO=O
+12	the	_	_	_	_	_	_	_	BIO=O
+13	expression	_	_	_	_	_	_	_	BIO=O
+14	на	_	_	_	_	_	_	_	BIO=O
+15	весу́	_	_	_	_	_	_	_	BIO=O
+16	(	_	_	_	_	_	_	_	BIO=O
+17	na	_	_	_	_	_	_	_	BIO=O
+18	vesú	_	_	_	_	_	_	_	BIO=O
+19	,	_	_	_	_	_	_	_	BIO=O
+20	“	_	_	_	_	_	_	_	BIO=O
+21	suspended	_	_	_	_	_	_	_	BIO=O
+22	”	_	_	_	_	_	_	_	BIO=O
+23	)	_	_	_	_	_	_	_	BIO=O
+
+

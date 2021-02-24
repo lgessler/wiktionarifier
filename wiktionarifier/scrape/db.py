@@ -17,6 +17,7 @@ class MWText(BaseModel):
     url = pw.CharField(unique=True)
     rev_id = pw.IntegerField()
     text = pw.CharField()
+    html = pw.CharField()
     title = pw.CharField()
     file_safe_url = pw.CharField()
     scraped_at = pw.DateTimeField(default=datetime.datetime.now)

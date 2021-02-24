@@ -1,0 +1,11 @@
+# url = https://en.wiktionary.org/wiki/%E9%8C%84%E5%B1%8F
+# language = Chinese
+1	to	_	_	_	_	_	_	_	BIO=O
+2	record	_	_	_	_	_	_	_	BIO=O
+3	a	_	_	_	_	_	_	_	BIO=O
+4	screen	_	_	_	_	_	_	_	BIO=O
+5	;	_	_	_	_	_	_	_	BIO=O
+6	to	_	_	_	_	_	_	_	BIO=O
+7	screencast	_	_	_	_	_	_	_	BIO=O
+
+

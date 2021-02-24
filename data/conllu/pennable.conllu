@@ -1,0 +1,9 @@
+# url = https://en.wiktionary.org/wiki/pennable
+# language = English
+1	Able	_	_	_	_	_	_	_	BIO=O
+2	to	_	_	_	_	_	_	_	BIO=O
+3	be	_	_	_	_	_	_	_	BIO=O
+4	penned	_	_	_	_	_	_	_	BIO=O
+5	.	_	_	_	_	_	_	_	BIO=O
+
+

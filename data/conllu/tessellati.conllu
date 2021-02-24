@@ -1,0 +1,36 @@
+# url = https://en.wiktionary.org/wiki/tessellati
+# language = Latin
+1	nominative	_	_	_	_	_	_	_	BIO=O
+2	masculine	_	_	_	_	_	_	_	BIO=O
+3	plural	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	tessellātus	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/tessellati
+# language = Latin
+1	genitive	_	_	_	_	_	_	_	BIO=O
+2	masculine	_	_	_	_	_	_	_	BIO=O
+3	singular	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	tessellātus	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/tessellati
+# language = Latin
+1	genitive	_	_	_	_	_	_	_	BIO=O
+2	neuter	_	_	_	_	_	_	_	BIO=O
+3	singular	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	tessellātus	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/tessellati
+# language = Latin
+1	vocative	_	_	_	_	_	_	_	BIO=O
+2	masculine	_	_	_	_	_	_	_	BIO=O
+3	plural	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	tessellātus	_	_	_	_	_	_	_	BIO=O
+
+

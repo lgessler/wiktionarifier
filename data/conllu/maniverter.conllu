@@ -1,0 +1,20 @@
+# url = https://en.wiktionary.org/wiki/maniverter
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	automotive	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	A	_	_	_	_	_	_	_	BIO=O
+5	component	_	_	_	_	_	_	_	BIO=O
+6	that	_	_	_	_	_	_	_	BIO=O
+7	integrates	_	_	_	_	_	_	_	BIO=O
+8	the	_	_	_	_	_	_	_	BIO=O
+9	functions	_	_	_	_	_	_	_	BIO=O
+10	of	_	_	_	_	_	_	_	BIO=O
+11	exhaust	_	_	_	_	_	_	_	BIO=O
+12	manifold	_	_	_	_	_	_	_	BIO=O
+13	and	_	_	_	_	_	_	_	BIO=O
+14	catalytic	_	_	_	_	_	_	_	BIO=O
+15	converter	_	_	_	_	_	_	_	BIO=O
+16	.	_	_	_	_	_	_	_	BIO=O
+
+

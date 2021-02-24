@@ -1,0 +1,42 @@
+# url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
+# language = Lithuanian
+1	feminine	_	_	_	_	_	_	_	BIO=O
+2	singular	_	_	_	_	_	_	_	BIO=O
+3	nominative	_	_	_	_	_	_	_	BIO=O
+4	form	_	_	_	_	_	_	_	BIO=O
+5	of	_	_	_	_	_	_	_	BIO=O
+6	armėniškas	_	_	_	_	_	_	_	BIO=O
+7	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
+# language = Lithuanian
+1	feminine	_	_	_	_	_	_	_	BIO=O
+2	singular	_	_	_	_	_	_	_	BIO=O
+3	instrumental	_	_	_	_	_	_	_	BIO=O
+4	form	_	_	_	_	_	_	_	BIO=O
+5	of	_	_	_	_	_	_	_	BIO=O
+6	armėniškas	_	_	_	_	_	_	_	BIO=O
+7	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
+# language = Lithuanian
+1	feminine	_	_	_	_	_	_	_	BIO=O
+2	singular	_	_	_	_	_	_	_	BIO=O
+3	vocative	_	_	_	_	_	_	_	BIO=O
+4	form	_	_	_	_	_	_	_	BIO=O
+5	of	_	_	_	_	_	_	_	BIO=O
+6	armėniškas	_	_	_	_	_	_	_	BIO=O
+7	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
+# language = Lithuanian
+1	neuter	_	_	_	_	_	_	_	BIO=O
+2	form	_	_	_	_	_	_	_	BIO=O
+3	of	_	_	_	_	_	_	_	BIO=O
+4	armėniškas	_	_	_	_	_	_	_	BIO=O
+5	.	_	_	_	_	_	_	_	BIO=O
+
+

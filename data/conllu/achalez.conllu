@@ -1,0 +1,23 @@
+# url = https://en.wiktionary.org/wiki/achalez
+# language = French
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	present	_	_	_	_	_	_	_	BIO=O
+6	indicative	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	achaler	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/achalez
+# language = French
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	imperative	_	_	_	_	_	_	_	BIO=O
+6	of	_	_	_	_	_	_	_	BIO=O
+7	achaler	_	_	_	_	_	_	_	BIO=O
+
+

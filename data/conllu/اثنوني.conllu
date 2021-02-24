@@ -1,0 +1,16 @@
+# url = https://en.wiktionary.org/wiki/%D8%A7%D8%AB%D9%86%D9%88%D9%86%D9%8A
+# language = Arabic
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	feminine	_	_	_	_	_	_	_	BIO=O
+5	singular	_	_	_	_	_	_	_	BIO=O
+6	active	_	_	_	_	_	_	_	BIO=O
+7	imperative	_	_	_	_	_	_	_	BIO=O
+8	of	_	_	_	_	_	_	_	BIO=O
+9	اِثْنَوْنَى‎	_	_	_	_	_	_	_	BIO=O
+10	(	_	_	_	_	_	_	_	BIO=O
+11	iṯnawnā	_	_	_	_	_	_	_	BIO=O
+12	)	_	_	_	_	_	_	_	BIO=O
+
+

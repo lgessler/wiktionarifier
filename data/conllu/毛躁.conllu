@@ -1,0 +1,16 @@
+# url = https://en.wiktionary.org/wiki/%E6%AF%9B%E8%BA%81
+# language = Chinese
+1	short	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	tempered	_	_	_	_	_	_	_	BIO=O
+4	;	_	_	_	_	_	_	_	BIO=O
+5	irritable	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E6%AF%9B%E8%BA%81
+# language = Chinese
+1	rash	_	_	_	_	_	_	_	BIO=O
+2	and	_	_	_	_	_	_	_	BIO=O
+3	careless	_	_	_	_	_	_	_	BIO=O
+
+

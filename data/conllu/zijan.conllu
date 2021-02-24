@@ -1,0 +1,15 @@
+# url = https://en.wiktionary.org/wiki/zijan
+# language = Serbo-Croatian
+1	loss	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/zijan
+# language = Serbo-Croatian
+1	damage	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/zijan
+# language = Serbo-Croatian
+1	mischief	_	_	_	_	_	_	_	BIO=O
+
+

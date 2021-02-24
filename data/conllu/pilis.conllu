@@ -1,0 +1,58 @@
+# url = https://en.wiktionary.org/wiki/pilis
+# language = English
+1	plural	_	_	_	_	_	_	_	BIO=O
+2	of	_	_	_	_	_	_	_	BIO=O
+3	pili	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Friulian
+1	plural	_	_	_	_	_	_	_	BIO=O
+2	of	_	_	_	_	_	_	_	BIO=O
+3	pile	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Latvian
+1	nominative	_	_	_	_	_	_	_	BIO=O
+2	plural	_	_	_	_	_	_	_	BIO=O
+3	form	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	pils	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Latvian
+1	vocative	_	_	_	_	_	_	_	BIO=O
+2	plural	_	_	_	_	_	_	_	BIO=O
+3	form	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	pils	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Latvian
+1	accusative	_	_	_	_	_	_	_	BIO=O
+2	plural	_	_	_	_	_	_	_	BIO=O
+3	form	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	pils	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Lithuanian
+1	castle	_	_	_	_	_	_	_	BIO=O
+2	,	_	_	_	_	_	_	_	BIO=O
+3	stronghold	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Lithuanian
+1	palace	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/pilis
+# language = Yapese
+1	dog	_	_	_	_	_	_	_	BIO=O
+
+

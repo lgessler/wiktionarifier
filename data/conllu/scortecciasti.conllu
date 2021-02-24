@@ -1,0 +1,12 @@
+# url = https://en.wiktionary.org/wiki/scortecciasti
+# language = Italian
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	past	_	_	_	_	_	_	_	BIO=O
+6	historic	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	scortecciare	_	_	_	_	_	_	_	BIO=O
+
+

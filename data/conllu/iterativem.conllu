@@ -1,0 +1,12 @@
+# url = https://en.wiktionary.org/wiki/iterativem
+# language = German
+1	strong	_	_	_	_	_	_	_	BIO=O
+2	dative	_	_	_	_	_	_	_	BIO=O
+3	masculine	_	_	_	_	_	_	_	BIO=O
+4	/	_	_	_	_	_	_	_	BIO=O
+5	neuter	_	_	_	_	_	_	_	BIO=O
+6	singular	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	iterativ	_	_	_	_	_	_	_	BIO=O
+
+

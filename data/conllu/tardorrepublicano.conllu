@@ -1,0 +1,14 @@
+# url = https://en.wiktionary.org/wiki/tardorrepublicano
+# language = Spanish
+1	late	_	_	_	_	_	_	_	BIO=O
+2	republican	_	_	_	_	_	_	_	BIO=O
+3	(	_	_	_	_	_	_	_	BIO=O
+4	relating	_	_	_	_	_	_	_	BIO=O
+5	to	_	_	_	_	_	_	_	BIO=O
+6	the	_	_	_	_	_	_	_	BIO=O
+7	late	_	_	_	_	_	_	_	BIO=O
+8	Roman	_	_	_	_	_	_	_	BIO=O
+9	Republic	_	_	_	_	_	_	_	BIO=O
+10	)	_	_	_	_	_	_	_	BIO=O
+
+

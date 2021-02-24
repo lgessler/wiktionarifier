@@ -1,0 +1,33 @@
+# url = https://en.wiktionary.org/wiki/nacionalizaras
+# language = Portuguese
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	tu	_	_	_	_	_	_	_	BIO=O
+7	)	_	_	_	_	_	_	_	BIO=O
+8	pluperfect	_	_	_	_	_	_	_	BIO=O
+9	indicative	_	_	_	_	_	_	_	BIO=O
+10	of	_	_	_	_	_	_	_	BIO=O
+11	nacionalizar	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/nacionalizaras
+# language = Spanish
+1	Informal	_	_	_	_	_	_	_	BIO=O
+2	second	_	_	_	_	_	_	_	BIO=O
+3	-	_	_	_	_	_	_	_	BIO=O
+4	person	_	_	_	_	_	_	_	BIO=O
+5	singular	_	_	_	_	_	_	_	BIO=O
+6	(	_	_	_	_	_	_	_	BIO=O
+7	tú	_	_	_	_	_	_	_	BIO=O
+8	)	_	_	_	_	_	_	_	BIO=O
+9	imperfect	_	_	_	_	_	_	_	BIO=O
+10	subjunctive	_	_	_	_	_	_	_	BIO=O
+11	form	_	_	_	_	_	_	_	BIO=O
+12	of	_	_	_	_	_	_	_	BIO=O
+13	nacionalizar	_	_	_	_	_	_	_	BIO=O
+14	.	_	_	_	_	_	_	_	BIO=O
+
+

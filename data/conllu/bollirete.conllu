@@ -1,0 +1,11 @@
+# url = https://en.wiktionary.org/wiki/bollirete
+# language = Italian
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	future	_	_	_	_	_	_	_	BIO=O
+6	of	_	_	_	_	_	_	_	BIO=O
+7	bollire	_	_	_	_	_	_	_	BIO=O
+
+

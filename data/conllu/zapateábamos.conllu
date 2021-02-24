@@ -1,0 +1,19 @@
+# url = https://en.wiktionary.org/wiki/zapate%C3%A1bamos
+# language = Spanish
+1	First	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	nosotros	_	_	_	_	_	_	_	BIO=O
+7	,	_	_	_	_	_	_	_	BIO=O
+8	nosotras	_	_	_	_	_	_	_	BIO=O
+9	)	_	_	_	_	_	_	_	BIO=O
+10	imperfect	_	_	_	_	_	_	_	BIO=O
+11	indicative	_	_	_	_	_	_	_	BIO=O
+12	form	_	_	_	_	_	_	_	BIO=O
+13	of	_	_	_	_	_	_	_	BIO=O
+14	zapatear	_	_	_	_	_	_	_	BIO=O
+15	.	_	_	_	_	_	_	_	BIO=O
+
+

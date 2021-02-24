@@ -1,0 +1,16 @@
+# url = https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%BE%D1%85%D0%BE%D1%87%D1%83
+# language = Russian
+1	first	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	present	_	_	_	_	_	_	_	BIO=O
+6	indicative	_	_	_	_	_	_	_	BIO=O
+7	imperfective	_	_	_	_	_	_	_	BIO=O
+8	of	_	_	_	_	_	_	_	BIO=O
+9	грохота́ть	_	_	_	_	_	_	_	BIO=O
+10	(	_	_	_	_	_	_	_	BIO=O
+11	groxotátʹ	_	_	_	_	_	_	_	BIO=O
+12	)	_	_	_	_	_	_	_	BIO=O
+
+

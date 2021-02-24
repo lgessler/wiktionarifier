@@ -1,0 +1,20 @@
+# url = https://en.wiktionary.org/wiki/scheucht_auf
+# language = German
+1	inflection	_	_	_	_	_	_	_	BIO=O
+2	of	_	_	_	_	_	_	_	BIO=O
+3	aufscheuchen	_	_	_	_	_	_	_	BIO=O
+4	:	_	_	_	_	_	_	_	BIO=O
+5	third	_	_	_	_	_	_	_	BIO=O
+6	-	_	_	_	_	_	_	_	BIO=O
+7	person	_	_	_	_	_	_	_	BIO=O
+8	singular	_	_	_	_	_	_	_	BIO=O
+9	present	_	_	_	_	_	_	_	BIO=O
+10	second	_	_	_	_	_	_	_	BIO=O
+11	-	_	_	_	_	_	_	_	BIO=O
+12	person	_	_	_	_	_	_	_	BIO=O
+13	plural	_	_	_	_	_	_	_	BIO=O
+14	present	_	_	_	_	_	_	_	BIO=O
+15	plural	_	_	_	_	_	_	_	BIO=O
+16	imperative	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,0 +1,29 @@
+# url = https://en.wiktionary.org/wiki/tesseramento
+# language = Italian
+1	The	_	_	_	_	_	_	_	BIO=O
+2	act	_	_	_	_	_	_	_	BIO=O
+3	of	_	_	_	_	_	_	_	BIO=O
+4	joining	_	_	_	_	_	_	_	BIO=O
+5	or	_	_	_	_	_	_	_	BIO=O
+6	being	_	_	_	_	_	_	_	BIO=O
+7	signed	_	_	_	_	_	_	_	BIO=O
+8	-	_	_	_	_	_	_	_	BIO=O
+9	up	_	_	_	_	_	_	_	BIO=O
+10	for	_	_	_	_	_	_	_	BIO=O
+11	a	_	_	_	_	_	_	_	BIO=O
+12	club	_	_	_	_	_	_	_	BIO=O
+13	or	_	_	_	_	_	_	_	BIO=O
+14	society	_	_	_	_	_	_	_	BIO=O
+15	;	_	_	_	_	_	_	_	BIO=O
+16	registration	_	_	_	_	_	_	_	BIO=O
+17	or	_	_	_	_	_	_	_	BIO=O
+18	enrolment	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/tesseramento
+# language = Italian
+1	A	_	_	_	_	_	_	_	BIO=O
+2	membership	_	_	_	_	_	_	_	BIO=O
+3	drive	_	_	_	_	_	_	_	BIO=O
+
+

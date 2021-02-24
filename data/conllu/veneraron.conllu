@@ -1,0 +1,45 @@
+# url = https://en.wiktionary.org/wiki/veneraron
+# language = Spanish
+1	Third	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	ellos	_	_	_	_	_	_	_	BIO=O
+7	,	_	_	_	_	_	_	_	BIO=O
+8	ellas	_	_	_	_	_	_	_	BIO=O
+9	,	_	_	_	_	_	_	_	BIO=O
+10	also	_	_	_	_	_	_	_	BIO=O
+11	used	_	_	_	_	_	_	_	BIO=O
+12	with	_	_	_	_	_	_	_	BIO=O
+13	ustedes	_	_	_	_	_	_	_	BIO=O
+14	?	_	_	_	_	_	_	_	BIO=O
+15	)	_	_	_	_	_	_	_	BIO=O
+16	preterite	_	_	_	_	_	_	_	BIO=O
+17	indicative	_	_	_	_	_	_	_	BIO=O
+18	form	_	_	_	_	_	_	_	BIO=O
+19	of	_	_	_	_	_	_	_	BIO=O
+20	venerar	_	_	_	_	_	_	_	BIO=O
+21	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/veneraron
+# language = Spanish
+1	(	_	_	_	_	_	_	_	BIO=O
+2	used	_	_	_	_	_	_	_	BIO=O
+3	formally	_	_	_	_	_	_	_	BIO=O
+4	in	_	_	_	_	_	_	_	BIO=O
+5	Spain	_	_	_	_	_	_	_	BIO=O
+6	)	_	_	_	_	_	_	_	BIO=O
+7	Second	_	_	_	_	_	_	_	BIO=O
+8	-	_	_	_	_	_	_	_	BIO=O
+9	person	_	_	_	_	_	_	_	BIO=O
+10	plural	_	_	_	_	_	_	_	BIO=O
+11	preterite	_	_	_	_	_	_	_	BIO=O
+12	indicative	_	_	_	_	_	_	_	BIO=O
+13	form	_	_	_	_	_	_	_	BIO=O
+14	of	_	_	_	_	_	_	_	BIO=O
+15	venerar	_	_	_	_	_	_	_	BIO=O
+16	.	_	_	_	_	_	_	_	BIO=O
+
+

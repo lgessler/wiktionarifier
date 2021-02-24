@@ -1,0 +1,44 @@
+# url = https://en.wiktionary.org/wiki/bakterio
+# language = Esperanto
+1	bacterium	_	_	_	_	_	_	_	BIO=O
+2	Hyponym	_	_	_	_	_	_	_	BIO=O
+3	:	_	_	_	_	_	_	_	BIO=O
+4	bacilo	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/bakterio
+# language = Ido
+1	bacterium	_	_	_	_	_	_	_	BIO=O
+2	(	_	_	_	_	_	_	_	BIO=O
+3	monocellular	_	_	_	_	_	_	_	BIO=O
+4	organism	_	_	_	_	_	_	_	BIO=O
+5	without	_	_	_	_	_	_	_	BIO=O
+6	nucleus	_	_	_	_	_	_	_	BIO=O
+7	and	_	_	_	_	_	_	_	BIO=O
+8	organelles	_	_	_	_	_	_	_	BIO=O
+9	)	_	_	_	_	_	_	_	BIO=O
+10	Ma	_	_	_	_	_	_	_	BIO=O
+11	ta	_	_	_	_	_	_	_	BIO=O
+12	bakterii	_	_	_	_	_	_	_	BIO=O
+13	ne	_	_	_	_	_	_	_	BIO=O
+14	esas	_	_	_	_	_	_	_	BIO=O
+15	nociva	_	_	_	_	_	_	_	BIO=O
+16	.	_	_	_	_	_	_	_	BIO=O
+17	―	_	_	_	_	_	_	_	BIO=O
+18	But	_	_	_	_	_	_	_	BIO=O
+19	those	_	_	_	_	_	_	_	BIO=O
+20	bacteria	_	_	_	_	_	_	_	BIO=O
+21	are	_	_	_	_	_	_	_	BIO=O
+22	not	_	_	_	_	_	_	_	BIO=O
+23	harmful	_	_	_	_	_	_	_	BIO=O
+24	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/bakterio
+# language = Polish
+1	vocative	_	_	_	_	_	_	_	BIO=O
+2	singular	_	_	_	_	_	_	_	BIO=O
+3	of	_	_	_	_	_	_	_	BIO=O
+4	bakteria	_	_	_	_	_	_	_	BIO=O
+
+

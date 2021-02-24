@@ -1,0 +1,14 @@
+# url = https://en.wiktionary.org/wiki/seitdem
+# language = German
+1	since	_	_	_	_	_	_	_	BIO=O
+2	,	_	_	_	_	_	_	_	BIO=O
+3	ever	_	_	_	_	_	_	_	BIO=O
+4	since	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/seitdem
+# language = German
+1	since	_	_	_	_	_	_	_	BIO=O
+2	that	_	_	_	_	_	_	_	BIO=O
+
+

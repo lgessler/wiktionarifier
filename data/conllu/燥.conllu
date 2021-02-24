@@ -1,0 +1,81 @@
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Japanese
+1	parch	_	_	_	_	_	_	_	BIO=O
+2	;	_	_	_	_	_	_	_	BIO=O
+3	dry	_	_	_	_	_	_	_	BIO=O
+4	up	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Korean
+1	(	_	_	_	_	_	_	_	BIO=O
+2	마를	_	_	_	_	_	_	_	BIO=O
+3	조	_	_	_	_	_	_	_	BIO=O
+4	,	_	_	_	_	_	_	_	BIO=O
+5	mareul	_	_	_	_	_	_	_	BIO=O
+6	):	_	_	_	_	_	_	_	BIO=O
+7	to	_	_	_	_	_	_	_	BIO=O
+8	be	_	_	_	_	_	_	_	BIO=O
+9	dry	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Translingual
+1	KangXi	_	_	_	_	_	_	_	BIO=O
+2	:	_	_	_	_	_	_	_	BIO=O
+3	page	_	_	_	_	_	_	_	BIO=O
+4	684	_	_	_	_	_	_	_	BIO=O
+5	,	_	_	_	_	_	_	_	BIO=O
+6	character	_	_	_	_	_	_	_	BIO=O
+7	29	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Translingual
+1	Dai	_	_	_	_	_	_	_	BIO=O
+2	Kanwa	_	_	_	_	_	_	_	BIO=O
+3	Jiten	_	_	_	_	_	_	_	BIO=O
+4	:	_	_	_	_	_	_	_	BIO=O
+5	character	_	_	_	_	_	_	_	BIO=O
+6	19467	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Translingual
+1	Dae	_	_	_	_	_	_	_	BIO=O
+2	Jaweon	_	_	_	_	_	_	_	BIO=O
+3	:	_	_	_	_	_	_	_	BIO=O
+4	page	_	_	_	_	_	_	_	BIO=O
+5	1097	_	_	_	_	_	_	_	BIO=O
+6	,	_	_	_	_	_	_	_	BIO=O
+7	character	_	_	_	_	_	_	_	BIO=O
+8	6	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Translingual
+1	Hanyu	_	_	_	_	_	_	_	BIO=O
+2	Da	_	_	_	_	_	_	_	BIO=O
+3	Zidian	_	_	_	_	_	_	_	BIO=O
+4	(	_	_	_	_	_	_	_	BIO=O
+5	first	_	_	_	_	_	_	_	BIO=O
+6	edition	_	_	_	_	_	_	_	BIO=O
+7	):	_	_	_	_	_	_	_	BIO=O
+8	volume	_	_	_	_	_	_	_	BIO=O
+9	3	_	_	_	_	_	_	_	BIO=O
+10	,	_	_	_	_	_	_	_	BIO=O
+11	page	_	_	_	_	_	_	_	BIO=O
+12	2240	_	_	_	_	_	_	_	BIO=O
+13	,	_	_	_	_	_	_	_	BIO=O
+14	character	_	_	_	_	_	_	_	BIO=O
+15	19	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E7%87%A5
+# language = Translingual
+1	Unihan	_	_	_	_	_	_	_	BIO=O
+2	data	_	_	_	_	_	_	_	BIO=O
+3	for	_	_	_	_	_	_	_	BIO=O
+4	U+71E5	_	_	_	_	_	_	_	BIO=O
+
+

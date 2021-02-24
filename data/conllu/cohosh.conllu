@@ -1,0 +1,39 @@
+# url = https://en.wiktionary.org/wiki/cohosh
+# language = English
+1	A	_	_	_	_	_	_	_	BIO=O
+2	perennial	_	_	_	_	_	_	_	BIO=O
+3	American	_	_	_	_	_	_	_	BIO=O
+4	herb	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	Caulophyllum	_	_	_	_	_	_	_	BIO=O
+7	thalictroides	_	_	_	_	_	_	_	BIO=O
+8	)	_	_	_	_	_	_	_	BIO=O
+9	,	_	_	_	_	_	_	_	BIO=O
+10	the	_	_	_	_	_	_	_	BIO=O
+11	rough	_	_	_	_	_	_	_	BIO=O
+12	rootstock	_	_	_	_	_	_	_	BIO=O
+13	of	_	_	_	_	_	_	_	BIO=O
+14	which	_	_	_	_	_	_	_	BIO=O
+15	is	_	_	_	_	_	_	_	BIO=O
+16	used	_	_	_	_	_	_	_	BIO=O
+17	in	_	_	_	_	_	_	_	BIO=O
+18	medicine	_	_	_	_	_	_	_	BIO=O
+19	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/cohosh
+# language = English
+1	A	_	_	_	_	_	_	_	BIO=O
+2	smooth	_	_	_	_	_	_	_	BIO=O
+3	herb	_	_	_	_	_	_	_	BIO=O
+4	,	_	_	_	_	_	_	_	BIO=O
+5	Actaea	_	_	_	_	_	_	_	BIO=O
+6	racemosa	_	_	_	_	_	_	_	BIO=O
+7	,	_	_	_	_	_	_	_	BIO=O
+8	marketed	_	_	_	_	_	_	_	BIO=O
+9	for	_	_	_	_	_	_	_	BIO=O
+10	medicinal	_	_	_	_	_	_	_	BIO=O
+11	use	_	_	_	_	_	_	_	BIO=O
+12	.	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,0 +1,11 @@
+# url = https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80%D0%BE%D0%BC
+# language = Russian
+1	instrumental	_	_	_	_	_	_	_	BIO=O
+2	singular	_	_	_	_	_	_	_	BIO=O
+3	of	_	_	_	_	_	_	_	BIO=O
+4	та́ймер	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	tájmer	_	_	_	_	_	_	_	BIO=O
+7	)	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,0 +1,86 @@
+# url = https://en.wiktionary.org/wiki/hocke
+# language = Alemannic German
+1	to	_	_	_	_	_	_	_	BIO=O
+2	sit	_	_	_	_	_	_	_	BIO=O
+3	1902	_	_	_	_	_	_	_	BIO=O
+4	,	_	_	_	_	_	_	_	BIO=O
+5	Robert	_	_	_	_	_	_	_	BIO=O
+6	Walser	_	_	_	_	_	_	_	BIO=O
+7	,	_	_	_	_	_	_	_	BIO=O
+8	Der	_	_	_	_	_	_	_	BIO=O
+9	Teich	_	_	_	_	_	_	_	BIO=O
+10	:	_	_	_	_	_	_	_	BIO=O
+11	Immer	_	_	_	_	_	_	_	BIO=O
+12	i	_	_	_	_	_	_	_	BIO=O
+13	der	_	_	_	_	_	_	_	BIO=O
+14	Chammere	_	_	_	_	_	_	_	BIO=O
+15	hocke	_	_	_	_	_	_	_	BIO=O
+16	,	_	_	_	_	_	_	_	BIO=O
+17	chani	_	_	_	_	_	_	_	BIO=O
+18	au	_	_	_	_	_	_	_	BIO=O
+19	nit	_	_	_	_	_	_	_	BIO=O
+20	.	_	_	_	_	_	_	_	BIO=O
+21	You	_	_	_	_	_	_	_	BIO=O
+22	ca	_	_	_	_	_	_	_	BIO=O
+23	n't	_	_	_	_	_	_	_	BIO=O
+24	always	_	_	_	_	_	_	_	BIO=O
+25	sit	_	_	_	_	_	_	_	BIO=O
+26	around	_	_	_	_	_	_	_	BIO=O
+27	in	_	_	_	_	_	_	_	BIO=O
+28	your	_	_	_	_	_	_	_	BIO=O
+29	room	_	_	_	_	_	_	_	BIO=O
+30	either	_	_	_	_	_	_	_	BIO=O
+31	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/hocke
+# language = German
+1	inflection	_	_	_	_	_	_	_	BIO=O
+2	of	_	_	_	_	_	_	_	BIO=O
+3	hocken	_	_	_	_	_	_	_	BIO=O
+4	:	_	_	_	_	_	_	_	BIO=O
+5	first	_	_	_	_	_	_	_	BIO=O
+6	-	_	_	_	_	_	_	_	BIO=O
+7	person	_	_	_	_	_	_	_	BIO=O
+8	singular	_	_	_	_	_	_	_	BIO=O
+9	present	_	_	_	_	_	_	_	BIO=O
+10	singular	_	_	_	_	_	_	_	BIO=O
+11	imperative	_	_	_	_	_	_	_	BIO=O
+12	first	_	_	_	_	_	_	_	BIO=O
+13	/	_	_	_	_	_	_	_	BIO=O
+14	third	_	_	_	_	_	_	_	BIO=O
+15	-	_	_	_	_	_	_	_	BIO=O
+16	person	_	_	_	_	_	_	_	BIO=O
+17	singular	_	_	_	_	_	_	_	BIO=O
+18	subjunctive	_	_	_	_	_	_	_	BIO=O
+19	I	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/hocke
+# language = Pennsylvania German
+1	to	_	_	_	_	_	_	_	BIO=O
+2	sit	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/hocke
+# language = Pennsylvania German
+1	to	_	_	_	_	_	_	_	BIO=O
+2	squat	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/hocke
+# language = Pennsylvania German
+1	to	_	_	_	_	_	_	_	BIO=O
+2	seat	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/hocke
+# language = Pennsylvania German
+1	(	_	_	_	_	_	_	_	BIO=O
+2	reflexive	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	to	_	_	_	_	_	_	_	BIO=O
+5	sit	_	_	_	_	_	_	_	BIO=O
+6	down	_	_	_	_	_	_	_	BIO=O
+
+

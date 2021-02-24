@@ -1,0 +1,10 @@
+# url = https://en.wiktionary.org/wiki/locatorio
+# language = Italian
+1	tenant	_	_	_	_	_	_	_	BIO=O
+2	,	_	_	_	_	_	_	_	BIO=O
+3	lessee	_	_	_	_	_	_	_	BIO=O
+4	(	_	_	_	_	_	_	_	BIO=O
+5	attributive	_	_	_	_	_	_	_	BIO=O
+6	)	_	_	_	_	_	_	_	BIO=O
+
+

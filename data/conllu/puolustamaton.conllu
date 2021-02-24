@@ -1,0 +1,18 @@
+# url = https://en.wiktionary.org/wiki/puolustamaton
+# language = Finnish
+1	defenseless	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/puolustamaton
+# language = Finnish
+1	indefensible	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/puolustamaton
+# language = Finnish
+1	negative	_	_	_	_	_	_	_	BIO=O
+2	participle	_	_	_	_	_	_	_	BIO=O
+3	of	_	_	_	_	_	_	_	BIO=O
+4	puolustaa	_	_	_	_	_	_	_	BIO=O
+
+

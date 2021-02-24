@@ -1,0 +1,33 @@
+# url = https://en.wiktionary.org/wiki/oligotrophe
+# language = German
+1	inflection	_	_	_	_	_	_	_	BIO=O
+2	of	_	_	_	_	_	_	_	BIO=O
+3	oligotroph	_	_	_	_	_	_	_	BIO=O
+4	:	_	_	_	_	_	_	_	BIO=O
+5	strong	_	_	_	_	_	_	_	BIO=O
+6	/	_	_	_	_	_	_	_	BIO=O
+7	mixed	_	_	_	_	_	_	_	BIO=O
+8	nominative	_	_	_	_	_	_	_	BIO=O
+9	/	_	_	_	_	_	_	_	BIO=O
+10	accusative	_	_	_	_	_	_	_	BIO=O
+11	feminine	_	_	_	_	_	_	_	BIO=O
+12	singular	_	_	_	_	_	_	_	BIO=O
+13	strong	_	_	_	_	_	_	_	BIO=O
+14	nominative	_	_	_	_	_	_	_	BIO=O
+15	/	_	_	_	_	_	_	_	BIO=O
+16	accusative	_	_	_	_	_	_	_	BIO=O
+17	plural	_	_	_	_	_	_	_	BIO=O
+18	weak	_	_	_	_	_	_	_	BIO=O
+19	nominative	_	_	_	_	_	_	_	BIO=O
+20	all	_	_	_	_	_	_	_	BIO=O
+21	-	_	_	_	_	_	_	_	BIO=O
+22	gender	_	_	_	_	_	_	_	BIO=O
+23	singular	_	_	_	_	_	_	_	BIO=O
+24	weak	_	_	_	_	_	_	_	BIO=O
+25	accusative	_	_	_	_	_	_	_	BIO=O
+26	feminine	_	_	_	_	_	_	_	BIO=O
+27	/	_	_	_	_	_	_	_	BIO=O
+28	neuter	_	_	_	_	_	_	_	BIO=O
+29	singular	_	_	_	_	_	_	_	BIO=O
+
+

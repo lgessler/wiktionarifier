@@ -1,0 +1,19 @@
+# url = https://en.wiktionary.org/wiki/bevollm%C3%A4chtigtet
+# language = German
+1	inflection	_	_	_	_	_	_	_	BIO=O
+2	of	_	_	_	_	_	_	_	BIO=O
+3	bevollmächtigen	_	_	_	_	_	_	_	BIO=O
+4	:	_	_	_	_	_	_	_	BIO=O
+5	second	_	_	_	_	_	_	_	BIO=O
+6	-	_	_	_	_	_	_	_	BIO=O
+7	person	_	_	_	_	_	_	_	BIO=O
+8	plural	_	_	_	_	_	_	_	BIO=O
+9	preterite	_	_	_	_	_	_	_	BIO=O
+10	second	_	_	_	_	_	_	_	BIO=O
+11	-	_	_	_	_	_	_	_	BIO=O
+12	person	_	_	_	_	_	_	_	BIO=O
+13	plural	_	_	_	_	_	_	_	BIO=O
+14	subjunctive	_	_	_	_	_	_	_	BIO=O
+15	II	_	_	_	_	_	_	_	BIO=O
+
+

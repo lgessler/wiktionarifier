@@ -1,0 +1,38 @@
+# url = https://en.wiktionary.org/wiki/fr%C3%B6ken
+# language = Swedish
+1	(	_	_	_	_	_	_	_	BIO=O
+2	archaic	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	miss	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	title	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	respect	_	_	_	_	_	_	_	BIO=O
+9	for	_	_	_	_	_	_	_	BIO=O
+10	a	_	_	_	_	_	_	_	BIO=O
+11	young	_	_	_	_	_	_	_	BIO=O
+12	,	_	_	_	_	_	_	_	BIO=O
+13	unmarried	_	_	_	_	_	_	_	BIO=O
+14	,	_	_	_	_	_	_	_	BIO=O
+15	woman	_	_	_	_	_	_	_	BIO=O
+16	)	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/fr%C3%B6ken
+# language = Swedish
+1	female	_	_	_	_	_	_	_	BIO=O
+2	teacher	_	_	_	_	_	_	_	BIO=O
+3	(	_	_	_	_	_	_	_	BIO=O
+4	somewhat	_	_	_	_	_	_	_	BIO=O
+5	dated	_	_	_	_	_	_	_	BIO=O
+6	,	_	_	_	_	_	_	_	BIO=O
+7	informal	_	_	_	_	_	_	_	BIO=O
+8	)	_	_	_	_	_	_	_	BIO=O
+9	female	_	_	_	_	_	_	_	BIO=O
+10	teacher	_	_	_	_	_	_	_	BIO=O
+11	for	_	_	_	_	_	_	_	BIO=O
+12	the	_	_	_	_	_	_	_	BIO=O
+13	youngest	_	_	_	_	_	_	_	BIO=O
+14	children	_	_	_	_	_	_	_	BIO=O
+
+

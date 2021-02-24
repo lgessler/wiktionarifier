@@ -1,0 +1,36 @@
+# url = https://en.wiktionary.org/wiki/initiatum
+# language = Latin
+1	nominative	_	_	_	_	_	_	_	BIO=O
+2	neuter	_	_	_	_	_	_	_	BIO=O
+3	singular	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	initiātus	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/initiatum
+# language = Latin
+1	accusative	_	_	_	_	_	_	_	BIO=O
+2	masculine	_	_	_	_	_	_	_	BIO=O
+3	singular	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	initiātus	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/initiatum
+# language = Latin
+1	accusative	_	_	_	_	_	_	_	BIO=O
+2	neuter	_	_	_	_	_	_	_	BIO=O
+3	singular	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	initiātus	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/initiatum
+# language = Latin
+1	vocative	_	_	_	_	_	_	_	BIO=O
+2	neuter	_	_	_	_	_	_	_	BIO=O
+3	singular	_	_	_	_	_	_	_	BIO=O
+4	of	_	_	_	_	_	_	_	BIO=O
+5	initiātus	_	_	_	_	_	_	_	BIO=O
+
+

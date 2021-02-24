@@ -1,0 +1,12 @@
+# url = https://en.wiktionary.org/wiki/ampiavate
+# language = Italian
+1	second	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	imperfect	_	_	_	_	_	_	_	BIO=O
+6	indicative	_	_	_	_	_	_	_	BIO=O
+7	of	_	_	_	_	_	_	_	BIO=O
+8	ampiare	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,5 +1,7 @@
 import click
 import wiktionarifier.scrape.core as sc
+import wiktionarifier.scrape.db as sdb
+import wiktionarifier.format.core as fc
 
 
 @click.group()
@@ -20,7 +22,16 @@ def scrape(output_dir, wiktionary_language, strategy, max_pages, overwrite):
         sc.scrape(output_dir, wiktionary_language, strategy, max_pages, overwrite)
 
 
+@click.command(help="Turn scraped output into .conllu files")
+@click.option('--input-dir', default='data/scraped', help="Directory containing scraping output")
+@click.option('--output-dir', default='data/conllu', help="Directory conllu files will be written to")
+def format(input_dir, output_dir):
+    if not sdb.db_exists(input_dir):
+        click.secho(f"No scraping database found at {input_dir}", fg="red")
+    fc.format(input_dir, output_dir)
+
 top.add_command(scrape)
+top.add_command(format)
 
 if __name__ == '__main__':
     top()

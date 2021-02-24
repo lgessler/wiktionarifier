@@ -1,0 +1,10 @@
+# url = https://en.wiktionary.org/wiki/electroporant
+# language = English
+1	A	_	_	_	_	_	_	_	BIO=O
+2	transient	_	_	_	_	_	_	_	BIO=O
+3	pore	_	_	_	_	_	_	_	BIO=O
+4	formed	_	_	_	_	_	_	_	BIO=O
+5	by	_	_	_	_	_	_	_	BIO=O
+6	electroporation	_	_	_	_	_	_	_	BIO=O
+
+

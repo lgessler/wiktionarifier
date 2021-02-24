@@ -1,0 +1,13 @@
+# url = https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+# language = Russian
+1	military	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	political	_	_	_	_	_	_	_	BIO=O
+4	,	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	relational	_	_	_	_	_	_	_	BIO=O
+7	)	_	_	_	_	_	_	_	BIO=O
+8	military	_	_	_	_	_	_	_	BIO=O
+9	policy	_	_	_	_	_	_	_	BIO=O
+
+

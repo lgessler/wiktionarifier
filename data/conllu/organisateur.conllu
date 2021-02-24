@@ -1,0 +1,7 @@
+# url = https://en.wiktionary.org/wiki/organisateur
+# language = French
+1	organizer	_	_	_	_	_	_	_	BIO=O
+2	,	_	_	_	_	_	_	_	BIO=O
+3	host	_	_	_	_	_	_	_	BIO=O
+
+

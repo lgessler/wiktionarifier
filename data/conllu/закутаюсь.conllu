@@ -1,0 +1,16 @@
+# url = https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BA%D1%83%D1%82%D0%B0%D1%8E%D1%81%D1%8C
+# language = Russian
+1	first	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	future	_	_	_	_	_	_	_	BIO=O
+6	indicative	_	_	_	_	_	_	_	BIO=O
+7	perfective	_	_	_	_	_	_	_	BIO=O
+8	of	_	_	_	_	_	_	_	BIO=O
+9	заку́таться	_	_	_	_	_	_	_	BIO=O
+10	(	_	_	_	_	_	_	_	BIO=O
+11	zakútatʹsja	_	_	_	_	_	_	_	BIO=O
+12	)	_	_	_	_	_	_	_	BIO=O
+
+

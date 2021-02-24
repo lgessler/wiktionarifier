@@ -1,0 +1,10 @@
+# url = https://en.wiktionary.org/wiki/zwierz%C4%99ciu
+# language = Polish
+1	dative	_	_	_	_	_	_	_	BIO=O
+2	/	_	_	_	_	_	_	_	BIO=O
+3	locative	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	of	_	_	_	_	_	_	_	BIO=O
+6	zwierzę	_	_	_	_	_	_	_	BIO=O
+
+

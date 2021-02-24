@@ -1,0 +1,20 @@
+# url = https://en.wiktionary.org/wiki/neerkijkt
+# language = Dutch
+1	second-	_	_	_	_	_	_	_	BIO=O
+2	and	_	_	_	_	_	_	_	BIO=O
+3	third	_	_	_	_	_	_	_	BIO=O
+4	-	_	_	_	_	_	_	_	BIO=O
+5	person	_	_	_	_	_	_	_	BIO=O
+6	singular	_	_	_	_	_	_	_	BIO=O
+7	present	_	_	_	_	_	_	_	BIO=O
+8	indicative	_	_	_	_	_	_	_	BIO=O
+9	of	_	_	_	_	_	_	_	BIO=O
+10	neerkijken	_	_	_	_	_	_	_	BIO=O
+11	(	_	_	_	_	_	_	_	BIO=O
+12	when	_	_	_	_	_	_	_	BIO=O
+13	using	_	_	_	_	_	_	_	BIO=O
+14	a	_	_	_	_	_	_	_	BIO=O
+15	subclause	_	_	_	_	_	_	_	BIO=O
+16	)	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,0 +1,20 @@
+# url = https://en.wiktionary.org/wiki/%E6%9E%97%E8%8A%9D
+# language = Chinese
+1	(	_	_	_	_	_	_	_	BIO=O
+2	～	_	_	_	_	_	_	_	BIO=O
+3	市	_	_	_	_	_	_	_	BIO=O
+4	)	_	_	_	_	_	_	_	BIO=O
+5	Nyingchi	_	_	_	_	_	_	_	BIO=O
+6	(	_	_	_	_	_	_	_	BIO=O
+7	a	_	_	_	_	_	_	_	BIO=O
+8	prefecture	_	_	_	_	_	_	_	BIO=O
+9	-	_	_	_	_	_	_	_	BIO=O
+10	level	_	_	_	_	_	_	_	BIO=O
+11	city	_	_	_	_	_	_	_	BIO=O
+12	in	_	_	_	_	_	_	_	BIO=O
+13	Tibet	_	_	_	_	_	_	_	BIO=O
+14	,	_	_	_	_	_	_	_	BIO=O
+15	China	_	_	_	_	_	_	_	BIO=O
+16	)	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,0 +1,15 @@
+# url = https://en.wiktionary.org/wiki/USFL
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	American	_	_	_	_	_	_	_	BIO=O
+3	football	_	_	_	_	_	_	_	BIO=O
+4	)	_	_	_	_	_	_	_	BIO=O
+5	Initialism	_	_	_	_	_	_	_	BIO=O
+6	of	_	_	_	_	_	_	_	BIO=O
+7	United	_	_	_	_	_	_	_	BIO=O
+8	States	_	_	_	_	_	_	_	BIO=O
+9	Football	_	_	_	_	_	_	_	BIO=O
+10	League	_	_	_	_	_	_	_	BIO=O
+11	.	_	_	_	_	_	_	_	BIO=O
+
+

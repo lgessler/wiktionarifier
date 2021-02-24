@@ -1,0 +1,16 @@
+# url = https://en.wiktionary.org/wiki/%D0%B2%D1%8B%D0%BF%D0%B5%D0%BD%D0%B4%D1%80%D1%8F%D1%82%D1%81%D1%8F
+# language = Russian
+1	third	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	plural	_	_	_	_	_	_	_	BIO=O
+5	future	_	_	_	_	_	_	_	BIO=O
+6	indicative	_	_	_	_	_	_	_	BIO=O
+7	perfective	_	_	_	_	_	_	_	BIO=O
+8	of	_	_	_	_	_	_	_	BIO=O
+9	вы́пендриться	_	_	_	_	_	_	_	BIO=O
+10	(	_	_	_	_	_	_	_	BIO=O
+11	výpendritʹsja	_	_	_	_	_	_	_	BIO=O
+12	)	_	_	_	_	_	_	_	BIO=O
+
+

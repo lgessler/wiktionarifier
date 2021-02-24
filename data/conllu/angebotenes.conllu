@@ -1,0 +1,14 @@
+# url = https://en.wiktionary.org/wiki/angebotenes
+# language = German
+1	strong	_	_	_	_	_	_	_	BIO=O
+2	/	_	_	_	_	_	_	_	BIO=O
+3	mixed	_	_	_	_	_	_	_	BIO=O
+4	nominative	_	_	_	_	_	_	_	BIO=O
+5	/	_	_	_	_	_	_	_	BIO=O
+6	accusative	_	_	_	_	_	_	_	BIO=O
+7	neuter	_	_	_	_	_	_	_	BIO=O
+8	singular	_	_	_	_	_	_	_	BIO=O
+9	of	_	_	_	_	_	_	_	BIO=O
+10	angeboten	_	_	_	_	_	_	_	BIO=O
+
+

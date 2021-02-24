@@ -1,0 +1,21 @@
+# url = https://en.wiktionary.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%B9
+# language = Assamese
+1	bell	_	_	_	_	_	_	_	BIO=O
+2	metal	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%B9
+# language = Assamese
+1	(	_	_	_	_	_	_	_	BIO=O
+2	instrument	_	_	_	_	_	_	_	BIO=O
+3	)	_	_	_	_	_	_	_	BIO=O
+4	gong	_	_	_	_	_	_	_	BIO=O
+5	(	_	_	_	_	_	_	_	BIO=O
+6	usually	_	_	_	_	_	_	_	BIO=O
+7	made	_	_	_	_	_	_	_	BIO=O
+8	of	_	_	_	_	_	_	_	BIO=O
+9	bell	_	_	_	_	_	_	_	BIO=O
+10	metal	_	_	_	_	_	_	_	BIO=O
+11	)	_	_	_	_	_	_	_	BIO=O
+
+

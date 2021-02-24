@@ -1,0 +1,11 @@
+# url = https://en.wiktionary.org/wiki/ligoterait
+# language = French
+1	third	_	_	_	_	_	_	_	BIO=O
+2	-	_	_	_	_	_	_	_	BIO=O
+3	person	_	_	_	_	_	_	_	BIO=O
+4	singular	_	_	_	_	_	_	_	BIO=O
+5	conditional	_	_	_	_	_	_	_	BIO=O
+6	of	_	_	_	_	_	_	_	BIO=O
+7	ligoter	_	_	_	_	_	_	_	BIO=O
+
+

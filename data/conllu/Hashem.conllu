@@ -1,0 +1,28 @@
+# url = https://en.wiktionary.org/wiki/Hashem
+# language = English
+1	A	_	_	_	_	_	_	_	BIO=O
+2	substitute	_	_	_	_	_	_	_	BIO=O
+3	for	_	_	_	_	_	_	_	BIO=O
+4	the	_	_	_	_	_	_	_	BIO=O
+5	Tetragrammaton	_	_	_	_	_	_	_	BIO=O
+6	.	_	_	_	_	_	_	_	BIO=O
+
+
+# url = https://en.wiktionary.org/wiki/Hashem
+# language = English
+1	A	_	_	_	_	_	_	_	BIO=O
+2	name	_	_	_	_	_	_	_	BIO=O
+3	used	_	_	_	_	_	_	_	BIO=O
+4	by	_	_	_	_	_	_	_	BIO=O
+5	many	_	_	_	_	_	_	_	BIO=O
+6	Jews	_	_	_	_	_	_	_	BIO=O
+7	in	_	_	_	_	_	_	_	BIO=O
+8	ordinary	_	_	_	_	_	_	_	BIO=O
+9	conversation	_	_	_	_	_	_	_	BIO=O
+10	to	_	_	_	_	_	_	_	BIO=O
+11	refer	_	_	_	_	_	_	_	BIO=O
+12	to	_	_	_	_	_	_	_	BIO=O
+13	God	_	_	_	_	_	_	_	BIO=O
+14	.	_	_	_	_	_	_	_	BIO=O
+
+

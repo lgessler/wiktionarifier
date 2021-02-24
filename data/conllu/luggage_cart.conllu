@@ -1,0 +1,18 @@
+# url = https://en.wiktionary.org/wiki/luggage_cart
+# language = English
+1	A	_	_	_	_	_	_	_	BIO=O
+2	small	_	_	_	_	_	_	_	BIO=O
+3	vehicle	_	_	_	_	_	_	_	BIO=O
+4	pushed	_	_	_	_	_	_	_	BIO=O
+5	by	_	_	_	_	_	_	_	BIO=O
+6	travellers	_	_	_	_	_	_	_	BIO=O
+7	to	_	_	_	_	_	_	_	BIO=O
+8	carry	_	_	_	_	_	_	_	BIO=O
+9	individual	_	_	_	_	_	_	_	BIO=O
+10	luggage	_	_	_	_	_	_	_	BIO=O
+11	,	_	_	_	_	_	_	_	BIO=O
+12	usually	_	_	_	_	_	_	_	BIO=O
+13	suitcases	_	_	_	_	_	_	_	BIO=O
+14	.	_	_	_	_	_	_	_	BIO=O
+
+
