@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/scancellereste
 # language = Italian
-1	second	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	plural	_	_	_	_	_	_	_	BIO=O
-5	conditional	_	_	_	_	_	_	_	BIO=O
+1	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+5	conditional	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#conditional_mood|BIO=B
 6	of	_	_	_	_	_	_	_	BIO=O
-7	scancellare	_	_	_	_	_	_	_	BIO=O
+7	scancellare	_	_	_	_	_	_	_	Href=/wiki/scancellare#Italian|BIO=B
 
 

@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/baozi
 # language = English
 1	A	_	_	_	_	_	_	_	BIO=O
-2	Chinese	_	_	_	_	_	_	_	BIO=O
-3	steamed	_	_	_	_	_	_	_	BIO=O
-4	stuffed	_	_	_	_	_	_	_	BIO=O
-5	bun	_	_	_	_	_	_	_	BIO=O
+2	Chinese	_	_	_	_	_	_	_	Href=/wiki/Chinese|BIO=B
+3	steamed	_	_	_	_	_	_	_	Href=/wiki/steamed|BIO=B
+4	stuffed	_	_	_	_	_	_	_	Href=/wiki/stuffed|BIO=B
+5	bun	_	_	_	_	_	_	_	Href=/wiki/bun|BIO=B
 6	.	_	_	_	_	_	_	_	BIO=O
 
 

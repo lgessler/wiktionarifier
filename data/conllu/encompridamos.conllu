@@ -5,12 +5,12 @@
 3	person	_	_	_	_	_	_	_	BIO=O
 4	plural	_	_	_	_	_	_	_	BIO=O
 5	(	_	_	_	_	_	_	_	BIO=O
-6	nós	_	_	_	_	_	_	_	BIO=O
+6	nós	_	_	_	_	_	_	_	Href=/wiki/n%C3%B3s#Portuguese|BIO=B
 7	)	_	_	_	_	_	_	_	BIO=O
 8	present	_	_	_	_	_	_	_	BIO=O
 9	indicative	_	_	_	_	_	_	_	BIO=O
 10	of	_	_	_	_	_	_	_	BIO=O
-11	encompridar	_	_	_	_	_	_	_	BIO=O
+11	encompridar	_	_	_	_	_	_	_	Href=/wiki/encompridar#Portuguese|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/encompridamos
@@ -23,11 +23,11 @@
 6	person	_	_	_	_	_	_	_	BIO=O
 7	plural	_	_	_	_	_	_	_	BIO=O
 8	(	_	_	_	_	_	_	_	BIO=O
-9	nós	_	_	_	_	_	_	_	BIO=O
+9	nós	_	_	_	_	_	_	_	Href=/wiki/n%C3%B3s#Portuguese|BIO=B
 10	)	_	_	_	_	_	_	_	BIO=O
 11	preterite	_	_	_	_	_	_	_	BIO=O
 12	indicative	_	_	_	_	_	_	_	BIO=O
 13	of	_	_	_	_	_	_	_	BIO=O
-14	encompridar	_	_	_	_	_	_	_	BIO=O
+14	encompridar	_	_	_	_	_	_	_	Href=/wiki/encompridar#Portuguese|BIO=B
 
 

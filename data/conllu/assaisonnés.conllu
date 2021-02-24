@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/assaisonn%C3%A9s
 # language = French
-1	masculine	_	_	_	_	_	_	_	BIO=O
-2	plural	_	_	_	_	_	_	_	BIO=O
+1	masculine	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
+2	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
 4	the	_	_	_	_	_	_	_	BIO=O
-5	past	_	_	_	_	_	_	_	BIO=O
-6	participle	_	_	_	_	_	_	_	BIO=O
+5	past	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#past_tense|BIO=B
+6	participle	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#participle|BIO=B
 7	of	_	_	_	_	_	_	_	BIO=O
-8	assaisonner	_	_	_	_	_	_	_	BIO=O
+8	assaisonner	_	_	_	_	_	_	_	Href=/wiki/assaisonner#French|BIO=B
 
 

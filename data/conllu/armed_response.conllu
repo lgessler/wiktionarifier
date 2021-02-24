@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/armed_response
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	politics	_	_	_	_	_	_	_	BIO=O
+2	politics	_	_	_	_	_	_	_	Href=/wiki/politics|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	A	_	_	_	_	_	_	_	BIO=O
 5	response	_	_	_	_	_	_	_	BIO=O
@@ -11,13 +11,13 @@
 9	issue	_	_	_	_	_	_	_	BIO=O
 10	that	_	_	_	_	_	_	_	BIO=O
 11	involves	_	_	_	_	_	_	_	BIO=O
-12	military	_	_	_	_	_	_	_	BIO=O
+12	military	_	_	_	_	_	_	_	Href=/wiki/military|BIO=B
 13	action	_	_	_	_	_	_	_	BIO=O
 14	or	_	_	_	_	_	_	_	BIO=O
 15	the	_	_	_	_	_	_	_	BIO=O
 16	use	_	_	_	_	_	_	_	BIO=O
 17	of	_	_	_	_	_	_	_	BIO=O
-18	weapons	_	_	_	_	_	_	_	BIO=O
+18	weapons	_	_	_	_	_	_	_	Href=/wiki/weapon|BIO=B
 19	.	_	_	_	_	_	_	_	BIO=O
 20	[	_	_	_	_	_	_	_	BIO=O
 21	from	_	_	_	_	_	_	_	BIO=O

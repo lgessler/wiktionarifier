@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/acatarrar%C3%ADais
 # language = Spanish
 1	(	_	_	_	_	_	_	_	BIO=O
-2	Spain	_	_	_	_	_	_	_	BIO=O
+2	Spain	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Spain|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	Informal	_	_	_	_	_	_	_	BIO=O
 5	second	_	_	_	_	_	_	_	BIO=O
@@ -9,14 +9,14 @@
 7	person	_	_	_	_	_	_	_	BIO=O
 8	plural	_	_	_	_	_	_	_	BIO=O
 9	(	_	_	_	_	_	_	_	BIO=O
-10	vosotros	_	_	_	_	_	_	_	BIO=O
+10	vosotros	_	_	_	_	_	_	_	Href=/wiki/vosotros#Spanish|BIO=B
 11	,	_	_	_	_	_	_	_	BIO=O
-12	vosotras	_	_	_	_	_	_	_	BIO=O
+12	vosotras	_	_	_	_	_	_	_	Href=/wiki/vosotras#Spanish|BIO=B
 13	)	_	_	_	_	_	_	_	BIO=O
 14	conditional	_	_	_	_	_	_	_	BIO=O
 15	form	_	_	_	_	_	_	_	BIO=O
 16	of	_	_	_	_	_	_	_	BIO=O
-17	acatarrarse	_	_	_	_	_	_	_	BIO=O
+17	acatarrarse	_	_	_	_	_	_	_	Href=/wiki/acatarrarse#Spanish|BIO=B
 18	.	_	_	_	_	_	_	_	BIO=O
 
 

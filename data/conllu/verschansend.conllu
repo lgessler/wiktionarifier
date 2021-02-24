@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/verschansend
 # language = Dutch
-1	present	_	_	_	_	_	_	_	BIO=O
-2	participle	_	_	_	_	_	_	_	BIO=O
+1	present	_	_	_	_	_	_	_	Href=/wiki/present_participle|BIO=B
+2	participle	_	_	_	_	_	_	_	BIO=I
 3	of	_	_	_	_	_	_	_	BIO=O
-4	verschansen	_	_	_	_	_	_	_	BIO=O
+4	verschansen	_	_	_	_	_	_	_	Href=/wiki/verschansen#Dutch|BIO=B
 
 

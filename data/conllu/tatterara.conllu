@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/tatterara
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	Ireland	_	_	_	_	_	_	_	BIO=O
+2	Ireland	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Ireland|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
-4	dated	_	_	_	_	_	_	_	BIO=O
+4	dated	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#dated|BIO=B
 5	)	_	_	_	_	_	_	_	BIO=O
 6	commotion	_	_	_	_	_	_	_	BIO=O
 7	,	_	_	_	_	_	_	_	BIO=O
@@ -24,10 +24,10 @@
 22	James	_	_	_	_	_	_	_	BIO=O
 23	Kelly	_	_	_	_	_	_	_	BIO=O
 24	O'Dwyer	_	_	_	_	_	_	_	BIO=O
-25	Vol	_	_	_	_	_	_	_	BIO=O
-26	.	_	_	_	_	_	_	_	BIO=O
-27	II	_	_	_	_	_	_	_	BIO=O
-28	p.307	_	_	_	_	_	_	_	BIO=O
+25	Vol	_	_	_	_	_	_	_	Href=http://books.google.ie/books?id=sM8BAAAAQAAJ&dq=tatterara&pg=PA307#v=onepage&q&f=false|BIO=B
+26	.	_	_	_	_	_	_	_	BIO=I
+27	II	_	_	_	_	_	_	_	BIO=I
+28	p.307	_	_	_	_	_	_	_	BIO=I
 29	(	_	_	_	_	_	_	_	BIO=O
 30	London	_	_	_	_	_	_	_	BIO=O
 31	:	_	_	_	_	_	_	_	BIO=O
@@ -154,14 +154,14 @@
 152	Great	_	_	_	_	_	_	_	BIO=O
 153	Blasket	_	_	_	_	_	_	_	BIO=O
 154	Island	_	_	_	_	_	_	_	BIO=O
-155	→ISBN	_	_	_	_	_	_	_	BIO=O
+155	→ISBN	_	_	_	_	_	_	_	Href=/wiki/Special:BookSources/0815602588|BIO=B
 156	(	_	_	_	_	_	_	_	BIO=O
 157	Syracuse	_	_	_	_	_	_	_	BIO=O
 158	University	_	_	_	_	_	_	_	BIO=O
 159	Press	_	_	_	_	_	_	_	BIO=O
 160	)	_	_	_	_	_	_	_	BIO=O
 161	,	_	_	_	_	_	_	_	BIO=O
-162	p.58	_	_	_	_	_	_	_	BIO=O
+162	p.58	_	_	_	_	_	_	_	Href=http://books.google.ie/books?id=EW3lo94RyyIC&lpg=PA58&ots=lDqL9X6qCV&dq=tatterara&pg=PA58#v=onepage&q&f=false|BIO=B
 163	:	_	_	_	_	_	_	_	BIO=O
 164	Very	_	_	_	_	_	_	_	BIO=O
 165	soon	_	_	_	_	_	_	_	BIO=O

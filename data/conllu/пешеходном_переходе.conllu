@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B5
 # language = Russian
-1	prepositional	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
+1	prepositional	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#prepositional_case|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	пешехо́дный	_	_	_	_	_	_	_	BIO=O
-5	перехо́д	_	_	_	_	_	_	_	BIO=O
+4	пешехо́дный	_	_	_	_	_	_	_	Href=/wiki/%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4#Russian|BIO=B
+5	перехо́д	_	_	_	_	_	_	_	BIO=I
 6	(	_	_	_	_	_	_	_	BIO=O
 7	pešexódnyj	_	_	_	_	_	_	_	BIO=O
 8	perexód	_	_	_	_	_	_	_	BIO=O

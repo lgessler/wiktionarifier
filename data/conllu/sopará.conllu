@@ -6,13 +6,13 @@
 4	person	_	_	_	_	_	_	_	BIO=O
 5	singular	_	_	_	_	_	_	_	BIO=O
 6	(	_	_	_	_	_	_	_	BIO=O
-7	usted	_	_	_	_	_	_	_	BIO=O
+7	usted	_	_	_	_	_	_	_	Href=/wiki/usted#Spanish|BIO=B
 8	)	_	_	_	_	_	_	_	BIO=O
 9	future	_	_	_	_	_	_	_	BIO=O
 10	indicative	_	_	_	_	_	_	_	BIO=O
 11	form	_	_	_	_	_	_	_	BIO=O
 12	of	_	_	_	_	_	_	_	BIO=O
-13	sopar	_	_	_	_	_	_	_	BIO=O
+13	sopar	_	_	_	_	_	_	_	Href=/wiki/sopar#Spanish|BIO=B
 14	.	_	_	_	_	_	_	_	BIO=O
 
 
@@ -23,21 +23,21 @@
 3	person	_	_	_	_	_	_	_	BIO=O
 4	singular	_	_	_	_	_	_	_	BIO=O
 5	(	_	_	_	_	_	_	_	BIO=O
-6	él	_	_	_	_	_	_	_	BIO=O
+6	él	_	_	_	_	_	_	_	Href=/wiki/%C3%A9l#Spanish|BIO=B
 7	,	_	_	_	_	_	_	_	BIO=O
-8	ella	_	_	_	_	_	_	_	BIO=O
+8	ella	_	_	_	_	_	_	_	Href=/wiki/ella#Spanish|BIO=B
 9	,	_	_	_	_	_	_	_	BIO=O
 10	also	_	_	_	_	_	_	_	BIO=O
 11	used	_	_	_	_	_	_	_	BIO=O
 12	with	_	_	_	_	_	_	_	BIO=O
-13	usted	_	_	_	_	_	_	_	BIO=O
-14	?	_	_	_	_	_	_	_	BIO=O
+13	usted	_	_	_	_	_	_	_	Href=/wiki/usted#Spanish|BIO=B
+14	?	_	_	_	_	_	_	_	Href=/wiki/Appendix:Spanish_conjugation#Pronouns|BIO=B
 15	)	_	_	_	_	_	_	_	BIO=O
 16	future	_	_	_	_	_	_	_	BIO=O
 17	indicative	_	_	_	_	_	_	_	BIO=O
 18	form	_	_	_	_	_	_	_	BIO=O
 19	of	_	_	_	_	_	_	_	BIO=O
-20	sopar	_	_	_	_	_	_	_	BIO=O
+20	sopar	_	_	_	_	_	_	_	Href=/wiki/sopar#Spanish|BIO=B
 21	.	_	_	_	_	_	_	_	BIO=O
 
 

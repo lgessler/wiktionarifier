@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%E1%BF%86%CF%82
 # language = Ancient Greek
-1	genitive	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
-3	feminine	_	_	_	_	_	_	_	BIO=O
+1	genitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#genitive_case|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+3	feminine	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
 4	of	_	_	_	_	_	_	_	BIO=O
-5	Ἑλληνῐκός	_	_	_	_	_	_	_	BIO=O
+5	Ἑλληνῐκός	_	_	_	_	_	_	_	Href=/wiki/%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C%CF%82#Ancient_Greek|BIO=B
 6	(	_	_	_	_	_	_	_	BIO=O
 7	Hellēnikós	_	_	_	_	_	_	_	BIO=O
 8	)	_	_	_	_	_	_	_	BIO=O

@@ -10,13 +10,13 @@
 8	person	_	_	_	_	_	_	_	BIO=O
 9	singular	_	_	_	_	_	_	_	BIO=O
 10	(	_	_	_	_	_	_	_	BIO=O
-11	voseo	_	_	_	_	_	_	_	BIO=O
+11	voseo	_	_	_	_	_	_	_	Href=/wiki/voseo#Spanish|BIO=B
 12	)	_	_	_	_	_	_	_	BIO=O
 13	affirmative	_	_	_	_	_	_	_	BIO=O
 14	imperative	_	_	_	_	_	_	_	BIO=O
 15	form	_	_	_	_	_	_	_	BIO=O
 16	of	_	_	_	_	_	_	_	BIO=O
-17	agujerear	_	_	_	_	_	_	_	BIO=O
+17	agujerear	_	_	_	_	_	_	_	Href=/wiki/agujerear#Spanish|BIO=B
 18	.	_	_	_	_	_	_	_	BIO=O
 
 

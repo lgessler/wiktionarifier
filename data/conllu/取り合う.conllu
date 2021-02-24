@@ -1,36 +1,36 @@
 # url = https://en.wiktionary.org/wiki/%E5%8F%96%E3%82%8A%E5%90%88%E3%81%86
 # language = Japanese
 1	to	_	_	_	_	_	_	_	BIO=O
-2	hold	_	_	_	_	_	_	_	BIO=O
-3	each	_	_	_	_	_	_	_	BIO=O
-4	other	_	_	_	_	_	_	_	BIO=O
+2	hold	_	_	_	_	_	_	_	Href=/wiki/hold|BIO=B
+3	each	_	_	_	_	_	_	_	Href=/wiki/each_other|BIO=B
+4	other	_	_	_	_	_	_	_	BIO=I
 5	's	_	_	_	_	_	_	_	BIO=O
-6	hands	_	_	_	_	_	_	_	BIO=O
+6	hands	_	_	_	_	_	_	_	Href=/wiki/hand|BIO=B
 7	;	_	_	_	_	_	_	_	BIO=O
-8	hand	_	_	_	_	_	_	_	BIO=O
-9	in	_	_	_	_	_	_	_	BIO=O
-10	hand	_	_	_	_	_	_	_	BIO=O
+8	hand	_	_	_	_	_	_	_	Href=/wiki/hand_in_hand|BIO=B
+9	in	_	_	_	_	_	_	_	BIO=I
+10	hand	_	_	_	_	_	_	_	BIO=I
 
 
 # url = https://en.wiktionary.org/wiki/%E5%8F%96%E3%82%8A%E5%90%88%E3%81%86
 # language = Japanese
 1	to	_	_	_	_	_	_	_	BIO=O
-2	compete	_	_	_	_	_	_	_	BIO=O
+2	compete	_	_	_	_	_	_	_	Href=/wiki/compete|BIO=B
 3	for	_	_	_	_	_	_	_	BIO=O
 4	;	_	_	_	_	_	_	_	BIO=O
 5	to	_	_	_	_	_	_	_	BIO=O
-6	scramble	_	_	_	_	_	_	_	BIO=O
+6	scramble	_	_	_	_	_	_	_	Href=/wiki/scramble|BIO=B
 7	for	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/%E5%8F%96%E3%82%8A%E5%90%88%E3%81%86
 # language = Japanese
 1	to	_	_	_	_	_	_	_	BIO=O
-2	take	_	_	_	_	_	_	_	BIO=O
-3	notice	_	_	_	_	_	_	_	BIO=O
+2	take	_	_	_	_	_	_	_	Href=/wiki/take_notice|BIO=B
+3	notice	_	_	_	_	_	_	_	BIO=I
 4	of	_	_	_	_	_	_	_	BIO=O
 5	;	_	_	_	_	_	_	_	BIO=O
 6	to	_	_	_	_	_	_	_	BIO=O
-7	respond	_	_	_	_	_	_	_	BIO=O
+7	respond	_	_	_	_	_	_	_	Href=/wiki/respond|BIO=B
 
 

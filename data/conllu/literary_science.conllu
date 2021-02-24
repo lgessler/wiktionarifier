@@ -12,22 +12,22 @@
 10	study	_	_	_	_	_	_	_	BIO=O
 11	pertinent	_	_	_	_	_	_	_	BIO=O
 12	to	_	_	_	_	_	_	_	BIO=O
-13	literature	_	_	_	_	_	_	_	BIO=O
+13	literature	_	_	_	_	_	_	_	Href=/wiki/literature|BIO=B
 14	,	_	_	_	_	_	_	_	BIO=O
 15	including	_	_	_	_	_	_	_	BIO=O
 16	history	_	_	_	_	_	_	_	BIO=O
 17	of	_	_	_	_	_	_	_	BIO=O
 18	literature	_	_	_	_	_	_	_	BIO=O
 19	,	_	_	_	_	_	_	_	BIO=O
-20	literary	_	_	_	_	_	_	_	BIO=O
-21	criticism	_	_	_	_	_	_	_	BIO=O
+20	literary	_	_	_	_	_	_	_	Href=/wiki/literary_criticism|BIO=B
+21	criticism	_	_	_	_	_	_	_	BIO=I
 22	,	_	_	_	_	_	_	_	BIO=O
-23	comparative	_	_	_	_	_	_	_	BIO=O
-24	literature	_	_	_	_	_	_	_	BIO=O
+23	comparative	_	_	_	_	_	_	_	Href=/wiki/comparative_literature|BIO=B
+24	literature	_	_	_	_	_	_	_	BIO=I
 25	,	_	_	_	_	_	_	_	BIO=O
 26	and	_	_	_	_	_	_	_	BIO=O
-27	literary	_	_	_	_	_	_	_	BIO=O
-28	theory	_	_	_	_	_	_	_	BIO=O
+27	literary	_	_	_	_	_	_	_	Href=/wiki/literary_theory|BIO=B
+28	theory	_	_	_	_	_	_	_	BIO=I
 29	.	_	_	_	_	_	_	_	BIO=O
 
 

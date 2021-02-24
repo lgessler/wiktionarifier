@@ -3,7 +3,7 @@
 1	a	_	_	_	_	_	_	_	BIO=O
 2	kind	_	_	_	_	_	_	_	BIO=O
 3	of	_	_	_	_	_	_	_	BIO=O
-4	wind	_	_	_	_	_	_	_	BIO=O
-5	instrument	_	_	_	_	_	_	_	BIO=O
+4	wind	_	_	_	_	_	_	_	Href=/wiki/wind_instrument|BIO=B
+5	instrument	_	_	_	_	_	_	_	BIO=I
 
 

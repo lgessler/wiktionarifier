@@ -2,14 +2,14 @@
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
 2	chiefly	_	_	_	_	_	_	_	BIO=O
-3	attributive	_	_	_	_	_	_	_	BIO=O
+3	attributive	_	_	_	_	_	_	_	Href=/wiki/Appendix:English_nouns#Attributive|BIO=B
 4	)	_	_	_	_	_	_	_	BIO=O
 5	A	_	_	_	_	_	_	_	BIO=O
-6	bachelor	_	_	_	_	_	_	_	BIO=O
-7	party	_	_	_	_	_	_	_	BIO=O
+6	bachelor	_	_	_	_	_	_	_	Href=/wiki/bachelor_party|BIO=B
+7	party	_	_	_	_	_	_	_	BIO=I
 8	or	_	_	_	_	_	_	_	BIO=O
-9	bachelorette	_	_	_	_	_	_	_	BIO=O
-10	party	_	_	_	_	_	_	_	BIO=O
+9	bachelorette	_	_	_	_	_	_	_	Href=/wiki/bachelorette_party|BIO=B
+10	party	_	_	_	_	_	_	_	BIO=I
 11	to	_	_	_	_	_	_	_	BIO=O
 12	which	_	_	_	_	_	_	_	BIO=O
 13	both	_	_	_	_	_	_	_	BIO=O

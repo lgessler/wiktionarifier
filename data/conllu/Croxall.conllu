@@ -1,37 +1,38 @@
 # url = https://en.wiktionary.org/wiki/Croxall
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	countable	_	_	_	_	_	_	_	BIO=O
+2	countable	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#countable|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	A	_	_	_	_	_	_	_	BIO=O
-5	surname​.	_	_	_	_	_	_	_	BIO=O
+5	surname	_	_	_	_	_	_	_	Href=/wiki/surname|BIO=B
+6	​.	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/Croxall
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	uncountable	_	_	_	_	_	_	_	BIO=O
+2	uncountable	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#uncountable|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	A	_	_	_	_	_	_	_	BIO=O
-5	hamlet	_	_	_	_	_	_	_	BIO=O
+5	hamlet	_	_	_	_	_	_	_	Href=/wiki/hamlet|BIO=B
 6	in	_	_	_	_	_	_	_	BIO=O
-7	Edingale	_	_	_	_	_	_	_	BIO=O
+7	Edingale	_	_	_	_	_	_	_	Href=/wiki/Edingale#English|BIO=B
 8	parish	_	_	_	_	_	_	_	BIO=O
 9	,	_	_	_	_	_	_	_	BIO=O
-10	Lichfield	_	_	_	_	_	_	_	BIO=O
+10	Lichfield	_	_	_	_	_	_	_	Href=/wiki/Lichfield#English|BIO=B
 11	district	_	_	_	_	_	_	_	BIO=O
 12	,	_	_	_	_	_	_	_	BIO=O
-13	Staffordshire	_	_	_	_	_	_	_	BIO=O
+13	Staffordshire	_	_	_	_	_	_	_	Href=/wiki/Staffordshire#English|BIO=B
 14	,	_	_	_	_	_	_	_	BIO=O
-15	England	_	_	_	_	_	_	_	BIO=O
+15	England	_	_	_	_	_	_	_	Href=/wiki/England#English|BIO=B
 16	,	_	_	_	_	_	_	_	BIO=O
 17	at	_	_	_	_	_	_	_	BIO=O
 18	one	_	_	_	_	_	_	_	BIO=O
 19	time	_	_	_	_	_	_	_	BIO=O
 20	in	_	_	_	_	_	_	_	BIO=O
-21	Derbyshire	_	_	_	_	_	_	_	BIO=O
+21	Derbyshire	_	_	_	_	_	_	_	Href=/wiki/Derbyshire#English|BIO=B
 22	(	_	_	_	_	_	_	_	BIO=O
-23	OS	_	_	_	_	_	_	_	BIO=O
+23	OS	_	_	_	_	_	_	_	Href=/wiki/OS|BIO=B
 24	grid	_	_	_	_	_	_	_	BIO=O
 25	ref	_	_	_	_	_	_	_	BIO=O
 26	SK1913	_	_	_	_	_	_	_	BIO=O

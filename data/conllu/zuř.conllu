@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/zu%C5%99
 # language = Czech
-1	imperative	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
+1	imperative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperative_mood|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	zuřit	_	_	_	_	_	_	_	BIO=O
+4	zuřit	_	_	_	_	_	_	_	Href=/wiki/zu%C5%99it#Czech|BIO=B
 
 

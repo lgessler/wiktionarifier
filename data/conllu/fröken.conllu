@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/fr%C3%B6ken
 # language = Swedish
 1	(	_	_	_	_	_	_	_	BIO=O
-2	archaic	_	_	_	_	_	_	_	BIO=O
+2	archaic	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#archaic|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
-4	miss	_	_	_	_	_	_	_	BIO=O
+4	miss	_	_	_	_	_	_	_	Href=/wiki/miss|BIO=B
 5	(	_	_	_	_	_	_	_	BIO=O
 6	title	_	_	_	_	_	_	_	BIO=O
 7	of	_	_	_	_	_	_	_	BIO=O
@@ -21,12 +21,12 @@
 # url = https://en.wiktionary.org/wiki/fr%C3%B6ken
 # language = Swedish
 1	female	_	_	_	_	_	_	_	BIO=O
-2	teacher	_	_	_	_	_	_	_	BIO=O
+2	teacher	_	_	_	_	_	_	_	Href=/wiki/teacher|BIO=B
 3	(	_	_	_	_	_	_	_	BIO=O
 4	somewhat	_	_	_	_	_	_	_	BIO=O
-5	dated	_	_	_	_	_	_	_	BIO=O
+5	dated	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#dated|BIO=B
 6	,	_	_	_	_	_	_	_	BIO=O
-7	informal	_	_	_	_	_	_	_	BIO=O
+7	informal	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#informal|BIO=B
 8	)	_	_	_	_	_	_	_	BIO=O
 9	female	_	_	_	_	_	_	_	BIO=O
 10	teacher	_	_	_	_	_	_	_	BIO=O

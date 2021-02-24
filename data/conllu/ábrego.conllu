@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/%C3%A1brego
 # language = Galician
-1	south	_	_	_	_	_	_	_	BIO=O
-2	wind	_	_	_	_	_	_	_	BIO=O
+1	south	_	_	_	_	_	_	_	Href=/wiki/south_wind|BIO=B
+2	wind	_	_	_	_	_	_	_	BIO=I
 3	c1300	_	_	_	_	_	_	_	BIO=O
 4	,	_	_	_	_	_	_	_	BIO=O
 5	R.	_	_	_	_	_	_	_	BIO=O
@@ -90,18 +90,18 @@
 
 # url = https://en.wiktionary.org/wiki/%C3%A1brego
 # language = Spanish
-1	southwest	_	_	_	_	_	_	_	BIO=O
-2	wind	_	_	_	_	_	_	_	BIO=O
+1	southwest	_	_	_	_	_	_	_	Href=/wiki/southwest|BIO=B
+2	wind	_	_	_	_	_	_	_	Href=/wiki/wind|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/%C3%A1brego
 # language = Spanish
 1	(	_	_	_	_	_	_	_	BIO=O
-2	obsolete	_	_	_	_	_	_	_	BIO=O
+2	obsolete	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#obsolete|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
-4	African	_	_	_	_	_	_	_	BIO=O
+4	African	_	_	_	_	_	_	_	Href=/wiki/African|BIO=B
 5	Synonym	_	_	_	_	_	_	_	BIO=O
 6	:	_	_	_	_	_	_	_	BIO=O
-7	africano	_	_	_	_	_	_	_	BIO=O
+7	africano	_	_	_	_	_	_	_	Href=/wiki/africano#Spanish|BIO=B
 
 

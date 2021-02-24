@@ -1,19 +1,19 @@
 # url = https://en.wiktionary.org/wiki/heartdeep
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	poetic	_	_	_	_	_	_	_	BIO=O
+2	poetic	_	_	_	_	_	_	_	Href=/wiki/poetic|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	Rooted	_	_	_	_	_	_	_	BIO=O
 5	in	_	_	_	_	_	_	_	BIO=O
 6	the	_	_	_	_	_	_	_	BIO=O
-7	heart	_	_	_	_	_	_	_	BIO=O
+7	heart	_	_	_	_	_	_	_	Href=/wiki/heart|BIO=B
 8	.	_	_	_	_	_	_	_	BIO=O
 9	(	_	_	_	_	_	_	_	BIO=O
 10	Can	_	_	_	_	_	_	_	BIO=O
 11	we	_	_	_	_	_	_	_	BIO=O
-12	find	_	_	_	_	_	_	_	BIO=O
-13	and	_	_	_	_	_	_	_	BIO=O
-14	add	_	_	_	_	_	_	_	BIO=O
+12	find	_	_	_	_	_	_	_	Href=/wiki/Category:Requests_for_quotation/Herbert|BIO=B
+13	and	_	_	_	_	_	_	_	BIO=I
+14	add	_	_	_	_	_	_	_	BIO=I
 15	a	_	_	_	_	_	_	_	BIO=O
 16	quotation	_	_	_	_	_	_	_	BIO=O
 17	of	_	_	_	_	_	_	_	BIO=O

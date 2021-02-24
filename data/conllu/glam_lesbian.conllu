@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/glam_lesbian
 # language = English
 1	A	_	_	_	_	_	_	_	BIO=O
-2	lesbian	_	_	_	_	_	_	_	BIO=O
+2	lesbian	_	_	_	_	_	_	_	Href=/wiki/lesbian|BIO=B
 3	with	_	_	_	_	_	_	_	BIO=O
 4	a	_	_	_	_	_	_	_	BIO=O
 5	very	_	_	_	_	_	_	_	BIO=O
-6	feminine	_	_	_	_	_	_	_	BIO=O
+6	feminine	_	_	_	_	_	_	_	Href=/wiki/feminine|BIO=B
 7	appearance	_	_	_	_	_	_	_	BIO=O
 8	.	_	_	_	_	_	_	_	BIO=O
 9	1996	_	_	_	_	_	_	_	BIO=O
@@ -56,7 +56,7 @@
 54	Chicago	_	_	_	_	_	_	_	BIO=O
 55	Press	_	_	_	_	_	_	_	BIO=O
 56	(	_	_	_	_	_	_	_	BIO=O
-57	→ISBN	_	_	_	_	_	_	_	BIO=O
+57	→ISBN	_	_	_	_	_	_	_	Href=/wiki/Special:BookSources/9780226872322|BIO=B
 58	)	_	_	_	_	_	_	_	BIO=O
 59	,	_	_	_	_	_	_	_	BIO=O
 60	page	_	_	_	_	_	_	_	BIO=O

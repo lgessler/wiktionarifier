@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/konken
 # language = Norwegian Bokmål
-1	definite	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
+1	definite	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#definite|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	konk	_	_	_	_	_	_	_	BIO=O
+4	konk	_	_	_	_	_	_	_	Href=/wiki/konk#Norwegian_Bokmål|BIO=B
 
 

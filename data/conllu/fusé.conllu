@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/fus%C3%A9
 # language = French
-1	past	_	_	_	_	_	_	_	BIO=O
-2	participle	_	_	_	_	_	_	_	BIO=O
+1	past	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#past_tense|BIO=B
+2	participle	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#participle|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	fuser	_	_	_	_	_	_	_	BIO=O
+4	fuser	_	_	_	_	_	_	_	Href=/wiki/fuser#French|BIO=B
 
 

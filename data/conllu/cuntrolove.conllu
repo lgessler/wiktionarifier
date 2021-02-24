@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/cuntrolove
 # language = Ladin
-1	first	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	singular	_	_	_	_	_	_	_	BIO=O
-5	imperfect	_	_	_	_	_	_	_	BIO=O
+1	first	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#first_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+5	imperfect	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperfect|BIO=B
 6	of	_	_	_	_	_	_	_	BIO=O
-7	cuntroler	_	_	_	_	_	_	_	BIO=O
+7	cuntroler	_	_	_	_	_	_	_	Href=/wiki/cuntroler#Ladin|BIO=B
 
 

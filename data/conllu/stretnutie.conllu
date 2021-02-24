@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/stretnutie
 # language = Slovak
-1	meeting	_	_	_	_	_	_	_	BIO=O
+1	meeting	_	_	_	_	_	_	_	Href=/wiki/meeting|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/stretnutie
 # language = Slovak
-1	match	_	_	_	_	_	_	_	BIO=O
+1	match	_	_	_	_	_	_	_	Href=/wiki/match|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	sporting	_	_	_	_	_	_	_	BIO=O
 4	event	_	_	_	_	_	_	_	BIO=O

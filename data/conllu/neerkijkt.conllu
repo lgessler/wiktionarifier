@@ -1,20 +1,20 @@
 # url = https://en.wiktionary.org/wiki/neerkijkt
 # language = Dutch
-1	second-	_	_	_	_	_	_	_	BIO=O
+1	second-	_	_	_	_	_	_	_	Href=/wiki/second_person|BIO=B
 2	and	_	_	_	_	_	_	_	BIO=O
-3	third	_	_	_	_	_	_	_	BIO=O
-4	-	_	_	_	_	_	_	_	BIO=O
-5	person	_	_	_	_	_	_	_	BIO=O
-6	singular	_	_	_	_	_	_	_	BIO=O
-7	present	_	_	_	_	_	_	_	BIO=O
-8	indicative	_	_	_	_	_	_	_	BIO=O
+3	third	_	_	_	_	_	_	_	Href=/wiki/third_person|BIO=B
+4	-	_	_	_	_	_	_	_	BIO=I
+5	person	_	_	_	_	_	_	_	BIO=I
+6	singular	_	_	_	_	_	_	_	Href=/wiki/singular|BIO=B
+7	present	_	_	_	_	_	_	_	Href=/wiki/present_tense|BIO=B
+8	indicative	_	_	_	_	_	_	_	Href=/wiki/indicative_mood|BIO=B
 9	of	_	_	_	_	_	_	_	BIO=O
-10	neerkijken	_	_	_	_	_	_	_	BIO=O
+10	neerkijken	_	_	_	_	_	_	_	Href=/wiki/neerkijken#Dutch|BIO=B
 11	(	_	_	_	_	_	_	_	BIO=O
-12	when	_	_	_	_	_	_	_	BIO=O
-13	using	_	_	_	_	_	_	_	BIO=O
-14	a	_	_	_	_	_	_	_	BIO=O
-15	subclause	_	_	_	_	_	_	_	BIO=O
+12	when	_	_	_	_	_	_	_	Href=/wiki/Appendix:Dutch_parts_of_speech#Separable_verbs|BIO=B
+13	using	_	_	_	_	_	_	_	BIO=I
+14	a	_	_	_	_	_	_	_	BIO=I
+15	subclause	_	_	_	_	_	_	_	BIO=I
 16	)	_	_	_	_	_	_	_	BIO=O
 
 

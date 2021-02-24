@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/%CE%B5%CE%B9%CE%B4%CF%8E%CE%BB%CE%B9%CE%BF
 # language = Greek
-1	statuette	_	_	_	_	_	_	_	BIO=O
+1	statuette	_	_	_	_	_	_	_	Href=/wiki/statuette|BIO=B
 2	,	_	_	_	_	_	_	_	BIO=O
-3	figurine	_	_	_	_	_	_	_	BIO=O
+3	figurine	_	_	_	_	_	_	_	Href=/wiki/figurine|BIO=B
 
 

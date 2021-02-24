@@ -10,13 +10,13 @@
 8	person	_	_	_	_	_	_	_	BIO=O
 9	singular	_	_	_	_	_	_	_	BIO=O
 10	(	_	_	_	_	_	_	_	BIO=O
-11	vos	_	_	_	_	_	_	_	BIO=O
+11	vos	_	_	_	_	_	_	_	Href=/wiki/vos#Spanish|BIO=B
 12	)	_	_	_	_	_	_	_	BIO=O
 13	present	_	_	_	_	_	_	_	BIO=O
 14	subjunctive	_	_	_	_	_	_	_	BIO=O
 15	form	_	_	_	_	_	_	_	BIO=O
 16	of	_	_	_	_	_	_	_	BIO=O
-17	sectorizar	_	_	_	_	_	_	_	BIO=O
+17	sectorizar	_	_	_	_	_	_	_	Href=/wiki/sectorizar#Spanish|BIO=B
 18	.	_	_	_	_	_	_	_	BIO=O
 
 

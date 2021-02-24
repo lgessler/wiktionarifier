@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/injuncte
 # language = Latin
-1	vocative	_	_	_	_	_	_	_	BIO=O
-2	masculine	_	_	_	_	_	_	_	BIO=O
-3	singular	_	_	_	_	_	_	_	BIO=O
+1	vocative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#vocative_case|BIO=B
+2	masculine	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
+3	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 4	of	_	_	_	_	_	_	_	BIO=O
-5	injūnctus	_	_	_	_	_	_	_	BIO=O
+5	injūnctus	_	_	_	_	_	_	_	Href=/wiki/injunctus#Latin|BIO=B
 
 

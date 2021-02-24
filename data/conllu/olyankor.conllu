@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/olyankor
 # language = Hungarian
-1	on	_	_	_	_	_	_	_	BIO=O
-2	such	_	_	_	_	_	_	_	BIO=O
-3	occasions	_	_	_	_	_	_	_	BIO=O
+1	on	_	_	_	_	_	_	_	Href=/wiki/on|BIO=B
+2	such	_	_	_	_	_	_	_	Href=/wiki/such|BIO=B
+3	occasions	_	_	_	_	_	_	_	Href=/wiki/occasions|BIO=B
 4	,	_	_	_	_	_	_	_	BIO=O
-5	at	_	_	_	_	_	_	_	BIO=O
-6	such	_	_	_	_	_	_	_	BIO=O
-7	times	_	_	_	_	_	_	_	BIO=O
+5	at	_	_	_	_	_	_	_	Href=/wiki/at|BIO=B
+6	such	_	_	_	_	_	_	_	Href=/wiki/such|BIO=B
+7	times	_	_	_	_	_	_	_	Href=/wiki/times|BIO=B
 
 

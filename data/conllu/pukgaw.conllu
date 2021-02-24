@@ -1,20 +1,20 @@
 # url = https://en.wiktionary.org/wiki/pukgaw
 # language = Cebuano
-1	Newcastle	_	_	_	_	_	_	_	BIO=O
-2	disease	_	_	_	_	_	_	_	BIO=O
+1	Newcastle	_	_	_	_	_	_	_	Href=/wiki/Newcastle_disease|BIO=B
+2	disease	_	_	_	_	_	_	_	BIO=I
 3	;	_	_	_	_	_	_	_	BIO=O
 4	a	_	_	_	_	_	_	_	BIO=O
 5	highly	_	_	_	_	_	_	_	BIO=O
-6	contagious	_	_	_	_	_	_	_	BIO=O
-7	disease	_	_	_	_	_	_	_	BIO=O
+6	contagious	_	_	_	_	_	_	_	Href=/wiki/contagious|BIO=B
+7	disease	_	_	_	_	_	_	_	Href=/wiki/disease|BIO=B
 8	of	_	_	_	_	_	_	_	BIO=O
-9	poultry	_	_	_	_	_	_	_	BIO=O
+9	poultry	_	_	_	_	_	_	_	Href=/wiki/poultry|BIO=B
 10	,	_	_	_	_	_	_	_	BIO=O
 11	caused	_	_	_	_	_	_	_	BIO=O
 12	by	_	_	_	_	_	_	_	BIO=O
 13	the	_	_	_	_	_	_	_	BIO=O
-14	Newcastle	_	_	_	_	_	_	_	BIO=O
-15	disease	_	_	_	_	_	_	_	BIO=O
-16	virus	_	_	_	_	_	_	_	BIO=O
+14	Newcastle	_	_	_	_	_	_	_	Href=https://species.wikimedia.org/wiki/Newcastle_disease_virus|BIO=B
+15	disease	_	_	_	_	_	_	_	BIO=I
+16	virus	_	_	_	_	_	_	_	BIO=I
 
 

@@ -1,13 +1,13 @@
 # url = https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D1%8B%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D0%B9%D1%82%D0%B5
 # language = Russian
-1	second	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	plural	_	_	_	_	_	_	_	BIO=O
-5	imperative	_	_	_	_	_	_	_	BIO=O
-6	imperfective	_	_	_	_	_	_	_	BIO=O
+1	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+5	imperative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperative_mood|BIO=B
+6	imperfective	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperfective|BIO=B
 7	of	_	_	_	_	_	_	_	BIO=O
-8	обы́грывать	_	_	_	_	_	_	_	BIO=O
+8	обы́грывать	_	_	_	_	_	_	_	Href=/wiki/%D0%BE%D0%B1%D1%8B%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C#Russian|BIO=B
 9	(	_	_	_	_	_	_	_	BIO=O
 10	obýgryvatʹ	_	_	_	_	_	_	_	BIO=O
 11	)	_	_	_	_	_	_	_	BIO=O

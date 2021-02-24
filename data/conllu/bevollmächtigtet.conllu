@@ -2,18 +2,18 @@
 # language = German
 1	inflection	_	_	_	_	_	_	_	BIO=O
 2	of	_	_	_	_	_	_	_	BIO=O
-3	bevollmächtigen	_	_	_	_	_	_	_	BIO=O
+3	bevollmächtigen	_	_	_	_	_	_	_	Href=/wiki/bevollm%C3%A4chtigen#German|BIO=B
 4	:	_	_	_	_	_	_	_	BIO=O
-5	second	_	_	_	_	_	_	_	BIO=O
-6	-	_	_	_	_	_	_	_	BIO=O
-7	person	_	_	_	_	_	_	_	BIO=O
-8	plural	_	_	_	_	_	_	_	BIO=O
-9	preterite	_	_	_	_	_	_	_	BIO=O
-10	second	_	_	_	_	_	_	_	BIO=O
-11	-	_	_	_	_	_	_	_	BIO=O
-12	person	_	_	_	_	_	_	_	BIO=O
-13	plural	_	_	_	_	_	_	_	BIO=O
-14	subjunctive	_	_	_	_	_	_	_	BIO=O
+5	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+6	-	_	_	_	_	_	_	_	BIO=I
+7	person	_	_	_	_	_	_	_	BIO=I
+8	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+9	preterite	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#preterite|BIO=B
+10	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+11	-	_	_	_	_	_	_	_	BIO=I
+12	person	_	_	_	_	_	_	_	BIO=I
+13	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+14	subjunctive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#subjunctive_mood|BIO=B
 15	II	_	_	_	_	_	_	_	BIO=O
 
 

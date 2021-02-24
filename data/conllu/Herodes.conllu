@@ -1,26 +1,26 @@
 # url = https://en.wiktionary.org/wiki/Herodes
 # language = Catalan
-1	Herod	_	_	_	_	_	_	_	BIO=O
+1	Herod	_	_	_	_	_	_	_	Href=/wiki/Herod|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/Herodes
 # language = Czech
-1	Herod	_	_	_	_	_	_	_	BIO=O
+1	Herod	_	_	_	_	_	_	_	Href=/wiki/Herod|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/Herodes
 # language = Latin
 1	A	_	_	_	_	_	_	_	BIO=O
-2	freedman	_	_	_	_	_	_	_	BIO=O
+2	freedman	_	_	_	_	_	_	_	Href=/wiki/freedman#English|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	Atticus	_	_	_	_	_	_	_	BIO=O
+4	Atticus	_	_	_	_	_	_	_	Href=/wiki/Atticus#English|BIO=B
 5	.	_	_	_	_	_	_	_	BIO=O
 6	68–43	_	_	_	_	_	_	_	BIO=O
 7	BC	_	_	_	_	_	_	_	BIO=O
 8	,	_	_	_	_	_	_	_	BIO=O
-9	Marcus	_	_	_	_	_	_	_	BIO=O
-10	Tullius	_	_	_	_	_	_	_	BIO=O
-11	Cicero	_	_	_	_	_	_	_	BIO=O
+9	Marcus	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Cicero|BIO=B
+10	Tullius	_	_	_	_	_	_	_	BIO=I
+11	Cicero	_	_	_	_	_	_	_	BIO=I
 12	,	_	_	_	_	_	_	_	BIO=O
 13	Epistulae	_	_	_	_	_	_	_	BIO=O
 14	ad	_	_	_	_	_	_	_	BIO=O
@@ -41,9 +41,9 @@
 29	,	_	_	_	_	_	_	_	BIO=O
 30	ed	_	_	_	_	_	_	_	BIO=O
 31	.	_	_	_	_	_	_	_	BIO=O
-32	Louis	_	_	_	_	_	_	_	BIO=O
-33	Claude	_	_	_	_	_	_	_	BIO=O
-34	Purser	_	_	_	_	_	_	_	BIO=O
+32	Louis	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Louis_Claude_Purser|BIO=B
+33	Claude	_	_	_	_	_	_	_	BIO=I
+34	Purser	_	_	_	_	_	_	_	BIO=I
 35	,	_	_	_	_	_	_	_	BIO=O
 36	book	_	_	_	_	_	_	_	BIO=O
 37	VI	_	_	_	_	_	_	_	BIO=O
@@ -51,8 +51,8 @@
 39	letter	_	_	_	_	_	_	_	BIO=O
 40	i	_	_	_	_	_	_	_	BIO=O
 41	,	_	_	_	_	_	_	_	BIO=O
-42	§	_	_	_	_	_	_	_	BIO=O
-43	25	_	_	_	_	_	_	_	BIO=O
+42	§	_	_	_	_	_	_	_	Href=http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Att.+6.1.25&fromdoc=Perseus%3Atext%3A1999.02.0008|BIO=B
+43	25	_	_	_	_	_	_	_	BIO=I
 44	:	_	_	_	_	_	_	_	BIO=O
 45	et	_	_	_	_	_	_	_	BIO=O
 46	heus	_	_	_	_	_	_	_	BIO=O
@@ -72,7 +72,7 @@
 
 # url = https://en.wiktionary.org/wiki/Herodes
 # language = Portuguese
-1	Herod	_	_	_	_	_	_	_	BIO=O
+1	Herod	_	_	_	_	_	_	_	Href=/wiki/Herod#English|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	king	_	_	_	_	_	_	_	BIO=O
 4	of	_	_	_	_	_	_	_	BIO=O
@@ -85,7 +85,7 @@
 
 # url = https://en.wiktionary.org/wiki/Herodes
 # language = Spanish
-1	Herod	_	_	_	_	_	_	_	BIO=O
+1	Herod	_	_	_	_	_	_	_	Href=/wiki/Herod#Spanish|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	king	_	_	_	_	_	_	_	BIO=O
 4	)	_	_	_	_	_	_	_	BIO=O

@@ -9,8 +9,8 @@
 7	indicative	_	_	_	_	_	_	_	BIO=O
 8	form	_	_	_	_	_	_	_	BIO=O
 9	of	_	_	_	_	_	_	_	BIO=O
-10	de	_	_	_	_	_	_	_	BIO=O
-11	-	_	_	_	_	_	_	_	BIO=O
-12	Palestinianize	_	_	_	_	_	_	_	BIO=O
+10	de	_	_	_	_	_	_	_	Href=/wiki/de-Palestinianize#English|BIO=B
+11	-	_	_	_	_	_	_	_	BIO=I
+12	Palestinianize	_	_	_	_	_	_	_	BIO=I
 
 

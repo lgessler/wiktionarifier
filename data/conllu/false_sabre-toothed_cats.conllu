@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/false_sabre-toothed_cats
 # language = English
-1	plural	_	_	_	_	_	_	_	BIO=O
+1	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 2	of	_	_	_	_	_	_	_	BIO=O
-3	false	_	_	_	_	_	_	_	BIO=O
-4	sabre	_	_	_	_	_	_	_	BIO=O
-5	-	_	_	_	_	_	_	_	BIO=O
-6	toothed	_	_	_	_	_	_	_	BIO=O
-7	cat	_	_	_	_	_	_	_	BIO=O
+3	false	_	_	_	_	_	_	_	Href=/wiki/false_sabre-toothed_cat#English|BIO=B
+4	sabre	_	_	_	_	_	_	_	BIO=I
+5	-	_	_	_	_	_	_	_	BIO=I
+6	toothed	_	_	_	_	_	_	_	BIO=I
+7	cat	_	_	_	_	_	_	_	BIO=I
 
 

@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/potencializou
 # language = Portuguese
-1	third	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	singular	_	_	_	_	_	_	_	BIO=O
-5	preterite	_	_	_	_	_	_	_	BIO=O
+1	third	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#third_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+5	preterite	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#preterite|BIO=B
 6	of	_	_	_	_	_	_	_	BIO=O
-7	potencializar	_	_	_	_	_	_	_	BIO=O
+7	potencializar	_	_	_	_	_	_	_	Href=/wiki/potencializar#Portuguese|BIO=B
 
 

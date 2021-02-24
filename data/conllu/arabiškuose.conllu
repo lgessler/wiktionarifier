@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/arabi%C5%A1kuose
 # language = Lithuanian
-1	masculine	_	_	_	_	_	_	_	BIO=O
-2	plural	_	_	_	_	_	_	_	BIO=O
-3	locative	_	_	_	_	_	_	_	BIO=O
+1	masculine	_	_	_	_	_	_	_	Href=/wiki/masculine|BIO=B
+2	plural	_	_	_	_	_	_	_	Href=/wiki/plural|BIO=B
+3	locative	_	_	_	_	_	_	_	Href=/wiki/locative|BIO=B
 4	form	_	_	_	_	_	_	_	BIO=O
 5	of	_	_	_	_	_	_	_	BIO=O
-6	arabiškas	_	_	_	_	_	_	_	BIO=O
+6	arabiškas	_	_	_	_	_	_	_	Href=/wiki/arabi%C5%A1kas#Lithuanian|BIO=B
 7	.	_	_	_	_	_	_	_	BIO=O
 
 

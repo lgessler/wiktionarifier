@@ -60,9 +60,9 @@
 
 # url = https://en.wiktionary.org/wiki/saddling
 # language = English
-1	present	_	_	_	_	_	_	_	BIO=O
-2	participle	_	_	_	_	_	_	_	BIO=O
+1	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
+2	participle	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#participle|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	saddle	_	_	_	_	_	_	_	BIO=O
+4	saddle	_	_	_	_	_	_	_	Href=/wiki/saddle#English|BIO=B
 
 

@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/maskuj%C4%85cymi
 # language = Polish
-1	instrumental	_	_	_	_	_	_	_	BIO=O
-2	plural	_	_	_	_	_	_	_	BIO=O
+1	instrumental	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#instrumental_case|BIO=B
+2	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	maskujący	_	_	_	_	_	_	_	BIO=O
+4	maskujący	_	_	_	_	_	_	_	Href=/wiki/maskuj%C4%85cy#Polish|BIO=B
 
 

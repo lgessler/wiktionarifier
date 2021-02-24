@@ -5,11 +5,11 @@
 3	person	_	_	_	_	_	_	_	BIO=O
 4	singular	_	_	_	_	_	_	_	BIO=O
 5	(	_	_	_	_	_	_	_	BIO=O
-6	eu	_	_	_	_	_	_	_	BIO=O
+6	eu	_	_	_	_	_	_	_	Href=/wiki/eu#Portuguese|BIO=B
 7	)	_	_	_	_	_	_	_	BIO=O
 8	future	_	_	_	_	_	_	_	BIO=O
 9	indicative	_	_	_	_	_	_	_	BIO=O
 10	of	_	_	_	_	_	_	_	BIO=O
-11	escarchar	_	_	_	_	_	_	_	BIO=O
+11	escarchar	_	_	_	_	_	_	_	Href=/wiki/escarchar#Portuguese|BIO=B
 
 

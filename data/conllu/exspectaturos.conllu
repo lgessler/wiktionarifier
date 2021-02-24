@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/exspectaturos
 # language = Latin
-1	accusative	_	_	_	_	_	_	_	BIO=O
-2	masculine	_	_	_	_	_	_	_	BIO=O
-3	plural	_	_	_	_	_	_	_	BIO=O
+1	accusative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#accusative_case|BIO=B
+2	masculine	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
+3	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 4	of	_	_	_	_	_	_	_	BIO=O
-5	exspectātūrus	_	_	_	_	_	_	_	BIO=O
+5	exspectātūrus	_	_	_	_	_	_	_	Href=/wiki/exspectaturus#Latin|BIO=B
 
 

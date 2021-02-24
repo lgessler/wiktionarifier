@@ -1,6 +1,6 @@
 # url = https://en.wiktionary.org/wiki/p%C5%ABoga
 # language = Livonian
-1	son	_	_	_	_	_	_	_	BIO=O
+1	son	_	_	_	_	_	_	_	Href=/wiki/son|BIO=B
 2	Tiit	_	_	_	_	_	_	_	BIO=O
 3	-	_	_	_	_	_	_	_	BIO=O
 4	Rein	_	_	_	_	_	_	_	BIO=O
@@ -12,12 +12,12 @@
 10	2012–2013	_	_	_	_	_	_	_	BIO=O
 11	)	_	_	_	_	_	_	_	BIO=O
 12	,	_	_	_	_	_	_	_	BIO=O
-13	Līvõkīel	_	_	_	_	_	_	_	BIO=O
-14	-	_	_	_	_	_	_	_	BIO=O
-15	ēstikīel	_	_	_	_	_	_	_	BIO=O
-16	-	_	_	_	_	_	_	_	BIO=O
-17	lețkīel	_	_	_	_	_	_	_	BIO=O
-18	sõnārōntõz	_	_	_	_	_	_	_	BIO=O
+13	Līvõkīel	_	_	_	_	_	_	_	Href=http://www.murre.ut.ee/liivi/dict.cgi?word=p%C5%ABoga&lang=ko|BIO=B
+14	-	_	_	_	_	_	_	_	BIO=I
+15	ēstikīel	_	_	_	_	_	_	_	BIO=I
+16	-	_	_	_	_	_	_	_	BIO=I
+17	lețkīel	_	_	_	_	_	_	_	BIO=I
+18	sõnārōntõz	_	_	_	_	_	_	_	BIO=I
 19	,	_	_	_	_	_	_	_	BIO=O
 20	Tartu	_	_	_	_	_	_	_	BIO=O
 21	,	_	_	_	_	_	_	_	BIO=O

@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/Flugs
 # language = German
-1	genitive	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
+1	genitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#genitive_case|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	Flug	_	_	_	_	_	_	_	BIO=O
+4	Flug	_	_	_	_	_	_	_	Href=/wiki/Flug#German|BIO=B
 
 

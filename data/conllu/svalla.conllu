@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/svalla
 # language = Swedish
 1	to	_	_	_	_	_	_	_	BIO=O
-2	swell	_	_	_	_	_	_	_	BIO=O
+2	swell	_	_	_	_	_	_	_	Href=/wiki/swell|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
 4	to	_	_	_	_	_	_	_	BIO=O
-5	surge	_	_	_	_	_	_	_	BIO=O
+5	surge	_	_	_	_	_	_	_	Href=/wiki/surge|BIO=B
 6	(	_	_	_	_	_	_	_	BIO=O
 7	of	_	_	_	_	_	_	_	BIO=O
 8	the	_	_	_	_	_	_	_	BIO=O
@@ -20,13 +20,13 @@
 # url = https://en.wiktionary.org/wiki/svalla
 # language = Swedish
 1	to	_	_	_	_	_	_	_	BIO=O
-2	undulate	_	_	_	_	_	_	_	BIO=O
+2	undulate	_	_	_	_	_	_	_	Href=/wiki/undulate|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
 4	to	_	_	_	_	_	_	_	BIO=O
-5	billow	_	_	_	_	_	_	_	BIO=O
+5	billow	_	_	_	_	_	_	_	Href=/wiki/billow|BIO=B
 6	,	_	_	_	_	_	_	_	BIO=O
 7	to	_	_	_	_	_	_	_	BIO=O
-8	heave	_	_	_	_	_	_	_	BIO=O
+8	heave	_	_	_	_	_	_	_	Href=/wiki/heave|BIO=B
 9	(	_	_	_	_	_	_	_	BIO=O
 10	to	_	_	_	_	_	_	_	BIO=O
 11	move	_	_	_	_	_	_	_	BIO=O
@@ -43,22 +43,22 @@
 # url = https://en.wiktionary.org/wiki/svalla
 # language = Swedish
 1	to	_	_	_	_	_	_	_	BIO=O
-2	seethe	_	_	_	_	_	_	_	BIO=O
+2	seethe	_	_	_	_	_	_	_	Href=/wiki/seethe|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/svalla
 # language = Swedish
 1	to	_	_	_	_	_	_	_	BIO=O
-2	effervesce	_	_	_	_	_	_	_	BIO=O
+2	effervesce	_	_	_	_	_	_	_	Href=/wiki/effervesce|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/svalla
 # language = Swedish
 1	to	_	_	_	_	_	_	_	BIO=O
-2	flush	_	_	_	_	_	_	_	BIO=O
+2	flush	_	_	_	_	_	_	_	Href=/wiki/flush|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
 4	to	_	_	_	_	_	_	_	BIO=O
-5	flow	_	_	_	_	_	_	_	BIO=O
+5	flow	_	_	_	_	_	_	_	Href=/wiki/flow|BIO=B
 6	(	_	_	_	_	_	_	_	BIO=O
 7	of	_	_	_	_	_	_	_	BIO=O
 8	blood	_	_	_	_	_	_	_	BIO=O
@@ -72,11 +72,11 @@
 # url = https://en.wiktionary.org/wiki/svalla
 # language = Swedish
 1	to	_	_	_	_	_	_	_	BIO=O
-2	run	_	_	_	_	_	_	_	BIO=O
-3	high	_	_	_	_	_	_	_	BIO=O
+2	run	_	_	_	_	_	_	_	Href=/w/index.php?title=run_high&action=edit&redlink=1|BIO=B
+3	high	_	_	_	_	_	_	_	BIO=I
 4	,	_	_	_	_	_	_	_	BIO=O
 5	to	_	_	_	_	_	_	_	BIO=O
-6	overflow	_	_	_	_	_	_	_	BIO=O
+6	overflow	_	_	_	_	_	_	_	Href=/wiki/overflow|BIO=B
 7	(	_	_	_	_	_	_	_	BIO=O
 8	of	_	_	_	_	_	_	_	BIO=O
 9	emotions	_	_	_	_	_	_	_	BIO=O

@@ -1,6 +1,7 @@
 # url = https://en.wiktionary.org/wiki/Vanvleet
 # language = English
 1	A	_	_	_	_	_	_	_	BIO=O
-2	surname​.	_	_	_	_	_	_	_	BIO=O
+2	surname	_	_	_	_	_	_	_	Href=/wiki/surname|BIO=B
+3	​.	_	_	_	_	_	_	_	BIO=O
 
 

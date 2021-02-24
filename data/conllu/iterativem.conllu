@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/iterativem
 # language = German
-1	strong	_	_	_	_	_	_	_	BIO=O
-2	dative	_	_	_	_	_	_	_	BIO=O
-3	masculine	_	_	_	_	_	_	_	BIO=O
+1	strong	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#indefinite|BIO=B
+2	dative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#dative_case|BIO=B
+3	masculine	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
 4	/	_	_	_	_	_	_	_	BIO=O
-5	neuter	_	_	_	_	_	_	_	BIO=O
-6	singular	_	_	_	_	_	_	_	BIO=O
+5	neuter	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
+6	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 7	of	_	_	_	_	_	_	_	BIO=O
-8	iterativ	_	_	_	_	_	_	_	BIO=O
+8	iterativ	_	_	_	_	_	_	_	Href=/wiki/iterativ#German|BIO=B
 
 

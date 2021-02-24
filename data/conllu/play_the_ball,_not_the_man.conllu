@@ -3,12 +3,12 @@
 1	Alternative	_	_	_	_	_	_	_	BIO=O
 2	form	_	_	_	_	_	_	_	BIO=O
 3	of	_	_	_	_	_	_	_	BIO=O
-4	play	_	_	_	_	_	_	_	BIO=O
-5	the	_	_	_	_	_	_	_	BIO=O
-6	ball	_	_	_	_	_	_	_	BIO=O
-7	and	_	_	_	_	_	_	_	BIO=O
-8	not	_	_	_	_	_	_	_	BIO=O
-9	the	_	_	_	_	_	_	_	BIO=O
-10	man	_	_	_	_	_	_	_	BIO=O
+4	play	_	_	_	_	_	_	_	Href=/wiki/play_the_ball_and_not_the_man#English|BIO=B
+5	the	_	_	_	_	_	_	_	BIO=I
+6	ball	_	_	_	_	_	_	_	BIO=I
+7	and	_	_	_	_	_	_	_	BIO=I
+8	not	_	_	_	_	_	_	_	BIO=I
+9	the	_	_	_	_	_	_	_	BIO=I
+10	man	_	_	_	_	_	_	_	BIO=I
 
 

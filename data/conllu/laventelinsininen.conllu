@@ -1,6 +1,6 @@
 # url = https://en.wiktionary.org/wiki/laventelinsininen
 # language = Finnish
-1	lavender	_	_	_	_	_	_	_	BIO=O
+1	lavender	_	_	_	_	_	_	_	Href=/wiki/lavender|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	having	_	_	_	_	_	_	_	BIO=O
 4	a	_	_	_	_	_	_	_	BIO=O

@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/omatsuri
 # language = Japanese
-1	Rōmaji	_	_	_	_	_	_	_	BIO=O
+1	Rōmaji	_	_	_	_	_	_	_	Href=/wiki/romaji|BIO=B
 2	transcription	_	_	_	_	_	_	_	BIO=O
 3	of	_	_	_	_	_	_	_	BIO=O
-4	おまつり	_	_	_	_	_	_	_	BIO=O
+4	おまつり	_	_	_	_	_	_	_	Href=/wiki/%E3%81%8A%E3%81%BE%E3%81%A4%E3%82%8A#Japanese|BIO=B
 
 

@@ -1,20 +1,20 @@
 # url = https://en.wiktionary.org/wiki/%C3%A0_voix_haute
 # language = French
-1	aloud	_	_	_	_	_	_	_	BIO=O
+1	aloud	_	_	_	_	_	_	_	Href=/wiki/aloud|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	loudly	_	_	_	_	_	_	_	BIO=O
 4	)	_	_	_	_	_	_	_	BIO=O
 5	Synonym	_	_	_	_	_	_	_	BIO=O
 6	:	_	_	_	_	_	_	_	BIO=O
-7	tout	_	_	_	_	_	_	_	BIO=O
-8	haut	_	_	_	_	_	_	_	BIO=O
+7	tout	_	_	_	_	_	_	_	Href=/wiki/tout_haut#French|BIO=B
+8	haut	_	_	_	_	_	_	_	BIO=I
 9	Antonyms	_	_	_	_	_	_	_	BIO=O
 10	:	_	_	_	_	_	_	_	BIO=O
-11	à	_	_	_	_	_	_	_	BIO=O
-12	voix	_	_	_	_	_	_	_	BIO=O
-13	basse	_	_	_	_	_	_	_	BIO=O
+11	à	_	_	_	_	_	_	_	Href=/wiki/%C3%A0_voix_basse#French|BIO=B
+12	voix	_	_	_	_	_	_	_	BIO=I
+13	basse	_	_	_	_	_	_	_	BIO=I
 14	,	_	_	_	_	_	_	_	BIO=O
-15	tout	_	_	_	_	_	_	_	BIO=O
-16	bas	_	_	_	_	_	_	_	BIO=O
+15	tout	_	_	_	_	_	_	_	Href=/w/index.php?title=tout_bas&action=edit&redlink=1|BIO=B
+16	bas	_	_	_	_	_	_	_	BIO=I
 
 

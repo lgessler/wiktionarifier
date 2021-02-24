@@ -2,17 +2,17 @@
 # language = Translingual
 1	A	_	_	_	_	_	_	_	BIO=O
 2	taxonomic	_	_	_	_	_	_	_	BIO=O
-3	species	_	_	_	_	_	_	_	BIO=O
+3	species	_	_	_	_	_	_	_	Href=/wiki/species#English|BIO=B
 4	within	_	_	_	_	_	_	_	BIO=O
 5	the	_	_	_	_	_	_	_	BIO=O
-6	family	_	_	_	_	_	_	_	BIO=O
-7	Columbidae	_	_	_	_	_	_	_	BIO=O
+6	family	_	_	_	_	_	_	_	Href=/wiki/family#English|BIO=B
+7	Columbidae	_	_	_	_	_	_	_	Href=/wiki/Columbidae#Translingual|BIO=B
 8	–	_	_	_	_	_	_	_	BIO=O
 9	the	_	_	_	_	_	_	_	BIO=O
-10	pale	_	_	_	_	_	_	_	BIO=O
-11	-	_	_	_	_	_	_	_	BIO=O
-12	capped	_	_	_	_	_	_	_	BIO=O
-13	pigeon	_	_	_	_	_	_	_	BIO=O
+10	pale	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/pale-capped_pigeon|BIO=B
+11	-	_	_	_	_	_	_	_	BIO=I
+12	capped	_	_	_	_	_	_	_	BIO=I
+13	pigeon	_	_	_	_	_	_	_	BIO=I
 14	.	_	_	_	_	_	_	_	BIO=O
 
 

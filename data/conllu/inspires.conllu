@@ -8,7 +8,7 @@
 6	indicative	_	_	_	_	_	_	_	BIO=O
 7	form	_	_	_	_	_	_	_	BIO=O
 8	of	_	_	_	_	_	_	_	BIO=O
-9	inspirar	_	_	_	_	_	_	_	BIO=O
+9	inspirar	_	_	_	_	_	_	_	Href=/wiki/inspirar#Catalan|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/inspires
@@ -22,20 +22,20 @@
 7	indicative	_	_	_	_	_	_	_	BIO=O
 8	form	_	_	_	_	_	_	_	BIO=O
 9	of	_	_	_	_	_	_	_	BIO=O
-10	inspire	_	_	_	_	_	_	_	BIO=O
+10	inspire	_	_	_	_	_	_	_	Href=/wiki/inspire#English|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/inspires
 # language = Latin
-1	second	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	singular	_	_	_	_	_	_	_	BIO=O
-5	present	_	_	_	_	_	_	_	BIO=O
-6	active	_	_	_	_	_	_	_	BIO=O
-7	subjunctive	_	_	_	_	_	_	_	BIO=O
+1	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+5	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
+6	active	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#active_voice|BIO=B
+7	subjunctive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#subjunctive_mood|BIO=B
 8	of	_	_	_	_	_	_	_	BIO=O
-9	īnspīrō	_	_	_	_	_	_	_	BIO=O
+9	īnspīrō	_	_	_	_	_	_	_	Href=/wiki/inspiro#Latin|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/inspires
@@ -46,13 +46,13 @@
 4	person	_	_	_	_	_	_	_	BIO=O
 5	singular	_	_	_	_	_	_	_	BIO=O
 6	(	_	_	_	_	_	_	_	BIO=O
-7	tú	_	_	_	_	_	_	_	BIO=O
+7	tú	_	_	_	_	_	_	_	Href=/wiki/t%C3%BA#Spanish|BIO=B
 8	)	_	_	_	_	_	_	_	BIO=O
 9	negative	_	_	_	_	_	_	_	BIO=O
 10	imperative	_	_	_	_	_	_	_	BIO=O
 11	form	_	_	_	_	_	_	_	BIO=O
 12	of	_	_	_	_	_	_	_	BIO=O
-13	inspirar	_	_	_	_	_	_	_	BIO=O
+13	inspirar	_	_	_	_	_	_	_	Href=/wiki/inspirar#Spanish|BIO=B
 14	.	_	_	_	_	_	_	_	BIO=O
 
 
@@ -64,13 +64,13 @@
 4	person	_	_	_	_	_	_	_	BIO=O
 5	singular	_	_	_	_	_	_	_	BIO=O
 6	(	_	_	_	_	_	_	_	BIO=O
-7	tú	_	_	_	_	_	_	_	BIO=O
+7	tú	_	_	_	_	_	_	_	Href=/wiki/t%C3%BA#Spanish|BIO=B
 8	)	_	_	_	_	_	_	_	BIO=O
 9	present	_	_	_	_	_	_	_	BIO=O
 10	subjunctive	_	_	_	_	_	_	_	BIO=O
 11	form	_	_	_	_	_	_	_	BIO=O
 12	of	_	_	_	_	_	_	_	BIO=O
-13	inspirar	_	_	_	_	_	_	_	BIO=O
+13	inspirar	_	_	_	_	_	_	_	Href=/wiki/inspirar#Spanish|BIO=B
 14	.	_	_	_	_	_	_	_	BIO=O
 
 

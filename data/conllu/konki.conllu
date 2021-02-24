@@ -1,24 +1,24 @@
 # url = https://en.wiktionary.org/wiki/konki
 # language = Finnish
 1	(	_	_	_	_	_	_	_	BIO=O
-2	slang	_	_	_	_	_	_	_	BIO=O
+2	slang	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#slang|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
-4	walkway	_	_	_	_	_	_	_	BIO=O
+4	walkway	_	_	_	_	_	_	_	Href=/wiki/walkway|BIO=B
 5	,	_	_	_	_	_	_	_	BIO=O
-6	corridor	_	_	_	_	_	_	_	BIO=O
+6	corridor	_	_	_	_	_	_	_	Href=/wiki/corridor|BIO=B
 7	,	_	_	_	_	_	_	_	BIO=O
-8	path	_	_	_	_	_	_	_	BIO=O
+8	path	_	_	_	_	_	_	_	Href=/wiki/path|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/konki
 # language = Ido
-1	plural	_	_	_	_	_	_	_	BIO=O
+1	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 2	of	_	_	_	_	_	_	_	BIO=O
-3	konko	_	_	_	_	_	_	_	BIO=O
+3	konko	_	_	_	_	_	_	_	Href=/wiki/konko#Ido|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/konki
 # language = Kabuverdianu
-1	knock	_	_	_	_	_	_	_	BIO=O
+1	knock	_	_	_	_	_	_	_	Href=/wiki/knock|BIO=B
 
 

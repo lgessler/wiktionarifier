@@ -1,13 +1,13 @@
 # url = https://en.wiktionary.org/wiki/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B4%CE%AD%CF%84%CE%B7%CF%83%CE%B5%CF%82
 # language = Greek
-1	2nd	_	_	_	_	_	_	_	BIO=O
-2	person	_	_	_	_	_	_	_	BIO=O
-3	singular	_	_	_	_	_	_	_	BIO=O
-4	simple	_	_	_	_	_	_	_	BIO=O
-5	past	_	_	_	_	_	_	_	BIO=O
+1	2nd	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#2nd_person|BIO=B
+2	person	_	_	_	_	_	_	_	BIO=I
+3	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+4	simple	_	_	_	_	_	_	_	Href=/wiki/simple_past|BIO=B
+5	past	_	_	_	_	_	_	_	BIO=I
 6	form	_	_	_	_	_	_	_	BIO=O
 7	of	_	_	_	_	_	_	_	BIO=O
-8	βιβλιοδετώ	_	_	_	_	_	_	_	BIO=O
+8	βιβλιοδετώ	_	_	_	_	_	_	_	Href=/wiki/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B4%CE%B5%CF%84%CF%8E#Greek|BIO=B
 9	(	_	_	_	_	_	_	_	BIO=O
 10	vivliodetó	_	_	_	_	_	_	_	BIO=O
 11	)	_	_	_	_	_	_	_	BIO=O

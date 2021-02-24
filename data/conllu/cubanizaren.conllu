@@ -5,13 +5,13 @@
 3	person	_	_	_	_	_	_	_	BIO=O
 4	plural	_	_	_	_	_	_	_	BIO=O
 5	(	_	_	_	_	_	_	_	BIO=O
-6	ustedes	_	_	_	_	_	_	_	BIO=O
+6	ustedes	_	_	_	_	_	_	_	Href=/wiki/ustedes#Spanish|BIO=B
 7	)	_	_	_	_	_	_	_	BIO=O
 8	future	_	_	_	_	_	_	_	BIO=O
 9	subjunctive	_	_	_	_	_	_	_	BIO=O
 10	form	_	_	_	_	_	_	_	BIO=O
 11	of	_	_	_	_	_	_	_	BIO=O
-12	cubanizar	_	_	_	_	_	_	_	BIO=O
+12	cubanizar	_	_	_	_	_	_	_	Href=/wiki/cubanizar#Spanish|BIO=B
 13	.	_	_	_	_	_	_	_	BIO=O
 
 
@@ -22,21 +22,21 @@
 3	person	_	_	_	_	_	_	_	BIO=O
 4	plural	_	_	_	_	_	_	_	BIO=O
 5	(	_	_	_	_	_	_	_	BIO=O
-6	ellos	_	_	_	_	_	_	_	BIO=O
+6	ellos	_	_	_	_	_	_	_	Href=/wiki/ellos#Spanish|BIO=B
 7	,	_	_	_	_	_	_	_	BIO=O
-8	ellas	_	_	_	_	_	_	_	BIO=O
+8	ellas	_	_	_	_	_	_	_	Href=/wiki/ellas#Spanish|BIO=B
 9	,	_	_	_	_	_	_	_	BIO=O
 10	also	_	_	_	_	_	_	_	BIO=O
 11	used	_	_	_	_	_	_	_	BIO=O
 12	with	_	_	_	_	_	_	_	BIO=O
-13	ustedes	_	_	_	_	_	_	_	BIO=O
-14	?	_	_	_	_	_	_	_	BIO=O
+13	ustedes	_	_	_	_	_	_	_	Href=/wiki/ustedes#Spanish|BIO=B
+14	?	_	_	_	_	_	_	_	Href=/wiki/Appendix:Spanish_conjugation#Pronouns|BIO=B
 15	)	_	_	_	_	_	_	_	BIO=O
 16	future	_	_	_	_	_	_	_	BIO=O
 17	subjunctive	_	_	_	_	_	_	_	BIO=O
 18	form	_	_	_	_	_	_	_	BIO=O
 19	of	_	_	_	_	_	_	_	BIO=O
-20	cubanizar	_	_	_	_	_	_	_	BIO=O
+20	cubanizar	_	_	_	_	_	_	_	Href=/wiki/cubanizar#Spanish|BIO=B
 21	.	_	_	_	_	_	_	_	BIO=O
 
 

@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/Salzkorn
 # language = German
-1	grain	_	_	_	_	_	_	_	BIO=O
+1	grain	_	_	_	_	_	_	_	Href=/wiki/grain|BIO=B
 2	of	_	_	_	_	_	_	_	BIO=O
-3	salt	_	_	_	_	_	_	_	BIO=O
+3	salt	_	_	_	_	_	_	_	Href=/wiki/salt|BIO=B
 
 

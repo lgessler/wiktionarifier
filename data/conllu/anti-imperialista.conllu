@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/anti-imperialista
 # language = Portuguese
 1	(	_	_	_	_	_	_	_	BIO=O
-2	politics	_	_	_	_	_	_	_	BIO=O
+2	politics	_	_	_	_	_	_	_	Href=/wiki/politics|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
-4	anti	_	_	_	_	_	_	_	BIO=O
-5	-	_	_	_	_	_	_	_	BIO=O
-6	imperialist	_	_	_	_	_	_	_	BIO=O
+4	anti	_	_	_	_	_	_	_	Href=/wiki/anti-imperialist#English|BIO=B
+5	-	_	_	_	_	_	_	_	BIO=I
+6	imperialist	_	_	_	_	_	_	_	BIO=I
 7	(	_	_	_	_	_	_	_	BIO=O
 8	opposed	_	_	_	_	_	_	_	BIO=O
 9	to	_	_	_	_	_	_	_	BIO=O

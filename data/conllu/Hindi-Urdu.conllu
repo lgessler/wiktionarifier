@@ -1,14 +1,14 @@
 # url = https://en.wiktionary.org/wiki/Hindi-Urdu
 # language = English
 1	The	_	_	_	_	_	_	_	BIO=O
-2	language	_	_	_	_	_	_	_	BIO=O
+2	language	_	_	_	_	_	_	_	Href=/wiki/language|BIO=B
 3	which	_	_	_	_	_	_	_	BIO=O
 4	constitutes	_	_	_	_	_	_	_	BIO=O
 5	the	_	_	_	_	_	_	_	BIO=O
-6	Hindi	_	_	_	_	_	_	_	BIO=O
+6	Hindi	_	_	_	_	_	_	_	Href=/wiki/Hindi|BIO=B
 7	and	_	_	_	_	_	_	_	BIO=O
-8	Urdu	_	_	_	_	_	_	_	BIO=O
-9	registers	_	_	_	_	_	_	_	BIO=O
+8	Urdu	_	_	_	_	_	_	_	Href=/wiki/Urdu|BIO=B
+9	registers	_	_	_	_	_	_	_	Href=/wiki/register|BIO=B
 10	.	_	_	_	_	_	_	_	BIO=O
 
 

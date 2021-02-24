@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/M%C7%8Ek%C7%92u
 # language = Mandarin
-1	Pinyin	_	_	_	_	_	_	_	BIO=O
+1	Pinyin	_	_	_	_	_	_	_	Href=/wiki/Pinyin|BIO=B
 2	transcription	_	_	_	_	_	_	_	BIO=O
 3	of	_	_	_	_	_	_	_	BIO=O
-4	馬口	_	_	_	_	_	_	_	BIO=O
+4	馬口	_	_	_	_	_	_	_	Href=/wiki/%E9%A6%AC%E5%8F%A3#Chinese|BIO=B
 5	,	_	_	_	_	_	_	_	BIO=O
-6	马口	_	_	_	_	_	_	_	BIO=O
+6	马口	_	_	_	_	_	_	_	Href=/wiki/%E9%A9%AC%E5%8F%A3#Chinese|BIO=B
 
 

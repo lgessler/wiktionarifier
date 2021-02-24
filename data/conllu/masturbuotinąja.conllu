@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/masturbuotin%C4%85ja
 # language = Lithuanian
-1	pronominal	_	_	_	_	_	_	_	BIO=O
-2	feminine	_	_	_	_	_	_	_	BIO=O
-3	singular	_	_	_	_	_	_	_	BIO=O
-4	instrumental	_	_	_	_	_	_	_	BIO=O
+1	pronominal	_	_	_	_	_	_	_	Href=/wiki/pronominal|BIO=B
+2	feminine	_	_	_	_	_	_	_	Href=/wiki/feminine|BIO=B
+3	singular	_	_	_	_	_	_	_	Href=/wiki/singular|BIO=B
+4	instrumental	_	_	_	_	_	_	_	Href=/wiki/instrumental|BIO=B
 5	form	_	_	_	_	_	_	_	BIO=O
 6	of	_	_	_	_	_	_	_	BIO=O
-7	masturbuotinas	_	_	_	_	_	_	_	BIO=O
+7	masturbuotinas	_	_	_	_	_	_	_	Href=/wiki/masturbuotinas#Lithuanian|BIO=B
 8	.	_	_	_	_	_	_	_	BIO=O
 
 

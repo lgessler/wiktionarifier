@@ -1,42 +1,42 @@
 # url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
 # language = Lithuanian
-1	feminine	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
-3	nominative	_	_	_	_	_	_	_	BIO=O
+1	feminine	_	_	_	_	_	_	_	Href=/wiki/feminine|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/singular|BIO=B
+3	nominative	_	_	_	_	_	_	_	Href=/wiki/nominative|BIO=B
 4	form	_	_	_	_	_	_	_	BIO=O
 5	of	_	_	_	_	_	_	_	BIO=O
-6	armėniškas	_	_	_	_	_	_	_	BIO=O
+6	armėniškas	_	_	_	_	_	_	_	Href=/wiki/arm%C4%97ni%C5%A1kas#Lithuanian|BIO=B
 7	.	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
 # language = Lithuanian
-1	feminine	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
-3	instrumental	_	_	_	_	_	_	_	BIO=O
+1	feminine	_	_	_	_	_	_	_	Href=/wiki/feminine|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/singular|BIO=B
+3	instrumental	_	_	_	_	_	_	_	Href=/wiki/instrumental|BIO=B
 4	form	_	_	_	_	_	_	_	BIO=O
 5	of	_	_	_	_	_	_	_	BIO=O
-6	armėniškas	_	_	_	_	_	_	_	BIO=O
+6	armėniškas	_	_	_	_	_	_	_	Href=/wiki/arm%C4%97ni%C5%A1kas#Lithuanian|BIO=B
 7	.	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
 # language = Lithuanian
-1	feminine	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
-3	vocative	_	_	_	_	_	_	_	BIO=O
+1	feminine	_	_	_	_	_	_	_	Href=/wiki/feminine|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/singular|BIO=B
+3	vocative	_	_	_	_	_	_	_	Href=/wiki/vocative|BIO=B
 4	form	_	_	_	_	_	_	_	BIO=O
 5	of	_	_	_	_	_	_	_	BIO=O
-6	armėniškas	_	_	_	_	_	_	_	BIO=O
+6	armėniškas	_	_	_	_	_	_	_	Href=/wiki/arm%C4%97ni%C5%A1kas#Lithuanian|BIO=B
 7	.	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/arm%C4%97ni%C5%A1ka
 # language = Lithuanian
-1	neuter	_	_	_	_	_	_	_	BIO=O
+1	neuter	_	_	_	_	_	_	_	Href=/wiki/neuter|BIO=B
 2	form	_	_	_	_	_	_	_	BIO=O
 3	of	_	_	_	_	_	_	_	BIO=O
-4	armėniškas	_	_	_	_	_	_	_	BIO=O
+4	armėniškas	_	_	_	_	_	_	_	Href=/wiki/arm%C4%97ni%C5%A1kas#Lithuanian|BIO=B
 5	.	_	_	_	_	_	_	_	BIO=O
 
 

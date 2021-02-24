@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/maroufle
 # language = French
 1	(	_	_	_	_	_	_	_	BIO=O
-2	colloquial	_	_	_	_	_	_	_	BIO=O
+2	colloquial	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#colloquial|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
-4	archaic	_	_	_	_	_	_	_	BIO=O
+4	archaic	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#archaic|BIO=B
 5	)	_	_	_	_	_	_	_	BIO=O
-6	rascal	_	_	_	_	_	_	_	BIO=O
+6	rascal	_	_	_	_	_	_	_	Href=/wiki/rascal|BIO=B
 7	,	_	_	_	_	_	_	_	BIO=O
-8	rogue	_	_	_	_	_	_	_	BIO=O
+8	rogue	_	_	_	_	_	_	_	Href=/wiki/rogue|BIO=B
 
 

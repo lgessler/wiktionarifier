@@ -1,14 +1,14 @@
 # url = https://en.wiktionary.org/wiki/bakterio
 # language = Esperanto
-1	bacterium	_	_	_	_	_	_	_	BIO=O
+1	bacterium	_	_	_	_	_	_	_	Href=/wiki/bacterium|BIO=B
 2	Hyponym	_	_	_	_	_	_	_	BIO=O
 3	:	_	_	_	_	_	_	_	BIO=O
-4	bacilo	_	_	_	_	_	_	_	BIO=O
+4	bacilo	_	_	_	_	_	_	_	Href=/wiki/bacilo#Esperanto|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/bakterio
 # language = Ido
-1	bacterium	_	_	_	_	_	_	_	BIO=O
+1	bacterium	_	_	_	_	_	_	_	Href=/wiki/bacterium#English|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	monocellular	_	_	_	_	_	_	_	BIO=O
 4	organism	_	_	_	_	_	_	_	BIO=O
@@ -36,9 +36,9 @@
 
 # url = https://en.wiktionary.org/wiki/bakterio
 # language = Polish
-1	vocative	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
+1	vocative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#vocative_case|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	bakteria	_	_	_	_	_	_	_	BIO=O
+4	bakteria	_	_	_	_	_	_	_	Href=/wiki/bakteria#Polish|BIO=B
 
 

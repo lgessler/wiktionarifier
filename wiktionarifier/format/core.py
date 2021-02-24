@@ -193,7 +193,7 @@ def find_entries(tokenizer, soup):
             # parse the inner html
             inner_content = BeautifulSoup(node.decode_contents(), features="html.parser")
             # discard all tags which are not <a>
-            inner_content = excise_elements(inner_content, [":not(a[href|=\"/wiki/\"])"])
+            inner_content = excise_elements(inner_content, [":not(a[href])"])
             # to make tokenization simpler, remove attrs from all <a> elements and store them in a separate list
             inner_content, a_attrs = remove_a_attrs(inner_content)
             # get the tokens with the dehydrated <a> tags

@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/feset
 # language = Norwegian Bokmål
-1	past	_	_	_	_	_	_	_	BIO=O
-2	participle	_	_	_	_	_	_	_	BIO=O
+1	past	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#past_tense|BIO=B
+2	participle	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#participle|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	fise	_	_	_	_	_	_	_	BIO=O
+4	fise	_	_	_	_	_	_	_	Href=/wiki/fise#Norwegian_Bokmål|BIO=B
 
 

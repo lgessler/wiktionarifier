@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/kitaplar%C4%B1
 # language = Turkish
-1	definite	_	_	_	_	_	_	_	BIO=O
-2	accusative	_	_	_	_	_	_	_	BIO=O
-3	plural	_	_	_	_	_	_	_	BIO=O
+1	definite	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#definite|BIO=B
+2	accusative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#accusative_case|BIO=B
+3	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 4	of	_	_	_	_	_	_	_	BIO=O
-5	kitap	_	_	_	_	_	_	_	BIO=O
+5	kitap	_	_	_	_	_	_	_	Href=/wiki/kitap#Turkish|BIO=B
 
 

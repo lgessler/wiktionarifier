@@ -17,10 +17,10 @@
 15	understood	_	_	_	_	_	_	_	BIO=O
 16	to	_	_	_	_	_	_	_	BIO=O
 17	include	_	_	_	_	_	_	_	BIO=O
-18	health	_	_	_	_	_	_	_	BIO=O
+18	health	_	_	_	_	_	_	_	Href=/wiki/health|BIO=B
 19	and	_	_	_	_	_	_	_	BIO=O
-20	social	_	_	_	_	_	_	_	BIO=O
-21	services	_	_	_	_	_	_	_	BIO=O
+20	social	_	_	_	_	_	_	_	Href=/wiki/social|BIO=B
+21	services	_	_	_	_	_	_	_	Href=/wiki/services|BIO=B
 22	.	_	_	_	_	_	_	_	BIO=O
 
 

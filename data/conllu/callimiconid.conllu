@@ -1,13 +1,13 @@
 # url = https://en.wiktionary.org/wiki/callimiconid
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	zoology	_	_	_	_	_	_	_	BIO=O
+2	zoology	_	_	_	_	_	_	_	Href=/wiki/zoology|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	A	_	_	_	_	_	_	_	BIO=O
-5	monkey	_	_	_	_	_	_	_	BIO=O
+5	monkey	_	_	_	_	_	_	_	Href=/wiki/monkey|BIO=B
 6	in	_	_	_	_	_	_	_	BIO=O
 7	the	_	_	_	_	_	_	_	BIO=O
-8	family	_	_	_	_	_	_	_	BIO=O
+8	family	_	_	_	_	_	_	_	Href=/wiki/family|BIO=B
 9	Callimiconidae	_	_	_	_	_	_	_	BIO=O
 10	,	_	_	_	_	_	_	_	BIO=O
 11	now	_	_	_	_	_	_	_	BIO=O
@@ -17,13 +17,13 @@
 15	part	_	_	_	_	_	_	_	BIO=O
 16	of	_	_	_	_	_	_	_	BIO=O
 17	the	_	_	_	_	_	_	_	BIO=O
-18	family	_	_	_	_	_	_	_	BIO=O
-19	Callitrichidae	_	_	_	_	_	_	_	BIO=O
+18	family	_	_	_	_	_	_	_	Href=/wiki/family|BIO=B
+19	Callitrichidae	_	_	_	_	_	_	_	Href=/wiki/Callitrichidae|BIO=B
 20	;	_	_	_	_	_	_	_	BIO=O
 21	a	_	_	_	_	_	_	_	BIO=O
-22	Goeldi	_	_	_	_	_	_	_	BIO=O
-23	's	_	_	_	_	_	_	_	BIO=O
-24	marmoset	_	_	_	_	_	_	_	BIO=O
+22	Goeldi	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Goeldi%27s_marmoset|BIO=B
+23	's	_	_	_	_	_	_	_	BIO=I
+24	marmoset	_	_	_	_	_	_	_	BIO=I
 25	.	_	_	_	_	_	_	_	BIO=O
 
 

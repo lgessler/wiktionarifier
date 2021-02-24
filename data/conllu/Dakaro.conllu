@@ -1,15 +1,15 @@
 # url = https://en.wiktionary.org/wiki/Dakaro
 # language = Esperanto
-1	Dakar	_	_	_	_	_	_	_	BIO=O
+1	Dakar	_	_	_	_	_	_	_	Href=/wiki/Dakar#English|BIO=B
 2	(	_	_	_	_	_	_	_	BIO=O
 3	the	_	_	_	_	_	_	_	BIO=O
-4	capital	_	_	_	_	_	_	_	BIO=O
-5	city	_	_	_	_	_	_	_	BIO=O
+4	capital	_	_	_	_	_	_	_	Href=/wiki/capital_city|BIO=B
+5	city	_	_	_	_	_	_	_	BIO=I
 6	of	_	_	_	_	_	_	_	BIO=O
-7	Senegal	_	_	_	_	_	_	_	BIO=O
+7	Senegal	_	_	_	_	_	_	_	Href=/wiki/Senegal#English|BIO=B
 8	)	_	_	_	_	_	_	_	BIO=O
 9	Holonym	_	_	_	_	_	_	_	BIO=O
 10	:	_	_	_	_	_	_	_	BIO=O
-11	Senegalo	_	_	_	_	_	_	_	BIO=O
+11	Senegalo	_	_	_	_	_	_	_	Href=/wiki/Senegalo#Esperanto|BIO=B
 
 

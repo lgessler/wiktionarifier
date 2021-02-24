@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/sdemanializzazioni
 # language = Italian
-1	plural	_	_	_	_	_	_	_	BIO=O
+1	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 2	of	_	_	_	_	_	_	_	BIO=O
-3	sdemanializzazione	_	_	_	_	_	_	_	BIO=O
+3	sdemanializzazione	_	_	_	_	_	_	_	Href=/wiki/sdemanializzazione#Italian|BIO=B
 
 

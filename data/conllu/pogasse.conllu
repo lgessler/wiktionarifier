@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/pogasse
 # language = Italian
-1	third	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	singular	_	_	_	_	_	_	_	BIO=O
-5	imperfect	_	_	_	_	_	_	_	BIO=O
-6	subjunctive	_	_	_	_	_	_	_	BIO=O
+1	third	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#third_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+5	imperfect	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperfect|BIO=B
+6	subjunctive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#subjunctive_mood|BIO=B
 7	of	_	_	_	_	_	_	_	BIO=O
-8	pogare	_	_	_	_	_	_	_	BIO=O
+8	pogare	_	_	_	_	_	_	_	Href=/wiki/pogare#Italian|BIO=B
 
 

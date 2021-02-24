@@ -2,10 +2,10 @@
 # language = French
 1	Abbreviation	_	_	_	_	_	_	_	BIO=O
 2	of	_	_	_	_	_	_	_	BIO=O
-3	rendezvous	_	_	_	_	_	_	_	BIO=O
+3	rendezvous	_	_	_	_	_	_	_	Href=/wiki/rendezvous#French|BIO=B
 4	(	_	_	_	_	_	_	_	BIO=O
 5	“	_	_	_	_	_	_	_	BIO=O
-6	meeting	_	_	_	_	_	_	_	BIO=O
+6	meeting	_	_	_	_	_	_	_	Href=/wiki/meeting|BIO=B
 7	”	_	_	_	_	_	_	_	BIO=O
 8	)	_	_	_	_	_	_	_	BIO=O
 9	.	_	_	_	_	_	_	_	BIO=O

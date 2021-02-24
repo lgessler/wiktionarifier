@@ -1,29 +1,29 @@
 # url = https://en.wiktionary.org/wiki/cumbersome
 # language = English
-1	Burdensome	_	_	_	_	_	_	_	BIO=O
+1	Burdensome	_	_	_	_	_	_	_	Href=/wiki/burdensome|BIO=B
 2	or	_	_	_	_	_	_	_	BIO=O
-3	hindering	_	_	_	_	_	_	_	BIO=O
+3	hindering	_	_	_	_	_	_	_	Href=/wiki/hindering|BIO=B
 4	,	_	_	_	_	_	_	_	BIO=O
 5	as	_	_	_	_	_	_	_	BIO=O
 6	a	_	_	_	_	_	_	_	BIO=O
-7	weight	_	_	_	_	_	_	_	BIO=O
+7	weight	_	_	_	_	_	_	_	Href=/wiki/weight|BIO=B
 8	or	_	_	_	_	_	_	_	BIO=O
-9	drag	_	_	_	_	_	_	_	BIO=O
+9	drag	_	_	_	_	_	_	_	Href=/wiki/drag|BIO=B
 10	;	_	_	_	_	_	_	_	BIO=O
-11	vexatious	_	_	_	_	_	_	_	BIO=O
+11	vexatious	_	_	_	_	_	_	_	Href=/wiki/vexatious|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/cumbersome
 # language = English
 1	Not	_	_	_	_	_	_	_	BIO=O
 2	easily	_	_	_	_	_	_	_	BIO=O
-3	managed	_	_	_	_	_	_	_	BIO=O
+3	managed	_	_	_	_	_	_	_	Href=/wiki/managed|BIO=B
 4	or	_	_	_	_	_	_	_	BIO=O
-5	handled	_	_	_	_	_	_	_	BIO=O
+5	handled	_	_	_	_	_	_	_	Href=/wiki/handle|BIO=B
 6	;	_	_	_	_	_	_	_	BIO=O
-7	awkward	_	_	_	_	_	_	_	BIO=O
+7	awkward	_	_	_	_	_	_	_	Href=/wiki/awkward|BIO=B
 8	;	_	_	_	_	_	_	_	BIO=O
-9	clumsy	_	_	_	_	_	_	_	BIO=O
+9	clumsy	_	_	_	_	_	_	_	Href=/wiki/clumsy|BIO=B
 10	.	_	_	_	_	_	_	_	BIO=O
 11	Cumbersome	_	_	_	_	_	_	_	BIO=O
 12	machines	_	_	_	_	_	_	_	BIO=O
@@ -43,7 +43,7 @@
 2	,	_	_	_	_	_	_	_	BIO=O
 3	difficult	_	_	_	_	_	_	_	BIO=O
 4	,	_	_	_	_	_	_	_	BIO=O
-5	demanding	_	_	_	_	_	_	_	BIO=O
+5	demanding	_	_	_	_	_	_	_	Href=/wiki/demanding|BIO=B
 6	to	_	_	_	_	_	_	_	BIO=O
 7	handle	_	_	_	_	_	_	_	BIO=O
 8	or	_	_	_	_	_	_	_	BIO=O

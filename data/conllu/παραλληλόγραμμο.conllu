@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%BB%CE%B7%CE%BB%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%BF
 # language = Greek
 1	(	_	_	_	_	_	_	_	BIO=O
-2	geometry	_	_	_	_	_	_	_	BIO=O
+2	geometry	_	_	_	_	_	_	_	Href=/wiki/geometry|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
-4	parallelogram	_	_	_	_	_	_	_	BIO=O
+4	parallelogram	_	_	_	_	_	_	_	Href=/wiki/parallelogram|BIO=B
 
 

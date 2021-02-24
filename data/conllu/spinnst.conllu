@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/spinnst
 # language = German
-1	second	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	singular	_	_	_	_	_	_	_	BIO=O
-5	present	_	_	_	_	_	_	_	BIO=O
+1	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+5	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
 6	of	_	_	_	_	_	_	_	BIO=O
-7	spinnen	_	_	_	_	_	_	_	BIO=O
+7	spinnen	_	_	_	_	_	_	_	Href=/wiki/spinnen#German|BIO=B
 
 

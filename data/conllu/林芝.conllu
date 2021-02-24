@@ -2,19 +2,19 @@
 # language = Chinese
 1	(	_	_	_	_	_	_	_	BIO=O
 2	～	_	_	_	_	_	_	_	BIO=O
-3	市	_	_	_	_	_	_	_	BIO=O
+3	市	_	_	_	_	_	_	_	Href=/wiki/%E5%B8%82#Chinese|BIO=B
 4	)	_	_	_	_	_	_	_	BIO=O
-5	Nyingchi	_	_	_	_	_	_	_	BIO=O
+5	Nyingchi	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Nyingchi|BIO=B
 6	(	_	_	_	_	_	_	_	BIO=O
 7	a	_	_	_	_	_	_	_	BIO=O
-8	prefecture	_	_	_	_	_	_	_	BIO=O
-9	-	_	_	_	_	_	_	_	BIO=O
-10	level	_	_	_	_	_	_	_	BIO=O
-11	city	_	_	_	_	_	_	_	BIO=O
+8	prefecture	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/prefecture-level_city|BIO=B
+9	-	_	_	_	_	_	_	_	BIO=I
+10	level	_	_	_	_	_	_	_	BIO=I
+11	city	_	_	_	_	_	_	_	BIO=I
 12	in	_	_	_	_	_	_	_	BIO=O
-13	Tibet	_	_	_	_	_	_	_	BIO=O
+13	Tibet	_	_	_	_	_	_	_	Href=/wiki/Tibet#English|BIO=B
 14	,	_	_	_	_	_	_	_	BIO=O
-15	China	_	_	_	_	_	_	_	BIO=O
+15	China	_	_	_	_	_	_	_	Href=/wiki/China#English|BIO=B
 16	)	_	_	_	_	_	_	_	BIO=O
 
 

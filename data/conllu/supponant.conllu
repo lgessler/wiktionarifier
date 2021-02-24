@@ -1,13 +1,13 @@
 # url = https://en.wiktionary.org/wiki/supponant
 # language = Latin
-1	third	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	plural	_	_	_	_	_	_	_	BIO=O
-5	present	_	_	_	_	_	_	_	BIO=O
-6	active	_	_	_	_	_	_	_	BIO=O
-7	subjunctive	_	_	_	_	_	_	_	BIO=O
+1	third	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#third_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+5	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
+6	active	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#active_voice|BIO=B
+7	subjunctive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#subjunctive_mood|BIO=B
 8	of	_	_	_	_	_	_	_	BIO=O
-9	suppōnō	_	_	_	_	_	_	_	BIO=O
+9	suppōnō	_	_	_	_	_	_	_	Href=/wiki/suppono#Latin|BIO=B
 
 

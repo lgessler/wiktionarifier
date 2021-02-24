@@ -6,13 +6,13 @@
 4	person	_	_	_	_	_	_	_	BIO=O
 5	singular	_	_	_	_	_	_	_	BIO=O
 6	(	_	_	_	_	_	_	_	BIO=O
-7	tú	_	_	_	_	_	_	_	BIO=O
+7	tú	_	_	_	_	_	_	_	Href=/wiki/t%C3%BA#Spanish|BIO=B
 8	)	_	_	_	_	_	_	_	BIO=O
 9	future	_	_	_	_	_	_	_	BIO=O
 10	indicative	_	_	_	_	_	_	_	BIO=O
 11	form	_	_	_	_	_	_	_	BIO=O
 12	of	_	_	_	_	_	_	_	BIO=O
-13	volcar	_	_	_	_	_	_	_	BIO=O
+13	volcar	_	_	_	_	_	_	_	Href=/wiki/volcar#Spanish|BIO=B
 14	.	_	_	_	_	_	_	_	BIO=O
 
 

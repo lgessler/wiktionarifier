@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/pirrica
 # language = Italian
-1	feminine	_	_	_	_	_	_	_	BIO=O
-2	singular	_	_	_	_	_	_	_	BIO=O
+1	feminine	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#gender|BIO=B
+2	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	pirrico	_	_	_	_	_	_	_	BIO=O
+4	pirrico	_	_	_	_	_	_	_	Href=/wiki/pirrico#Italian|BIO=B
 
 

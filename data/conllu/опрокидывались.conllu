@@ -1,11 +1,11 @@
 # url = https://en.wiktionary.org/wiki/%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B8%D0%B4%D1%8B%D0%B2%D0%B0%D0%BB%D0%B8%D1%81%D1%8C
 # language = Russian
-1	plural	_	_	_	_	_	_	_	BIO=O
-2	past	_	_	_	_	_	_	_	BIO=O
-3	indicative	_	_	_	_	_	_	_	BIO=O
-4	imperfective	_	_	_	_	_	_	_	BIO=O
+1	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+2	past	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#past_tense|BIO=B
+3	indicative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#indicative_mood|BIO=B
+4	imperfective	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperfective|BIO=B
 5	of	_	_	_	_	_	_	_	BIO=O
-6	опроки́дываться	_	_	_	_	_	_	_	BIO=O
+6	опроки́дываться	_	_	_	_	_	_	_	Href=/wiki/%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B8%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F#Russian|BIO=B
 7	(	_	_	_	_	_	_	_	BIO=O
 8	oprokídyvatʹsja	_	_	_	_	_	_	_	BIO=O
 9	)	_	_	_	_	_	_	_	BIO=O

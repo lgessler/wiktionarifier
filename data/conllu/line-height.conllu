@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/line-height
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	typography	_	_	_	_	_	_	_	BIO=O
+2	typography	_	_	_	_	_	_	_	Href=/wiki/typography|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	The	_	_	_	_	_	_	_	BIO=O
 5	height	_	_	_	_	_	_	_	BIO=O

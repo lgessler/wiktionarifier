@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/%D1%81%D0%BC%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
 # language = Russian
 1	to	_	_	_	_	_	_	_	BIO=O
-2	moisten	_	_	_	_	_	_	_	BIO=O
+2	moisten	_	_	_	_	_	_	_	Href=/wiki/moisten|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
 4	to	_	_	_	_	_	_	_	BIO=O
-5	wet	_	_	_	_	_	_	_	BIO=O
+5	wet	_	_	_	_	_	_	_	Href=/wiki/wet|BIO=B
 
 

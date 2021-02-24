@@ -1,6 +1,6 @@
 # url = https://en.wiktionary.org/wiki/catholic
 # language = English
-1	Universal	_	_	_	_	_	_	_	BIO=O
+1	Universal	_	_	_	_	_	_	_	Href=/wiki/universal|BIO=B
 2	;	_	_	_	_	_	_	_	BIO=O
 3	all	_	_	_	_	_	_	_	BIO=O
 4	-	_	_	_	_	_	_	_	BIO=O
@@ -8,21 +8,21 @@
 6	.	_	_	_	_	_	_	_	BIO=O
 7	Synonyms	_	_	_	_	_	_	_	BIO=O
 8	:	_	_	_	_	_	_	_	BIO=O
-9	universal	_	_	_	_	_	_	_	BIO=O
+9	universal	_	_	_	_	_	_	_	Href=/wiki/universal#English|BIO=B
 10	;	_	_	_	_	_	_	_	BIO=O
 11	see	_	_	_	_	_	_	_	BIO=O
 12	also	_	_	_	_	_	_	_	BIO=O
-13	Thesaurus	_	_	_	_	_	_	_	BIO=O
-14	:	_	_	_	_	_	_	_	BIO=O
-15	generic	_	_	_	_	_	_	_	BIO=O
+13	Thesaurus	_	_	_	_	_	_	_	Href=/wiki/Thesaurus:generic|BIO=B
+14	:	_	_	_	_	_	_	_	BIO=I
+15	generic	_	_	_	_	_	_	_	BIO=I
 16	,	_	_	_	_	_	_	_	BIO=O
-17	Thesaurus	_	_	_	_	_	_	_	BIO=O
-18	:	_	_	_	_	_	_	_	BIO=O
-19	comprehensive	_	_	_	_	_	_	_	BIO=O
+17	Thesaurus	_	_	_	_	_	_	_	Href=/wiki/Thesaurus:comprehensive|BIO=B
+18	:	_	_	_	_	_	_	_	BIO=I
+19	comprehensive	_	_	_	_	_	_	_	BIO=I
 20	1946	_	_	_	_	_	_	_	BIO=O
 21	,	_	_	_	_	_	_	_	BIO=O
-22	Bertrand	_	_	_	_	_	_	_	BIO=O
-23	Russell	_	_	_	_	_	_	_	BIO=O
+22	Bertrand	_	_	_	_	_	_	_	Href=https://en.wikipedia.org/wiki/Bertrand_Russell|BIO=B
+23	Russell	_	_	_	_	_	_	_	BIO=I
 24	,	_	_	_	_	_	_	_	BIO=O
 25	History	_	_	_	_	_	_	_	BIO=O
 26	of	_	_	_	_	_	_	_	BIO=O

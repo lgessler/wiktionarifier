@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/estraniammo
 # language = Italian
-1	first	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	plural	_	_	_	_	_	_	_	BIO=O
+1	first	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#first_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
 5	past	_	_	_	_	_	_	_	BIO=O
 6	historic	_	_	_	_	_	_	_	BIO=O
 7	of	_	_	_	_	_	_	_	BIO=O
-8	estraniare	_	_	_	_	_	_	_	BIO=O
+8	estraniare	_	_	_	_	_	_	_	Href=/wiki/estraniare#Italian|BIO=B
 
 

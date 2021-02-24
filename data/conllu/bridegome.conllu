@@ -2,23 +2,25 @@
 # language = Middle English
 1	A	_	_	_	_	_	_	_	BIO=O
 2	(	_	_	_	_	_	_	_	BIO=O
-3	bride)groom	_	_	_	_	_	_	_	BIO=O
-4	;	_	_	_	_	_	_	_	BIO=O
-5	a	_	_	_	_	_	_	_	BIO=O
-6	man	_	_	_	_	_	_	_	BIO=O
-7	recently	_	_	_	_	_	_	_	BIO=O
-8	married	_	_	_	_	_	_	_	BIO=O
-9	or	_	_	_	_	_	_	_	BIO=O
-10	to	_	_	_	_	_	_	_	BIO=O
-11	be	_	_	_	_	_	_	_	BIO=O
-12	married	_	_	_	_	_	_	_	BIO=O
-13	.	_	_	_	_	_	_	_	BIO=O
+3	bride	_	_	_	_	_	_	_	BIO=O
+4	)	_	_	_	_	_	_	_	BIO=O
+5	groom	_	_	_	_	_	_	_	Href=/wiki/groom|BIO=B
+6	;	_	_	_	_	_	_	_	BIO=O
+7	a	_	_	_	_	_	_	_	BIO=O
+8	man	_	_	_	_	_	_	_	BIO=O
+9	recently	_	_	_	_	_	_	_	BIO=O
+10	married	_	_	_	_	_	_	_	BIO=O
+11	or	_	_	_	_	_	_	_	BIO=O
+12	to	_	_	_	_	_	_	_	BIO=O
+13	be	_	_	_	_	_	_	_	BIO=O
+14	married	_	_	_	_	_	_	_	BIO=O
+15	.	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/bridegome
 # language = Middle English
 1	(	_	_	_	_	_	_	_	BIO=O
-2	theology	_	_	_	_	_	_	_	BIO=O
+2	theology	_	_	_	_	_	_	_	Href=/wiki/theology|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	God	_	_	_	_	_	_	_	BIO=O
 5	as	_	_	_	_	_	_	_	BIO=O

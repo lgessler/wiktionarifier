@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/amidol
 # language = English
 1	The	_	_	_	_	_	_	_	BIO=O
-2	hydrochloride	_	_	_	_	_	_	_	BIO=O
+2	hydrochloride	_	_	_	_	_	_	_	Href=/wiki/hydrochloride|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
 4	the	_	_	_	_	_	_	_	BIO=O
-5	amino	_	_	_	_	_	_	_	BIO=O
+5	amino	_	_	_	_	_	_	_	Href=/wiki/amino|BIO=B
 6	-	_	_	_	_	_	_	_	BIO=O
-7	phenol	_	_	_	_	_	_	_	BIO=O
+7	phenol	_	_	_	_	_	_	_	Href=/wiki/phenol|BIO=B
 8	2,4	_	_	_	_	_	_	_	BIO=O
 9	-	_	_	_	_	_	_	_	BIO=O
 10	diaminophenol	_	_	_	_	_	_	_	BIO=O
@@ -14,13 +14,13 @@
 12	used	_	_	_	_	_	_	_	BIO=O
 13	as	_	_	_	_	_	_	_	BIO=O
 14	a	_	_	_	_	_	_	_	BIO=O
-15	photographic	_	_	_	_	_	_	_	BIO=O
-16	developer	_	_	_	_	_	_	_	BIO=O
+15	photographic	_	_	_	_	_	_	_	Href=/wiki/photographic|BIO=B
+16	developer	_	_	_	_	_	_	_	Href=/wiki/developer|BIO=B
 17	.	_	_	_	_	_	_	_	BIO=O
 
 
 # url = https://en.wiktionary.org/wiki/amidol
 # language = Hiligaynon
-1	starch	_	_	_	_	_	_	_	BIO=O
+1	starch	_	_	_	_	_	_	_	Href=/wiki/starch|BIO=B
 
 

@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/sj%C3%B3nvarpsskj%C3%A1r
 # language = Icelandic
-1	TV	_	_	_	_	_	_	_	BIO=O
-2	screen	_	_	_	_	_	_	_	BIO=O
+1	TV	_	_	_	_	_	_	_	Href=/wiki/TV|BIO=B
+2	screen	_	_	_	_	_	_	_	Href=/wiki/screen|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
-4	TV	_	_	_	_	_	_	_	BIO=O
-5	set	_	_	_	_	_	_	_	BIO=O
+4	TV	_	_	_	_	_	_	_	Href=/wiki/TV_set|BIO=B
+5	set	_	_	_	_	_	_	_	BIO=I
 
 

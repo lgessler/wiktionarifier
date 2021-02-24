@@ -1,14 +1,14 @@
 # url = https://en.wiktionary.org/wiki/%CF%87%CE%B1%CE%AF%CF%81%CE%BF%CE%BC%CE%B1%CE%B9
 # language = Ancient Greek
-1	first	_	_	_	_	_	_	_	BIO=O
-2	-	_	_	_	_	_	_	_	BIO=O
-3	person	_	_	_	_	_	_	_	BIO=O
-4	singular	_	_	_	_	_	_	_	BIO=O
-5	present	_	_	_	_	_	_	_	BIO=O
-6	mediopassive	_	_	_	_	_	_	_	BIO=O
-7	indicative	_	_	_	_	_	_	_	BIO=O
+1	first	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#first_person|BIO=B
+2	-	_	_	_	_	_	_	_	BIO=I
+3	person	_	_	_	_	_	_	_	BIO=I
+4	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+5	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
+6	mediopassive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#mediopassive|BIO=B
+7	indicative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#indicative_mood|BIO=B
 8	of	_	_	_	_	_	_	_	BIO=O
-9	χαίρω	_	_	_	_	_	_	_	BIO=O
+9	χαίρω	_	_	_	_	_	_	_	Href=/wiki/%CF%87%CE%B1%CE%AF%CF%81%CF%89#Ancient_Greek|BIO=B
 10	(	_	_	_	_	_	_	_	BIO=O
 11	khaírō	_	_	_	_	_	_	_	BIO=O
 12	)	_	_	_	_	_	_	_	BIO=O
@@ -17,13 +17,13 @@
 # url = https://en.wiktionary.org/wiki/%CF%87%CE%B1%CE%AF%CF%81%CE%BF%CE%BC%CE%B1%CE%B9
 # language = Greek
 1	(	_	_	_	_	_	_	_	BIO=O
-2	intransitive	_	_	_	_	_	_	_	BIO=O
+2	intransitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#intransitive|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
 4	be	_	_	_	_	_	_	_	BIO=O
-5	happy	_	_	_	_	_	_	_	BIO=O
+5	happy	_	_	_	_	_	_	_	Href=/wiki/happy|BIO=B
 6	,	_	_	_	_	_	_	_	BIO=O
 7	be	_	_	_	_	_	_	_	BIO=O
-8	glad	_	_	_	_	_	_	_	BIO=O
+8	glad	_	_	_	_	_	_	_	Href=/wiki/glad|BIO=B
 9	Χαίρω	_	_	_	_	_	_	_	BIO=O
 10	πολύ	_	_	_	_	_	_	_	BIO=O
 11	!	_	_	_	_	_	_	_	BIO=O
@@ -85,9 +85,9 @@
 # url = https://en.wiktionary.org/wiki/%CF%87%CE%B1%CE%AF%CF%81%CE%BF%CE%BC%CE%B1%CE%B9
 # language = Greek
 1	(	_	_	_	_	_	_	_	BIO=O
-2	transitive	_	_	_	_	_	_	_	BIO=O
+2	transitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#transitive|BIO=B
 3	)	_	_	_	_	_	_	_	BIO=O
-4	enjoy	_	_	_	_	_	_	_	BIO=O
+4	enjoy	_	_	_	_	_	_	_	Href=/wiki/enjoy|BIO=B
 5	Το	_	_	_	_	_	_	_	BIO=O
 6	χάρηκα	_	_	_	_	_	_	_	BIO=O
 7	πολύ	_	_	_	_	_	_	_	BIO=O
@@ -146,9 +146,9 @@
 # url = https://en.wiktionary.org/wiki/%CF%87%CE%B1%CE%AF%CF%81%CE%BF%CE%BC%CE%B1%CE%B9
 # language = Greek
 1	(	_	_	_	_	_	_	_	BIO=O
-2	idiomatic	_	_	_	_	_	_	_	BIO=O
+2	idiomatic	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#idiomatic|BIO=B
 3	,	_	_	_	_	_	_	_	BIO=O
-4	transitive	_	_	_	_	_	_	_	BIO=O
+4	transitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#transitive|BIO=B
 5	)	_	_	_	_	_	_	_	BIO=O
 6	must	_	_	_	_	_	_	_	BIO=O
 7	be	_	_	_	_	_	_	_	BIO=O

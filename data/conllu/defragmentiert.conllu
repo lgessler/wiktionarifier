@@ -1,28 +1,28 @@
 # url = https://en.wiktionary.org/wiki/defragmentiert
 # language = German
-1	past	_	_	_	_	_	_	_	BIO=O
-2	participle	_	_	_	_	_	_	_	BIO=O
+1	past	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#past_tense|BIO=B
+2	participle	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#participle|BIO=B
 3	of	_	_	_	_	_	_	_	BIO=O
-4	defragmentieren	_	_	_	_	_	_	_	BIO=O
+4	defragmentieren	_	_	_	_	_	_	_	Href=/wiki/defragmentieren#German|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/defragmentiert
 # language = German
 1	inflection	_	_	_	_	_	_	_	BIO=O
 2	of	_	_	_	_	_	_	_	BIO=O
-3	defragmentieren	_	_	_	_	_	_	_	BIO=O
+3	defragmentieren	_	_	_	_	_	_	_	Href=/wiki/defragmentieren#German|BIO=B
 4	:	_	_	_	_	_	_	_	BIO=O
-5	third	_	_	_	_	_	_	_	BIO=O
-6	-	_	_	_	_	_	_	_	BIO=O
-7	person	_	_	_	_	_	_	_	BIO=O
-8	singular	_	_	_	_	_	_	_	BIO=O
-9	present	_	_	_	_	_	_	_	BIO=O
-10	second	_	_	_	_	_	_	_	BIO=O
-11	-	_	_	_	_	_	_	_	BIO=O
-12	person	_	_	_	_	_	_	_	BIO=O
-13	plural	_	_	_	_	_	_	_	BIO=O
-14	present	_	_	_	_	_	_	_	BIO=O
-15	plural	_	_	_	_	_	_	_	BIO=O
-16	imperative	_	_	_	_	_	_	_	BIO=O
+5	third	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#third_person|BIO=B
+6	-	_	_	_	_	_	_	_	BIO=I
+7	person	_	_	_	_	_	_	_	BIO=I
+8	singular	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#singular_number|BIO=B
+9	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
+10	second	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#second_person|BIO=B
+11	-	_	_	_	_	_	_	_	BIO=I
+12	person	_	_	_	_	_	_	_	BIO=I
+13	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+14	present	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#present_tense|BIO=B
+15	plural	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#plural_number|BIO=B
+16	imperative	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#imperative_mood|BIO=B
 
 

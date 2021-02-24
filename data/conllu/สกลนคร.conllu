@@ -1,15 +1,16 @@
 # url = https://en.wiktionary.org/wiki/%E0%B8%AA%E0%B8%81%E0%B8%A5%E0%B8%99%E0%B8%84%E0%B8%A3
 # language = Thai
 1	(	_	_	_	_	_	_	_	BIO=O
-2	จังหวัด~	_	_	_	_	_	_	_	BIO=O
-3	)	_	_	_	_	_	_	_	BIO=O
-4	Sakon	_	_	_	_	_	_	_	BIO=O
-5	Nakhon	_	_	_	_	_	_	_	BIO=O
-6	,	_	_	_	_	_	_	_	BIO=O
-7	a	_	_	_	_	_	_	_	BIO=O
-8	province	_	_	_	_	_	_	_	BIO=O
-9	of	_	_	_	_	_	_	_	BIO=O
-10	Thailand	_	_	_	_	_	_	_	BIO=O
-11	.	_	_	_	_	_	_	_	BIO=O
+2	จังหวัด	_	_	_	_	_	_	_	Href=/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94|BIO=B
+3	~	_	_	_	_	_	_	_	BIO=O
+4	)	_	_	_	_	_	_	_	BIO=O
+5	Sakon	_	_	_	_	_	_	_	Href=/wiki/Sakon_Nakhon|BIO=B
+6	Nakhon	_	_	_	_	_	_	_	BIO=I
+7	,	_	_	_	_	_	_	_	BIO=O
+8	a	_	_	_	_	_	_	_	BIO=O
+9	province	_	_	_	_	_	_	_	Href=/wiki/province|BIO=B
+10	of	_	_	_	_	_	_	_	BIO=O
+11	Thailand	_	_	_	_	_	_	_	Href=/wiki/Thailand|BIO=B
+12	.	_	_	_	_	_	_	_	BIO=O
 
 

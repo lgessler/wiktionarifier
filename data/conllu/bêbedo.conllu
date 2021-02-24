@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/b%C3%AAbedo
 # language = Portuguese
-1	drunk	_	_	_	_	_	_	_	BIO=O
+1	drunk	_	_	_	_	_	_	_	Href=/wiki/drunk#English|BIO=B
 2	,	_	_	_	_	_	_	_	BIO=O
-3	intoxicated	_	_	_	_	_	_	_	BIO=O
+3	intoxicated	_	_	_	_	_	_	_	Href=/wiki/intoxicated#English|BIO=B
 4	Synonyms	_	_	_	_	_	_	_	BIO=O
 5	:	_	_	_	_	_	_	_	BIO=O
-6	bebido	_	_	_	_	_	_	_	BIO=O
+6	bebido	_	_	_	_	_	_	_	Href=/wiki/bebido#Portuguese|BIO=B
 7	,	_	_	_	_	_	_	_	BIO=O
-8	bêbado	_	_	_	_	_	_	_	BIO=O
+8	bêbado	_	_	_	_	_	_	_	Href=/wiki/b%C3%AAbado#Portuguese|BIO=B
 
 

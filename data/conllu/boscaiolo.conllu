@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/boscaiolo
 # language = Italian
-1	woodcutter	_	_	_	_	_	_	_	BIO=O
+1	woodcutter	_	_	_	_	_	_	_	Href=/wiki/woodcutter|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/boscaiolo
 # language = Italian
-1	forester	_	_	_	_	_	_	_	BIO=O
+1	forester	_	_	_	_	_	_	_	Href=/wiki/forester|BIO=B
 
 

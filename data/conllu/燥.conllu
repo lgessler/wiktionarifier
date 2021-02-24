@@ -9,22 +9,22 @@
 # url = https://en.wiktionary.org/wiki/%E7%87%A5
 # language = Korean
 1	(	_	_	_	_	_	_	_	BIO=O
-2	마를	_	_	_	_	_	_	_	BIO=O
+2	마를	_	_	_	_	_	_	_	Href=/wiki/%EB%A7%88%EB%A5%B4%EB%8B%A4|BIO=B
 3	조	_	_	_	_	_	_	_	BIO=O
 4	,	_	_	_	_	_	_	_	BIO=O
 5	mareul	_	_	_	_	_	_	_	BIO=O
 6	):	_	_	_	_	_	_	_	BIO=O
 7	to	_	_	_	_	_	_	_	BIO=O
 8	be	_	_	_	_	_	_	_	BIO=O
-9	dry	_	_	_	_	_	_	_	BIO=O
+9	dry	_	_	_	_	_	_	_	Href=/wiki/dry|BIO=B
 
 
 # url = https://en.wiktionary.org/wiki/%E7%87%A5
 # language = Translingual
 1	KangXi	_	_	_	_	_	_	_	BIO=O
 2	:	_	_	_	_	_	_	_	BIO=O
-3	page	_	_	_	_	_	_	_	BIO=O
-4	684	_	_	_	_	_	_	_	BIO=O
+3	page	_	_	_	_	_	_	_	Href=https://www.kangxizidian.com/kangxi/0684.gif|BIO=B
+4	684	_	_	_	_	_	_	_	BIO=I
 5	,	_	_	_	_	_	_	_	BIO=O
 6	character	_	_	_	_	_	_	_	BIO=O
 7	29	_	_	_	_	_	_	_	BIO=O
@@ -73,9 +73,9 @@
 
 # url = https://en.wiktionary.org/wiki/%E7%87%A5
 # language = Translingual
-1	Unihan	_	_	_	_	_	_	_	BIO=O
-2	data	_	_	_	_	_	_	_	BIO=O
-3	for	_	_	_	_	_	_	_	BIO=O
-4	U+71E5	_	_	_	_	_	_	_	BIO=O
+1	Unihan	_	_	_	_	_	_	_	Href=http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=71E5|BIO=B
+2	data	_	_	_	_	_	_	_	BIO=I
+3	for	_	_	_	_	_	_	_	BIO=I
+4	U+71E5	_	_	_	_	_	_	_	BIO=I
 
 
