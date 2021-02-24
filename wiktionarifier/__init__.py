@@ -9,6 +9,3 @@ except DistributionNotFound:
     __version__ = "unknown"
 finally:
     del get_distribution, DistributionNotFound
-
-from wiktionarifier.models import Word, export_words, import_words
-from wiktionarifier.format import format_entries

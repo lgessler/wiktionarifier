@@ -19,3 +19,4 @@ peewee
 click
 requests
 allennlp
+pywikibot
