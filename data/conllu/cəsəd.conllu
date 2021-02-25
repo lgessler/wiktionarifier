@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/c%C9%99s%C9%99d
 # language = Azerbaijani
-3	corpse	_	_	_	_	_	_	_	Href=/wiki/corpse|BIO=U
+1	corpse	_	_	_	_	_	_	_	Href=/wiki/corpse|BIO=U
 
 
 # url = https://en.wiktionary.org/wiki/c%C9%99s%C9%99d
 # language = Azerbaijani
-3	dead	_	_	_	_	_	_	_	Href=/wiki/dead|BIO=U
-7	human	_	_	_	_	_	_	_	Href=/wiki/human|BIO=U
-11	body	_	_	_	_	_	_	_	Href=/wiki/body|BIO=U
+1	dead	_	_	_	_	_	_	_	Href=/wiki/dead|BIO=U
+2	human	_	_	_	_	_	_	_	Href=/wiki/human|BIO=U
+3	body	_	_	_	_	_	_	_	Href=/wiki/body|BIO=U
 
 

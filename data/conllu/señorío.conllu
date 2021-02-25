@@ -1,16 +1,16 @@
 # url = https://en.wiktionary.org/wiki/se%C3%B1or%C3%ADo
 # language = Spanish
 1	(	_	_	_	_	_	_	_	BIO=O
-3	historical	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#historical|BIO=U
-5	)	_	_	_	_	_	_	_	BIO=O
-8	feudal	_	_	_	_	_	_	_	Href=/wiki/feudal|BIO=U
-12	estate	_	_	_	_	_	_	_	Href=/wiki/estate|BIO=U
+2	historical	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#historical|BIO=U
+3	)	_	_	_	_	_	_	_	BIO=O
+4	feudal	_	_	_	_	_	_	_	Href=/wiki/feudal|BIO=U
+5	estate	_	_	_	_	_	_	_	Href=/wiki/estate|BIO=U
 
 
 # url = https://en.wiktionary.org/wiki/se%C3%B1or%C3%ADo
 # language = Spanish
-3	rule	_	_	_	_	_	_	_	Href=/wiki/rule|BIO=U
-5	,	_	_	_	_	_	_	_	BIO=O
-8	dominion	_	_	_	_	_	_	_	Href=/wiki/dominion|BIO=U
+1	rule	_	_	_	_	_	_	_	Href=/wiki/rule|BIO=U
+2	,	_	_	_	_	_	_	_	BIO=O
+3	dominion	_	_	_	_	_	_	_	Href=/wiki/dominion|BIO=U
 
 

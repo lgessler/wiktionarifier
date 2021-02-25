@@ -1,7 +1,7 @@
 # url = https://en.wiktionary.org/wiki/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B2%E0%B8%9A
 # language = Thai
-3	Punjabi	_	_	_	_	_	_	_	Href=/wiki/Punjabi|BIO=U
-6	language	_	_	_	_	_	_	_	BIO=O
-7	.	_	_	_	_	_	_	_	BIO=O
+1	Punjabi	_	_	_	_	_	_	_	Href=/wiki/Punjabi|BIO=U
+2	language	_	_	_	_	_	_	_	BIO=O
+3	.	_	_	_	_	_	_	_	BIO=O
 
 

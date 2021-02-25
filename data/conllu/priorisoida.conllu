@@ -1,12 +1,12 @@
 # url = https://en.wiktionary.org/wiki/priorisoida
 # language = Finnish
 1	(	_	_	_	_	_	_	_	BIO=O
-3	transitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#transitive|BIO=U
-5	)	_	_	_	_	_	_	_	BIO=O
-6	To	_	_	_	_	_	_	_	BIO=O
-9	prioritise	_	_	_	_	_	_	_	Href=/wiki/prioritise|BIO=U
-11	/	_	_	_	_	_	_	_	BIO=O
-13	prioritize	_	_	_	_	_	_	_	Href=/wiki/prioritize|BIO=U
-15	.	_	_	_	_	_	_	_	BIO=O
+2	transitive	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#transitive|BIO=U
+3	)	_	_	_	_	_	_	_	BIO=O
+4	To	_	_	_	_	_	_	_	BIO=O
+5	prioritise	_	_	_	_	_	_	_	Href=/wiki/prioritise|BIO=U
+6	/	_	_	_	_	_	_	_	BIO=O
+7	prioritize	_	_	_	_	_	_	_	Href=/wiki/prioritize|BIO=U
+8	.	_	_	_	_	_	_	_	BIO=O
 
 

@@ -1,8 +1,8 @@
 # url = https://en.wiktionary.org/wiki/apossar
 # language = Portuguese
 1	to	_	_	_	_	_	_	_	BIO=O
-4	hold	_	_	_	_	_	_	_	Href=/wiki/hold|BIO=U
-6	,	_	_	_	_	_	_	_	BIO=O
-9	seize	_	_	_	_	_	_	_	Href=/wiki/seize|BIO=U
+2	hold	_	_	_	_	_	_	_	Href=/wiki/hold|BIO=U
+3	,	_	_	_	_	_	_	_	BIO=O
+4	seize	_	_	_	_	_	_	_	Href=/wiki/seize|BIO=U
 
 

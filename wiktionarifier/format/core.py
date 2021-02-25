@@ -236,7 +236,7 @@ def format_conllu(text, entries):
             inside_link = False
 
             token_attrs_list = [{
-                "id": i + 1,
+                "id": 0,
                 "form": token,
                 "lemma": None,
                 "upos": None,
@@ -247,6 +247,7 @@ def format_conllu(text, entries):
                 "deps": None,
                 "misc": {}
             } for i, token in enumerate(entry)]
+            token_count = 0
             for token_index, (token, token_attrs) in enumerate(zip(entry, token_attrs_list)):
                 if token[:3] == '<a ':
                     href = BeautifulSoup(token + '</a>', features="html.parser").find('a').attrs['href']
@@ -254,6 +255,8 @@ def format_conllu(text, entries):
                 elif token == '</a>':
                     inside_link = False
                 elif not token.isspace():
+                    token_count += 1
+                    token_attrs['id'] = token_count
                     if href:
                         token_attrs['misc']['Href'] = href
                         if entry[token_index + 1] == '</a>':

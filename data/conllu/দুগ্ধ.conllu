@@ -3,21 +3,21 @@
 1	(	_	_	_	_	_	_	_	BIO=O
 2	rare	_	_	_	_	_	_	_	BIO=O
 3	)	_	_	_	_	_	_	_	BIO=O
-6	milk	_	_	_	_	_	_	_	Href=/wiki/milk|BIO=U
+4	milk	_	_	_	_	_	_	_	Href=/wiki/milk|BIO=U
 
 
 # url = https://en.wiktionary.org/wiki/%E0%A6%A6%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%A7
 # language = Bengali
-3	milk	_	_	_	_	_	_	_	Href=/wiki/milk|BIO=U
+1	milk	_	_	_	_	_	_	_	Href=/wiki/milk|BIO=U
 
 
 # url = https://en.wiktionary.org/wiki/%E0%A6%A6%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%A7
 # language = Bengali
-3	juice	_	_	_	_	_	_	_	Href=/wiki/juice|BIO=U
+1	juice	_	_	_	_	_	_	_	Href=/wiki/juice|BIO=U
 
 
 # url = https://en.wiktionary.org/wiki/%E0%A6%A6%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%A7
 # language = Bengali
-3	latex	_	_	_	_	_	_	_	Href=/wiki/latex|BIO=U
+1	latex	_	_	_	_	_	_	_	Href=/wiki/latex|BIO=U
 
 

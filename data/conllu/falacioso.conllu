@@ -1,14 +1,14 @@
 # url = https://en.wiktionary.org/wiki/falacioso
 # language = Portuguese
-3	fallacious	_	_	_	_	_	_	_	Href=/wiki/fallacious#English|BIO=U
-6	(	_	_	_	_	_	_	_	BIO=O
-7	characterized	_	_	_	_	_	_	_	BIO=O
-8	by	_	_	_	_	_	_	_	BIO=O
-9	fallacy	_	_	_	_	_	_	_	BIO=O
-10	;	_	_	_	_	_	_	_	BIO=O
-11	false	_	_	_	_	_	_	_	BIO=O
-12	or	_	_	_	_	_	_	_	BIO=O
-13	mistaken	_	_	_	_	_	_	_	BIO=O
-14	)	_	_	_	_	_	_	_	BIO=O
+1	fallacious	_	_	_	_	_	_	_	Href=/wiki/fallacious#English|BIO=U
+2	(	_	_	_	_	_	_	_	BIO=O
+3	characterized	_	_	_	_	_	_	_	BIO=O
+4	by	_	_	_	_	_	_	_	BIO=O
+5	fallacy	_	_	_	_	_	_	_	BIO=O
+6	;	_	_	_	_	_	_	_	BIO=O
+7	false	_	_	_	_	_	_	_	BIO=O
+8	or	_	_	_	_	_	_	_	BIO=O
+9	mistaken	_	_	_	_	_	_	_	BIO=O
+10	)	_	_	_	_	_	_	_	BIO=O
 
 

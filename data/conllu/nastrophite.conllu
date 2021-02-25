@@ -1,27 +1,27 @@
 # url = https://en.wiktionary.org/wiki/nastrophite
 # language = English
 1	(	_	_	_	_	_	_	_	BIO=O
-3	mineralogy	_	_	_	_	_	_	_	Href=/wiki/mineralogy|BIO=U
-5	)	_	_	_	_	_	_	_	BIO=O
-6	An	_	_	_	_	_	_	_	BIO=O
-7	isometric	_	_	_	_	_	_	_	BIO=O
-8	-	_	_	_	_	_	_	_	BIO=O
-9	tetartoidal	_	_	_	_	_	_	_	BIO=O
-10	colorless	_	_	_	_	_	_	_	BIO=O
-13	mineral	_	_	_	_	_	_	_	Href=/wiki/mineral|BIO=U
-16	containing	_	_	_	_	_	_	_	BIO=O
-19	barium	_	_	_	_	_	_	_	Href=/wiki/barium|BIO=U
-21	,	_	_	_	_	_	_	_	BIO=O
-24	hydrogen	_	_	_	_	_	_	_	Href=/wiki/hydrogen|BIO=U
-26	,	_	_	_	_	_	_	_	BIO=O
-29	oxygen	_	_	_	_	_	_	_	Href=/wiki/oxygen|BIO=U
-31	,	_	_	_	_	_	_	_	BIO=O
-34	phosphorus	_	_	_	_	_	_	_	Href=/wiki/phosphorus|BIO=U
-36	,	_	_	_	_	_	_	_	BIO=O
-39	sodium	_	_	_	_	_	_	_	Href=/wiki/sodium|BIO=U
-41	,	_	_	_	_	_	_	_	BIO=O
-42	and	_	_	_	_	_	_	_	BIO=O
-45	strontium	_	_	_	_	_	_	_	Href=/wiki/strontium|BIO=U
-47	.	_	_	_	_	_	_	_	BIO=O
+2	mineralogy	_	_	_	_	_	_	_	Href=/wiki/mineralogy|BIO=U
+3	)	_	_	_	_	_	_	_	BIO=O
+4	An	_	_	_	_	_	_	_	BIO=O
+5	isometric	_	_	_	_	_	_	_	BIO=O
+6	-	_	_	_	_	_	_	_	BIO=O
+7	tetartoidal	_	_	_	_	_	_	_	BIO=O
+8	colorless	_	_	_	_	_	_	_	BIO=O
+9	mineral	_	_	_	_	_	_	_	Href=/wiki/mineral|BIO=U
+10	containing	_	_	_	_	_	_	_	BIO=O
+11	barium	_	_	_	_	_	_	_	Href=/wiki/barium|BIO=U
+12	,	_	_	_	_	_	_	_	BIO=O
+13	hydrogen	_	_	_	_	_	_	_	Href=/wiki/hydrogen|BIO=U
+14	,	_	_	_	_	_	_	_	BIO=O
+15	oxygen	_	_	_	_	_	_	_	Href=/wiki/oxygen|BIO=U
+16	,	_	_	_	_	_	_	_	BIO=O
+17	phosphorus	_	_	_	_	_	_	_	Href=/wiki/phosphorus|BIO=U
+18	,	_	_	_	_	_	_	_	BIO=O
+19	sodium	_	_	_	_	_	_	_	Href=/wiki/sodium|BIO=U
+20	,	_	_	_	_	_	_	_	BIO=O
+21	and	_	_	_	_	_	_	_	BIO=O
+22	strontium	_	_	_	_	_	_	_	Href=/wiki/strontium|BIO=U
+23	.	_	_	_	_	_	_	_	BIO=O
 
 
