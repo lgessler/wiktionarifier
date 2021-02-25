@@ -1,9 +1,0 @@
-# url = https://en.wiktionary.org/wiki/pr%C3%A9-datando
-# language = Portuguese
-1	gerund	_	_	_	_	_	_	_	BIO=O
-2	of	_	_	_	_	_	_	_	BIO=O
-3	pré	_	_	_	_	_	_	_	Href=/wiki/pr%C3%A9-datar#Portuguese|BIO=B
-4	-	_	_	_	_	_	_	_	BIO=I
-5	datar	_	_	_	_	_	_	_	BIO=I
-
-

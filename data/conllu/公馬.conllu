@@ -1,8 +1,0 @@
-# url = https://en.wiktionary.org/wiki/%E5%85%AC%E9%A6%AC
-# language = Chinese
-1	male	_	_	_	_	_	_	_	Href=/wiki/male|BIO=B
-2	horse	_	_	_	_	_	_	_	Href=/wiki/horse|BIO=B
-3	;	_	_	_	_	_	_	_	BIO=O
-4	stallion	_	_	_	_	_	_	_	Href=/wiki/stallion|BIO=B
-
-

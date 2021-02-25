@@ -6,6 +6,10 @@ import wiktionarifier.scrape.db as db
 
 
 def process_page(page):
+    if not any(' lemma' in cat.title().lower() for cat in page.categories()) \
+            or any('non-lemma' in cat.title().lower() for cat in page.categories()):
+        click.secho("\tPage doesn't appear to be a lemma, skipping", fg="yellow")
+        return page.full_url(), True
     mediawiki_link = str(page)
     if db.mwtext_exists(mediawiki_link):
         return page.full_url(), True

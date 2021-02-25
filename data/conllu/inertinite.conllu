@@ -1,0 +1,19 @@
+# url = https://en.wiktionary.org/wiki/inertinite
+# language = English
+1	Oxidized	_	_	_	_	_	_	_	Href=/wiki/oxidize|BIO=B
+2	organic	_	_	_	_	_	_	_	Href=/wiki/organic|BIO=B
+3	material	_	_	_	_	_	_	_	Href=/wiki/material|BIO=B
+4	or	_	_	_	_	_	_	_	BIO=O
+5	fossilized	_	_	_	_	_	_	_	Href=/wiki/fossilize|BIO=B
+6	charcoal	_	_	_	_	_	_	_	Href=/wiki/charcoal|BIO=B
+7	,	_	_	_	_	_	_	_	BIO=O
+8	found	_	_	_	_	_	_	_	BIO=O
+9	as	_	_	_	_	_	_	_	BIO=O
+10	tiny	_	_	_	_	_	_	_	BIO=O
+11	flakes	_	_	_	_	_	_	_	Href=/wiki/flake|BIO=B
+12	within	_	_	_	_	_	_	_	BIO=O
+13	sedimentary	_	_	_	_	_	_	_	Href=/wiki/sedimentary|BIO=B
+14	rocks	_	_	_	_	_	_	_	BIO=O
+15	.	_	_	_	_	_	_	_	BIO=O
+
+

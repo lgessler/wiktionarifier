@@ -20,3 +20,5 @@ click
 requests
 allennlp
 pywikibot
+bs4
+conllu

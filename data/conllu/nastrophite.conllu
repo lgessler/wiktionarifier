@@ -1,0 +1,27 @@
+# url = https://en.wiktionary.org/wiki/nastrophite
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	mineralogy	_	_	_	_	_	_	_	Href=/wiki/mineralogy|BIO=B
+3	)	_	_	_	_	_	_	_	BIO=O
+4	An	_	_	_	_	_	_	_	BIO=O
+5	isometric	_	_	_	_	_	_	_	BIO=O
+6	-	_	_	_	_	_	_	_	BIO=O
+7	tetartoidal	_	_	_	_	_	_	_	BIO=O
+8	colorless	_	_	_	_	_	_	_	BIO=O
+9	mineral	_	_	_	_	_	_	_	Href=/wiki/mineral|BIO=B
+10	containing	_	_	_	_	_	_	_	BIO=O
+11	barium	_	_	_	_	_	_	_	Href=/wiki/barium|BIO=B
+12	,	_	_	_	_	_	_	_	BIO=O
+13	hydrogen	_	_	_	_	_	_	_	Href=/wiki/hydrogen|BIO=B
+14	,	_	_	_	_	_	_	_	BIO=O
+15	oxygen	_	_	_	_	_	_	_	Href=/wiki/oxygen|BIO=B
+16	,	_	_	_	_	_	_	_	BIO=O
+17	phosphorus	_	_	_	_	_	_	_	Href=/wiki/phosphorus|BIO=B
+18	,	_	_	_	_	_	_	_	BIO=O
+19	sodium	_	_	_	_	_	_	_	Href=/wiki/sodium|BIO=B
+20	,	_	_	_	_	_	_	_	BIO=O
+21	and	_	_	_	_	_	_	_	BIO=O
+22	strontium	_	_	_	_	_	_	_	Href=/wiki/strontium|BIO=B
+23	.	_	_	_	_	_	_	_	BIO=O
+
+

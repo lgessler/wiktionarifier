@@ -1,0 +1,44 @@
+# url = https://en.wiktionary.org/wiki/abvolt
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	electricity	_	_	_	_	_	_	_	Href=/wiki/electricity|BIO=B
+3	,	_	_	_	_	_	_	_	BIO=O
+4	electrical	_	_	_	_	_	_	_	Href=/wiki/electrical_engineering|BIO=B
+5	engineering	_	_	_	_	_	_	_	BIO=I
+6	,	_	_	_	_	_	_	_	BIO=O
+7	dated	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#dated|BIO=B
+8	)	_	_	_	_	_	_	_	BIO=O
+9	A	_	_	_	_	_	_	_	BIO=O
+10	unit	_	_	_	_	_	_	_	BIO=O
+11	of	_	_	_	_	_	_	_	BIO=O
+12	electrical	_	_	_	_	_	_	_	BIO=O
+13	potential	_	_	_	_	_	_	_	Href=/wiki/potential|BIO=B
+14	equal	_	_	_	_	_	_	_	BIO=O
+15	to	_	_	_	_	_	_	_	BIO=O
+16	one	_	_	_	_	_	_	_	BIO=O
+17	hundred	_	_	_	_	_	_	_	BIO=O
+18	millionth	_	_	_	_	_	_	_	BIO=O
+19	of	_	_	_	_	_	_	_	BIO=O
+20	a	_	_	_	_	_	_	_	BIO=O
+21	volt	_	_	_	_	_	_	_	Href=/wiki/volt|BIO=B
+22	(	_	_	_	_	_	_	_	BIO=O
+23	10	_	_	_	_	_	_	_	BIO=O
+24	-	_	_	_	_	_	_	_	BIO=O
+25	8	_	_	_	_	_	_	_	BIO=O
+26	volts	_	_	_	_	_	_	_	BIO=O
+27	)	_	_	_	_	_	_	_	BIO=O
+28	,	_	_	_	_	_	_	_	BIO=O
+29	used	_	_	_	_	_	_	_	BIO=O
+30	in	_	_	_	_	_	_	_	BIO=O
+31	the	_	_	_	_	_	_	_	BIO=O
+32	centimeter	_	_	_	_	_	_	_	Href=/wiki/centimeter-gram-second|BIO=B
+33	-	_	_	_	_	_	_	_	BIO=I
+34	gram	_	_	_	_	_	_	_	BIO=I
+35	-	_	_	_	_	_	_	_	BIO=I
+36	second	_	_	_	_	_	_	_	BIO=I
+37	system	_	_	_	_	_	_	_	BIO=O
+38	of	_	_	_	_	_	_	_	BIO=O
+39	units	_	_	_	_	_	_	_	BIO=O
+40	.	_	_	_	_	_	_	_	BIO=O
+
+

@@ -1,8 +1,0 @@
-# url = https://en.wiktionary.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7
-# language = Chinese
-1	(	_	_	_	_	_	_	_	BIO=O
-2	astronomy	_	_	_	_	_	_	_	Href=/wiki/astronomy|BIO=B
-3	)	_	_	_	_	_	_	_	BIO=O
-4	Lyra	_	_	_	_	_	_	_	Href=/wiki/Lyra|BIO=B
-
-

@@ -1,0 +1,9 @@
+# url = https://en.wiktionary.org/wiki/vinyylikloridi
+# language = Finnish
+1	(	_	_	_	_	_	_	_	BIO=O
+2	chemistry	_	_	_	_	_	_	_	Href=/wiki/chemistry|BIO=B
+3	)	_	_	_	_	_	_	_	BIO=O
+4	vinyl	_	_	_	_	_	_	_	Href=/wiki/vinyl_chloride|BIO=B
+5	chloride	_	_	_	_	_	_	_	BIO=I
+
+

@@ -1,9 +1,0 @@
-# url = https://en.wiktionary.org/wiki/blaubl%C3%BCtig
-# language = German
-1	blue	_	_	_	_	_	_	_	Href=/wiki/blue-blooded|BIO=B
-2	-	_	_	_	_	_	_	_	BIO=I
-3	blooded	_	_	_	_	_	_	_	BIO=I
-4	,	_	_	_	_	_	_	_	BIO=O
-5	aristocratic	_	_	_	_	_	_	_	Href=/wiki/aristocratic|BIO=B
-
-

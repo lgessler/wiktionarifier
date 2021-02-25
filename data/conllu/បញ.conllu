@@ -1,0 +1,41 @@
+# url = https://en.wiktionary.org/wiki/%E1%9E%94%E1%9E%89
+# language = Khmer
+1	a	_	_	_	_	_	_	_	BIO=O
+2	form	_	_	_	_	_	_	_	BIO=O
+3	of	_	_	_	_	_	_	_	BIO=O
+4	បំ	_	_	_	_	_	_	_	Href=/wiki/%E1%9E%94%E1%9F%86#Khmer|BIO=B
+5	(	_	_	_	_	_	_	_	BIO=O
+6	bɑm	_	_	_	_	_	_	_	BIO=O
+7	)	_	_	_	_	_	_	_	BIO=O
+8	,	_	_	_	_	_	_	_	BIO=O
+9	a	_	_	_	_	_	_	_	BIO=O
+10	causative	_	_	_	_	_	_	_	Href=/wiki/causative|BIO=B
+11	prefix	_	_	_	_	_	_	_	BIO=O
+12	for	_	_	_	_	_	_	_	BIO=O
+13	verbs	_	_	_	_	_	_	_	BIO=O
+14	,	_	_	_	_	_	_	_	BIO=O
+15	similar	_	_	_	_	_	_	_	BIO=O
+16	to	_	_	_	_	_	_	_	BIO=O
+17	English	_	_	_	_	_	_	_	BIO=O
+18	en-	_	_	_	_	_	_	_	Href=/wiki/en-|BIO=B
+19	.	_	_	_	_	_	_	_	BIO=O
+20	It	_	_	_	_	_	_	_	BIO=O
+21	makes	_	_	_	_	_	_	_	BIO=O
+22	the	_	_	_	_	_	_	_	BIO=O
+23	verb	_	_	_	_	_	_	_	BIO=O
+24	transitive	_	_	_	_	_	_	_	BIO=O
+25	and	_	_	_	_	_	_	_	BIO=O
+26	adds	_	_	_	_	_	_	_	BIO=O
+27	a	_	_	_	_	_	_	_	BIO=O
+28	meaning	_	_	_	_	_	_	_	BIO=O
+29	like	_	_	_	_	_	_	_	BIO=O
+30	make	_	_	_	_	_	_	_	Href=/wiki/make|BIO=B
+31	,	_	_	_	_	_	_	_	BIO=O
+32	to	_	_	_	_	_	_	_	BIO=O
+33	lead	_	_	_	_	_	_	_	Href=/wiki/lead|BIO=B
+34	,	_	_	_	_	_	_	_	BIO=O
+35	to	_	_	_	_	_	_	_	BIO=O
+36	direct	_	_	_	_	_	_	_	Href=/wiki/direct|BIO=B
+37	.	_	_	_	_	_	_	_	BIO=O
+
+

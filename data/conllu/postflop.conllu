@@ -1,0 +1,13 @@
+# url = https://en.wiktionary.org/wiki/postflop
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	poker	_	_	_	_	_	_	_	Href=/wiki/poker|BIO=B
+3	,	_	_	_	_	_	_	_	BIO=O
+4	rare	_	_	_	_	_	_	_	BIO=O
+5	)	_	_	_	_	_	_	_	BIO=O
+6	After	_	_	_	_	_	_	_	BIO=O
+7	the	_	_	_	_	_	_	_	BIO=O
+8	flop	_	_	_	_	_	_	_	Href=/wiki/flop|BIO=B
+9	.	_	_	_	_	_	_	_	BIO=O
+
+

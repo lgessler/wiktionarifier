@@ -15,7 +15,7 @@ from wiktionarifier.format.exceptions import FormatException
 
 def build_tokenizer():
     nlp = spacy.load("en_core_web_md")
-    infixes = nlp.Defaults.infixes + [r'(<)']
+    infixes = nlp.Defaults.infixes + (r'(<)',)
     nlp.tokenizer.infix_finditer = spacy.util.compile_infix_regex(infixes).finditer
     nlp.tokenizer.add_special_case(f"<a>", [{ORTH: f"<a>"}])
     nlp.tokenizer.add_special_case(f"</a>", [{ORTH: f"</a>"}])
@@ -208,7 +208,7 @@ def find_entries(tokenizer, soup):
                 t = t.text
                 # rehydrate <a> tags using the a_attrs list we got earlier
                 if t == '<a>':
-                    soup = BeautifulSoup('<a></a>').find('a')
+                    soup = BeautifulSoup('<a></a>', features="html.parser").find('a')
                     soup.attrs = a_attrs[i]
                     t = str(soup)[:-4]
                     i += 1
@@ -284,10 +284,10 @@ def format(input_dir, output_dir):
 
     tokenizer = build_tokenizer()
     texts = db.MWText().select()
-    with open(os.path.join(output_dir, '_all.conllu'), 'w') as f:
+    with open(os.path.join(output_dir, '_all.conllu'), 'w', encoding='utf-8') as f:
         f.write('')
 
-    with open(os.path.join(output_dir, '_all.conllu'), 'a') as f1:
+    with open(os.path.join(output_dir, '_all.conllu'), 'a', encoding='utf-8') as f1:
         for text in tqdm(texts):
             filepath = os.path.join(output_dir, text.file_safe_url + '.conllu')
             soup = BeautifulSoup(text.html, features="html.parser").find('body')
@@ -295,7 +295,7 @@ def format(input_dir, output_dir):
             entries = find_entries(tokenizer, soup)
             conllu_string = format_conllu(text, entries)
             f1.write(conllu_string)
-            with open(filepath, 'w') as f2:
+            with open(filepath, 'w', encoding='utf-8') as f2:
                 f2.write(conllu_string)
 
 

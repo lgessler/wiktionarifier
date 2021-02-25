@@ -1,0 +1,29 @@
+# url = https://en.wiktionary.org/wiki/nimetazepam
+# language = English
+1	(	_	_	_	_	_	_	_	BIO=O
+2	pharmacology	_	_	_	_	_	_	_	Href=/wiki/pharmacology|BIO=B
+3	)	_	_	_	_	_	_	_	BIO=O
+4	A	_	_	_	_	_	_	_	BIO=O
+5	benzodiazepine	_	_	_	_	_	_	_	Href=/wiki/benzodiazepine|BIO=B
+6	drug	_	_	_	_	_	_	_	BIO=O
+7	with	_	_	_	_	_	_	_	BIO=O
+8	hypnotic	_	_	_	_	_	_	_	Href=/wiki/hypnotic|BIO=B
+9	,	_	_	_	_	_	_	_	BIO=O
+10	anxiolytic	_	_	_	_	_	_	_	Href=/wiki/anxiolytic|BIO=B
+11	,	_	_	_	_	_	_	_	BIO=O
+12	sedative	_	_	_	_	_	_	_	Href=/wiki/sedative|BIO=B
+13	,	_	_	_	_	_	_	_	BIO=O
+14	and	_	_	_	_	_	_	_	BIO=O
+15	skeletal	_	_	_	_	_	_	_	Href=/wiki/skeletal_muscle|BIO=B
+16	muscle	_	_	_	_	_	_	_	BIO=I
+17	relaxant	_	_	_	_	_	_	_	Href=/wiki/relaxant|BIO=B
+18	properties	_	_	_	_	_	_	_	BIO=O
+19	,	_	_	_	_	_	_	_	BIO=O
+20	generally	_	_	_	_	_	_	_	BIO=O
+21	used	_	_	_	_	_	_	_	BIO=O
+22	to	_	_	_	_	_	_	_	BIO=O
+23	treat	_	_	_	_	_	_	_	BIO=O
+24	insomnia	_	_	_	_	_	_	_	Href=/wiki/insomnia|BIO=B
+25	.	_	_	_	_	_	_	_	BIO=O
+
+
