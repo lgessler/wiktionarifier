@@ -1,16 +1,16 @@
 # url = https://en.wiktionary.org/wiki/xilose
 # language = Portuguese
 1	(	_	_	_	_	_	_	_	BIO=O
-2	organic	_	_	_	_	_	_	_	Href=/wiki/organic_chemistry|BIO=B
-3	chemistry	_	_	_	_	_	_	_	BIO=I
-4	)	_	_	_	_	_	_	_	BIO=O
-5	xylose	_	_	_	_	_	_	_	Href=/wiki/xylose#English|BIO=B
-6	(	_	_	_	_	_	_	_	BIO=O
-7	a	_	_	_	_	_	_	_	BIO=O
-8	sugar	_	_	_	_	_	_	_	BIO=O
-9	derived	_	_	_	_	_	_	_	BIO=O
-10	from	_	_	_	_	_	_	_	BIO=O
-11	wood	_	_	_	_	_	_	_	BIO=O
-12	)	_	_	_	_	_	_	_	BIO=O
+3	organic	_	_	_	_	_	_	_	Href=/wiki/organic_chemistry|BIO=B
+4	chemistry	_	_	_	_	_	_	_	BIO=L
+6	)	_	_	_	_	_	_	_	BIO=O
+9	xylose	_	_	_	_	_	_	_	Href=/wiki/xylose#English|BIO=U
+12	(	_	_	_	_	_	_	_	BIO=O
+13	a	_	_	_	_	_	_	_	BIO=O
+14	sugar	_	_	_	_	_	_	_	BIO=O
+15	derived	_	_	_	_	_	_	_	BIO=O
+16	from	_	_	_	_	_	_	_	BIO=O
+17	wood	_	_	_	_	_	_	_	BIO=O
+18	)	_	_	_	_	_	_	_	BIO=O
 
 

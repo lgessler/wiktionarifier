@@ -2,22 +2,22 @@
 # language = Belarusian
 1	A	_	_	_	_	_	_	_	BIO=O
 2	male	_	_	_	_	_	_	_	BIO=O
-3	given	_	_	_	_	_	_	_	Href=/wiki/given_name|BIO=B
-4	name	_	_	_	_	_	_	_	BIO=I
-5	,	_	_	_	_	_	_	_	BIO=O
-6	Filip	_	_	_	_	_	_	_	Href=/wiki/Filip#English|BIO=B
-7	,	_	_	_	_	_	_	_	BIO=O
-8	equivalent	_	_	_	_	_	_	_	BIO=O
-9	to	_	_	_	_	_	_	_	BIO=O
-10	English	_	_	_	_	_	_	_	BIO=O
-11	Philip	_	_	_	_	_	_	_	Href=/wiki/Philip#English|BIO=B
+5	given	_	_	_	_	_	_	_	Href=/wiki/given_name|BIO=B
+6	name	_	_	_	_	_	_	_	BIO=L
+8	,	_	_	_	_	_	_	_	BIO=O
+11	Filip	_	_	_	_	_	_	_	Href=/wiki/Filip#English|BIO=U
+13	,	_	_	_	_	_	_	_	BIO=O
+14	equivalent	_	_	_	_	_	_	_	BIO=O
+15	to	_	_	_	_	_	_	_	BIO=O
+16	English	_	_	_	_	_	_	_	BIO=O
+19	Philip	_	_	_	_	_	_	_	Href=/wiki/Philip#English|BIO=U
 
 
 # url = https://en.wiktionary.org/wiki/%D0%A4%D1%96%D0%BB%D1%96%D0%BF
 # language = Kazakh
 1	(	_	_	_	_	_	_	_	BIO=O
-2	biblical	_	_	_	_	_	_	_	Href=/wiki/Bible|BIO=B
-3	)	_	_	_	_	_	_	_	BIO=O
-4	Philip	_	_	_	_	_	_	_	Href=/wiki/Philip|BIO=B
+3	biblical	_	_	_	_	_	_	_	Href=/wiki/Bible|BIO=U
+5	)	_	_	_	_	_	_	_	BIO=O
+8	Philip	_	_	_	_	_	_	_	Href=/wiki/Philip|BIO=U
 
 

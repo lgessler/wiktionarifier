@@ -235,37 +235,41 @@ def format_conllu(text, entries):
             href = None
             inside_link = False
 
-            i = 0
-            for token in entry:
+            token_attrs_list = [{
+                "id": i + 1,
+                "form": token,
+                "lemma": None,
+                "upos": None,
+                "xpos": None,
+                "feats": None,
+                "head": None,
+                "deprel": None,
+                "deps": None,
+                "misc": {}
+            } for i, token in enumerate(entry)]
+            for token_index, (token, token_attrs) in enumerate(zip(entry, token_attrs_list)):
                 if token[:3] == '<a ':
                     href = BeautifulSoup(token + '</a>', features="html.parser").find('a').attrs['href']
                     inside_link = True
                 elif token == '</a>':
                     inside_link = False
                 elif not token.isspace():
-                    i += 1
-                    tattrs = {
-                        "id": i,
-                        "form": token,
-                        "lemma": None,
-                        "upos": None,
-                        "xpos": None,
-                        "feats": None,
-                        "head": None,
-                        "deprel": None,
-                        "deps": None,
-                        "misc": {}
-                    }
                     if href:
-                        tattrs['misc']['Href'] = href
-                        tattrs['misc']['BIO'] = 'B'
+                        token_attrs['misc']['Href'] = href
+                        if entry[token_index + 1] == '</a>':
+                            token_attrs['misc']['BIO'] = 'U'
+                        else:
+                            token_attrs['misc']['BIO'] = 'B'
                         href = None
                     elif inside_link:
-                        tattrs['misc']['BIO'] = 'I'
+                        if entry[token_index + 1] == '</a>':
+                            token_attrs['misc']['BIO'] = 'L'
+                        else:
+                            token_attrs['misc']['BIO'] = 'I'
                     else:
-                        tattrs['misc']['BIO'] = 'O'
+                        token_attrs['misc']['BIO'] = 'O'
 
-                    tokens.append(tattrs)
+                    tokens.append(token_attrs)
 
             token_list = TokenList(tokens)
             token_list.metadata['url'] = text.url

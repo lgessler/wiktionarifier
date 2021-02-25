@@ -1,13 +1,13 @@
 # url = https://en.wiktionary.org/wiki/%EC%BD%94%EB%84%88
 # language = Korean
-1	corner	_	_	_	_	_	_	_	Href=/wiki/corner|BIO=B
-2	(	_	_	_	_	_	_	_	BIO=O
-3	clarification	_	_	_	_	_	_	_	BIO=O
-4	of	_	_	_	_	_	_	_	BIO=O
-5	this	_	_	_	_	_	_	_	BIO=O
-6	definition	_	_	_	_	_	_	_	BIO=O
-7	is	_	_	_	_	_	_	_	BIO=O
-8	needed	_	_	_	_	_	_	_	BIO=O
-9	)	_	_	_	_	_	_	_	BIO=O
+3	corner	_	_	_	_	_	_	_	Href=/wiki/corner|BIO=U
+6	(	_	_	_	_	_	_	_	BIO=O
+7	clarification	_	_	_	_	_	_	_	BIO=O
+8	of	_	_	_	_	_	_	_	BIO=O
+9	this	_	_	_	_	_	_	_	BIO=O
+10	definition	_	_	_	_	_	_	_	BIO=O
+11	is	_	_	_	_	_	_	_	BIO=O
+12	needed	_	_	_	_	_	_	_	BIO=O
+13	)	_	_	_	_	_	_	_	BIO=O
 
 

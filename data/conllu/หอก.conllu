@@ -1,9 +1,9 @@
 # url = https://en.wiktionary.org/wiki/%E0%B8%AB%E0%B8%AD%E0%B8%81
 # language = Pronunciation
-1	spear	_	_	_	_	_	_	_	Href=/wiki/spear|BIO=B
-2	(	_	_	_	_	_	_	_	BIO=O
-3	weapon	_	_	_	_	_	_	_	BIO=O
-4	)	_	_	_	_	_	_	_	BIO=O
-5	.	_	_	_	_	_	_	_	BIO=O
+3	spear	_	_	_	_	_	_	_	Href=/wiki/spear|BIO=U
+6	(	_	_	_	_	_	_	_	BIO=O
+7	weapon	_	_	_	_	_	_	_	BIO=O
+8	)	_	_	_	_	_	_	_	BIO=O
+9	.	_	_	_	_	_	_	_	BIO=O
 
 

@@ -5,15 +5,15 @@
 3	105	_	_	_	_	_	_	_	BIO=O
 4	counties	_	_	_	_	_	_	_	BIO=O
 5	in	_	_	_	_	_	_	_	BIO=O
-6	Kansas	_	_	_	_	_	_	_	Href=/wiki/Kansas#English|BIO=B
-7	,	_	_	_	_	_	_	_	BIO=O
-8	United	_	_	_	_	_	_	_	Href=/wiki/United_States#English|BIO=B
-9	States	_	_	_	_	_	_	_	BIO=I
-10	.	_	_	_	_	_	_	_	BIO=O
-11	County	_	_	_	_	_	_	_	BIO=O
-12	seat	_	_	_	_	_	_	_	BIO=O
-13	:	_	_	_	_	_	_	_	BIO=O
-14	Atwood	_	_	_	_	_	_	_	Href=/wiki/Atwood#English|BIO=B
-15	.	_	_	_	_	_	_	_	BIO=O
+8	Kansas	_	_	_	_	_	_	_	Href=/wiki/Kansas#English|BIO=U
+10	,	_	_	_	_	_	_	_	BIO=O
+13	United	_	_	_	_	_	_	_	Href=/wiki/United_States#English|BIO=B
+14	States	_	_	_	_	_	_	_	BIO=L
+16	.	_	_	_	_	_	_	_	BIO=O
+17	County	_	_	_	_	_	_	_	BIO=O
+18	seat	_	_	_	_	_	_	_	BIO=O
+19	:	_	_	_	_	_	_	_	BIO=O
+22	Atwood	_	_	_	_	_	_	_	Href=/wiki/Atwood#English|BIO=U
+24	.	_	_	_	_	_	_	_	BIO=O
 
 

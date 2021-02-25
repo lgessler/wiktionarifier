@@ -1,10 +1,10 @@
 # url = https://en.wiktionary.org/wiki/effroi
 # language = French
 1	(	_	_	_	_	_	_	_	BIO=O
-2	literary	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#literary|BIO=B
-3	)	_	_	_	_	_	_	_	BIO=O
-4	terror	_	_	_	_	_	_	_	Href=/wiki/terror|BIO=B
-5	,	_	_	_	_	_	_	_	BIO=O
-6	dread	_	_	_	_	_	_	_	Href=/wiki/dread|BIO=B
+3	literary	_	_	_	_	_	_	_	Href=/wiki/Appendix:Glossary#literary|BIO=U
+5	)	_	_	_	_	_	_	_	BIO=O
+8	terror	_	_	_	_	_	_	_	Href=/wiki/terror|BIO=U
+10	,	_	_	_	_	_	_	_	BIO=O
+13	dread	_	_	_	_	_	_	_	Href=/wiki/dread|BIO=U
 
 
