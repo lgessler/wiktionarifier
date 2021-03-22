@@ -260,17 +260,17 @@ def format_conllu(text, entries):
                     if href:
                         token_attrs['misc']['Href'] = href
                         if entry[token_index + 1] == '</a>':
-                            token_attrs['misc']['BIO'] = 'U'
+                            token_attrs['misc']['BIOLU'] = 'U'
                         else:
-                            token_attrs['misc']['BIO'] = 'B'
+                            token_attrs['misc']['BIOLU'] = 'B'
                         href = None
                     elif inside_link:
                         if entry[token_index + 1] == '</a>':
-                            token_attrs['misc']['BIO'] = 'L'
+                            token_attrs['misc']['BIOLU'] = 'L'
                         else:
-                            token_attrs['misc']['BIO'] = 'I'
+                            token_attrs['misc']['BIOLU'] = 'I'
                     else:
-                        token_attrs['misc']['BIO'] = 'O'
+                        token_attrs['misc']['BIOLU'] = 'O'
 
                     tokens.append(token_attrs)
 
@@ -283,7 +283,7 @@ def format_conllu(text, entries):
     return "".join([sentence.serialize() + "\n" for sentence in sentences])
 
 
-def format(input_dir, output_dir):
+def format(input_dir, output_dir, write_individual_files=False):
     if not os.path.exists(output_dir):
         click.echo(f"Output dir {output_dir} does not exist. Creating...")
         os.makedirs(output_dir, exist_ok=True)
