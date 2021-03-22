@@ -26,9 +26,7 @@ class MWText(BaseModel):
     sqlite_created_at = pw.DateTimeField(default=datetime.datetime.now)
 
 
-def add_text(
-    mediawiki_link, url, rev_id, text, html, title, file_safe_url, created_at, modified_at
-):
+def add_text(mediawiki_link, url, rev_id, text, html, title, file_safe_url, created_at, modified_at):
     return MWText.create(
         mediawiki_link=mediawiki_link,
         url=url,
@@ -38,7 +36,7 @@ def add_text(
         title=title,
         file_safe_url=file_safe_url,
         created_at=created_at,
-        modified_at=modified_at
+        modified_at=modified_at,
     )
 
 

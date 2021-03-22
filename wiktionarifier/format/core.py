@@ -15,7 +15,7 @@ from wiktionarifier.format.exceptions import FormatException
 
 def build_tokenizer():
     nlp = spacy.load("en_core_web_md")
-    infixes = nlp.Defaults.infixes + (r'(<)',)
+    infixes = nlp.Defaults.infixes + (r"(<)",)
     nlp.tokenizer.infix_finditer = spacy.util.compile_infix_regex(infixes).finditer
     nlp.tokenizer.add_special_case(f"<a>", [{ORTH: f"<a>"}])
     nlp.tokenizer.add_special_case(f"</a>", [{ORTH: f"</a>"}])
@@ -77,48 +77,42 @@ def excise_elements(soup, css_selectors=()):
 
 
 def clean_html(soup):
-    soup = discard_elements(soup, [
-        'script',
-        'style',
-        'audio',
-        'video',
-        'hr',
-        'img',
-        '.interlanguage-link-target',
-        'label',
-        'footer',
-        'nav',
-        '#mw-toc-heading',
-        '[class*=toclevel-]',
-        '.mw-editsection'
-    ])
-    soup = excise_elements(soup, [
-        'head',
-        'html',
-        'div',
-        'span',
-        'b'
-    ])
+    soup = discard_elements(
+        soup,
+        [
+            "script",
+            "style",
+            "audio",
+            "video",
+            "hr",
+            "img",
+            ".interlanguage-link-target",
+            "label",
+            "footer",
+            "nav",
+            "#mw-toc-heading",
+            "[class*=toclevel-]",
+            ".mw-editsection",
+        ],
+    )
+    soup = excise_elements(soup, ["head", "html", "div", "span", "b"])
     soup = discard_comments(soup)
     soup = discard_empty_elements(soup)
     return soup
 
 
 def is_language_header(node):
-    return node.name in ['h2', 'h3'] \
-           and node.text not in NON_DEFINITION_HEADINGS \
-           and not is_pos_header(node)
+    return node.name in ["h2", "h3"] and node.text not in NON_DEFINITION_HEADINGS and not is_pos_header(node)
 
 
 def is_pos_header(node):
-    return node.name in ['h3', 'h4'] \
-           and node.text in VALID_POS
+    return node.name in ["h3", "h4"] and node.text in VALID_POS
 
 
 def remove_a_attrs(soup):
     attrs = []
     for node in soup.find_all():
-        if node.name is not None and node.name == 'a':
+        if node.name is not None and node.name == "a":
             attrs.append(node.attrs)
             node.attrs = {}
     return soup, attrs
@@ -159,7 +153,7 @@ def find_entries(tokenizer, soup):
         tag_type = node.name
 
         # keep track of ALL of these headers as we traverse the document
-        if tag_type in ['h2', 'h3', 'h4']:
+        if tag_type in ["h2", "h3", "h4"]:
             headers.append((int(tag_type[-1]), node.text))
 
         # if we encounter a header that looks like a POS header, begin reading entries
@@ -169,15 +163,14 @@ def find_entries(tokenizer, soup):
         if is_pos_header(node):
             reading_entries = True
             pos_header_level = int(tag_type[-1])
-            parent_titles = [title for level, title in headers
-                             if level == pos_header_level - 1]
+            parent_titles = [title for level, title in headers if level == pos_header_level - 1]
             if len(parent_titles) == 0:
                 raise FormatException(
                     "Found a definition entry that does not appear to be nested under a language header"
                 )
             language_name = parent_titles[-1]
         # Read definitions if the flag is set and the node is <li>
-        elif reading_entries and tag_type == 'li':
+        elif reading_entries and tag_type == "li":
             # If this is the first <li> we're reading, hold a ref to its parent
             if li_container is None:
                 li_container = node.parent
@@ -197,9 +190,7 @@ def find_entries(tokenizer, soup):
             # to make tokenization simpler, remove attrs from all <a> elements and store them in a separate list
             inner_content, a_attrs = remove_a_attrs(inner_content)
             # get the tokens with the dehydrated <a> tags
-            tokenized = tokenizer(str(inner_content)
-                                  .replace('</a>', ' </a> ')
-                                  .replace('<a>', ' <a> '))
+            tokenized = tokenizer(str(inner_content).replace("</a>", " </a> ").replace("<a>", " <a> "))
 
             # build the list of final tokens
             tokens = []
@@ -207,8 +198,8 @@ def find_entries(tokenizer, soup):
             for t in tokenized:
                 t = t.text
                 # rehydrate <a> tags using the a_attrs list we got earlier
-                if t == '<a>':
-                    soup = BeautifulSoup('<a></a>', features="html.parser").find('a')
+                if t == "<a>":
+                    soup = BeautifulSoup("<a></a>", features="html.parser").find("a")
                     soup.attrs = a_attrs[i]
                     t = str(soup)[:-4]
                     i += 1
@@ -217,9 +208,11 @@ def find_entries(tokenizer, soup):
             entries[language_name].append(tokens)
         # We're done reading entries if we run into a header that's at least as high as the
         # POS tag header (if not higher)
-        elif reading_entries \
-                and tag_type in [f'h{i}' for i in range(1, pos_header_level + 1)] \
-                and int(tag_type[-1]) == pos_header_level:
+        elif (
+            reading_entries
+            and tag_type in [f"h{i}" for i in range(1, pos_header_level + 1)]
+            and int(tag_type[-1]) == pos_header_level
+        ):
             li_container = None
             reading_entries = False
             pos_header_level = None
@@ -229,54 +222,57 @@ def find_entries(tokenizer, soup):
 
 def format_conllu(text, entries):
     sentences = []
-    for language_name, entries in sorted(entries.items(), key=lambda x:x[0]):
+    for language_name, entries in sorted(entries.items(), key=lambda x: x[0]):
         for entry in entries:
             tokens = []
             href = None
             inside_link = False
 
-            token_attrs_list = [{
-                "id": 0,
-                "form": token,
-                "lemma": None,
-                "upos": None,
-                "xpos": None,
-                "feats": None,
-                "head": None,
-                "deprel": None,
-                "deps": None,
-                "misc": {}
-            } for i, token in enumerate(entry)]
+            token_attrs_list = [
+                {
+                    "id": 0,
+                    "form": token,
+                    "lemma": None,
+                    "upos": None,
+                    "xpos": None,
+                    "feats": None,
+                    "head": None,
+                    "deprel": None,
+                    "deps": None,
+                    "misc": {},
+                }
+                for i, token in enumerate(entry)
+            ]
             token_count = 0
             for token_index, (token, token_attrs) in enumerate(zip(entry, token_attrs_list)):
-                if token[:3] == '<a ':
-                    href = BeautifulSoup(token + '</a>', features="html.parser").find('a').attrs['href']
+                if token[:3] == "<a ":
+                    href = BeautifulSoup(token + "</a>", features="html.parser").find("a").attrs["href"]
                     inside_link = True
-                elif token == '</a>':
+                elif token == "</a>":
                     inside_link = False
                 elif not token.isspace():
                     token_count += 1
-                    token_attrs['id'] = token_count
+                    token_attrs["id"] = token_count
                     if href:
-                        token_attrs['misc']['Href'] = href
-                        if entry[token_index + 1] == '</a>':
-                            token_attrs['misc']['BIOLU'] = 'U'
+                        token_attrs["misc"]["Href"] = href
+                        if entry[token_index + 1] == "</a>":
+                            token_attrs["misc"]["BIOLU"] = "U"
                         else:
-                            token_attrs['misc']['BIOLU'] = 'B'
+                            token_attrs["misc"]["BIOLU"] = "B"
                         href = None
                     elif inside_link:
-                        if entry[token_index + 1] == '</a>':
-                            token_attrs['misc']['BIOLU'] = 'L'
+                        if entry[token_index + 1] == "</a>":
+                            token_attrs["misc"]["BIOLU"] = "L"
                         else:
-                            token_attrs['misc']['BIOLU'] = 'I'
+                            token_attrs["misc"]["BIOLU"] = "I"
                     else:
-                        token_attrs['misc']['BIOLU'] = 'O'
+                        token_attrs["misc"]["BIOLU"] = "O"
 
                     tokens.append(token_attrs)
 
             token_list = TokenList(tokens)
-            token_list.metadata['url'] = text.url
-            token_list.metadata['language'] = language_name
+            token_list.metadata["url"] = text.url
+            token_list.metadata["language"] = language_name
 
             sentences.append(token_list)
 
@@ -291,18 +287,16 @@ def format(input_dir, output_dir, write_individual_files=False):
 
     tokenizer = build_tokenizer()
     texts = db.MWText().select()
-    with open(os.path.join(output_dir, '_all.conllu'), 'w', encoding='utf-8') as f:
-        f.write('')
+    with open(os.path.join(output_dir, "_all.conllu"), "w", encoding="utf-8") as f:
+        f.write("")
 
-    with open(os.path.join(output_dir, '_all.conllu'), 'a', encoding='utf-8') as f1:
+    with open(os.path.join(output_dir, "_all.conllu"), "a", encoding="utf-8") as f1:
         for text in tqdm(texts):
-            filepath = os.path.join(output_dir, text.file_safe_url + '.conllu')
-            soup = BeautifulSoup(text.html, features="html.parser").find('body')
+            filepath = os.path.join(output_dir, text.file_safe_url + ".conllu")
+            soup = BeautifulSoup(text.html, features="html.parser").find("body")
             soup = clean_html(soup)
             entries = find_entries(tokenizer, soup)
             conllu_string = format_conllu(text, entries)
             f1.write(conllu_string)
-            with open(filepath, 'w', encoding='utf-8') as f2:
+            with open(filepath, "w", encoding="utf-8") as f2:
                 f2.write(conllu_string)
-
-

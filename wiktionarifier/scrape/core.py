@@ -6,8 +6,9 @@ import wiktionarifier.scrape.db as db
 
 
 def process_page(page):
-    if not any(' lemma' in cat.title().lower() for cat in page.categories()) \
-            or any('non-lemma' in cat.title().lower() for cat in page.categories()):
+    if not any(" lemma" in cat.title().lower() for cat in page.categories()) or any(
+        "non-lemma" in cat.title().lower() for cat in page.categories()
+    ):
         click.secho("\tPage doesn't appear to be a lemma, skipping", fg="yellow")
         return page.full_url(), True
     mediawiki_link = str(page)
@@ -42,10 +43,11 @@ def process_page(page):
         latest_revision_time,
     )
     return url, False
-    
+
 
 def scrape(output_dir, wiktionary_language, strategy, max_pages, overwrite):
     import pywikibot
+
     site = pywikibot.Site(code=wiktionary_language, fam="wiktionary")
     site.login()
 
@@ -61,12 +63,12 @@ def scrape(output_dir, wiktionary_language, strategy, max_pages, overwrite):
     count = db.mwtext_count()
     click.echo(f"Initialized connection with {count} existing records.")
 
-    if strategy == 'inorder':
+    if strategy == "inorder":
         last_visited = db.get_last_modified()
         if last_visited is not None:
             click.echo(f"Resuming scraping session beginning from {last_visited.url}...")
-        pages = site.allpages(start=last_visited.title if last_visited is not None else '!')
-    elif strategy == 'random':
+        pages = site.allpages(start=last_visited.title if last_visited is not None else "!")
+    elif strategy == "random":
         pages = site.randompages()
     else:
         raise Exception(f"Unknown scraping strategy: `{strategy}`")
@@ -81,4 +83,3 @@ def scrape(output_dir, wiktionary_language, strategy, max_pages, overwrite):
             click.secho(f"[{count}/{max_pages}] Skipping {url}", fg="yellow")
         else:
             click.secho(f"[{count}/{max_pages}] Processed {url}", dim=True)
-
