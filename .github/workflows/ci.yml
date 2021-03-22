@@ -41,12 +41,12 @@ jobs:
     - name: Black
       if: always()
       run: |
-        black . -l 120 --check --exclude sharedtask2021
+        black . -l 120 --check
 
     - name: Flake8
       if: always()
       run: |
-        flake8 . --exclude sharedtask2021
+        flake8 .
 
     - name: PyTest
       if: always()
