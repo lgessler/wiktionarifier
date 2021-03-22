@@ -3,6 +3,7 @@ from collections import defaultdict
 
 import click
 import spacy
+from allennlp.common.logging import logger
 from spacy.symbols import ORTH
 from bs4 import BeautifulSoup, Comment
 from tqdm import tqdm
@@ -15,7 +16,7 @@ from wiktionarifier.format.exceptions import FormatException
 
 def build_tokenizer():
     nlp = spacy.load("en_core_web_md")
-    infixes = nlp.Defaults.infixes + (r"(<)",)
+    infixes = nlp.Defaults.infixes + [r"(<)"]
     nlp.tokenizer.infix_finditer = spacy.util.compile_infix_regex(infixes).finditer
     nlp.tokenizer.add_special_case("<a>", [{ORTH: "<a>"}])
     nlp.tokenizer.add_special_case("</a>", [{ORTH: "</a>"}])
@@ -118,7 +119,7 @@ def remove_a_attrs(soup):
     return soup, attrs
 
 
-def find_entries(tokenizer, soup):
+def find_entries(tokenizer, text, soup):
     """
     Given parsed HTML for a wiktionary page, use heuristics to find the dictionary
     entries for each language on the page. The heuristics assume that entries
@@ -128,6 +129,7 @@ def find_entries(tokenizer, soup):
 
     Args:
         tokenizer: spacy tokenizer that knows how to tokenize <a> and </a>
+        text: SQLite text object
         soup: parsed page HTML
 
     Returns:
@@ -161,13 +163,15 @@ def find_entries(tokenizer, soup):
         # higher than the POS header's level. E.g. if we find <h3>Noun</h3> and our last <h2>
         # element was <h2>English</h2>, the language name is English
         if is_pos_header(node):
-            reading_entries = True
             pos_header_level = int(tag_type[-1])
             parent_titles = [title for level, title in headers if level == pos_header_level - 1]
             if len(parent_titles) == 0:
-                raise FormatException(
-                    "Found a definition entry that does not appear to be nested under a language header"
+                logger.warn(
+                    f"Found a definition entry that does not appear to be nested under a language header on {text.url}"
                 )
+                pos_header_level = None
+                continue
+            reading_entries = True
             language_name = parent_titles[-1]
         # Read definitions if the flag is set and the node is <li>
         elif reading_entries and tag_type == "li":
@@ -295,8 +299,9 @@ def format(input_dir, output_dir, write_individual_files=False):
             filepath = os.path.join(output_dir, text.file_safe_url + ".conllu")
             soup = BeautifulSoup(text.html, features="html.parser").find("body")
             soup = clean_html(soup)
-            entries = find_entries(tokenizer, soup)
+            entries = find_entries(tokenizer, text, soup)
             conllu_string = format_conllu(text, entries)
             f1.write(conllu_string)
-            with open(filepath, "w", encoding="utf-8") as f2:
-                f2.write(conllu_string)
+            if write_individual_files:
+                with open(filepath, "w", encoding="utf-8") as f2:
+                    f2.write(conllu_string)
