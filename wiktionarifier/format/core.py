@@ -17,8 +17,8 @@ def build_tokenizer():
     nlp = spacy.load("en_core_web_md")
     infixes = nlp.Defaults.infixes + (r"(<)",)
     nlp.tokenizer.infix_finditer = spacy.util.compile_infix_regex(infixes).finditer
-    nlp.tokenizer.add_special_case(f"<a>", [{ORTH: f"<a>"}])
-    nlp.tokenizer.add_special_case(f"</a>", [{ORTH: f"</a>"}])
+    nlp.tokenizer.add_special_case("<a>", [{ORTH: "<a>"}])
+    nlp.tokenizer.add_special_case("</a>", [{ORTH: "</a>"}])
     return nlp
 
 
