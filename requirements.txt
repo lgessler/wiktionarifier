@@ -22,3 +22,6 @@ allennlp
 pywikibot
 bs4
 conllu
+flake8
+pytest
+allennlp>=2.0,<3.0
