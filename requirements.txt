@@ -23,5 +23,6 @@ pywikibot
 bs4
 conllu
 flake8
+black
 pytest
 allennlp>=2.0,<3.0
